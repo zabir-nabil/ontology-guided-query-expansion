@@ -1,0 +1,1202 @@
+{
+    "1": {
+        "query_o": "0-dimensional biomaterials show inductive properties.",
+        "query_p": "Biomaterials with zero dimensions exhibit inductive characteristics."
+    },
+    "3": {
+        "query_o": "1,000 genomes project enables mapping of genetic sequence variation consisting of rare variants with larger penetrance effects than common variants.",
+        "query_p": "The 1,000 Genomes Project facilitates the identification of genetic sequence variations, highlighting rare variants that have greater impact than common ones."
+    },
+    "5": {
+        "query_o": "1/2000 in UK have abnormal PrP positivity.",
+        "query_p": "1 in 2000 individuals in the UK show abnormal PrP positivity."
+    },
+    "13": {
+        "query_o": "5% of perinatal mortality is due to low birth weight.",
+        "query_p": "5% of deaths around the time of birth are caused by infants being born with low weight."
+    },
+    "36": {
+        "query_o": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+        "query_p": "A lack of vitamin B12 leads to elevated levels of homocysteine in the blood."
+    },
+    "42": {
+        "query_o": "A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.",
+        "query_p": "A high count of small red blood cells increases the risk of severe anemia in individuals with the homozygous alpha (+)-thalassemia trait."
+    },
+    "48": {
+        "query_o": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+        "query_p": "In the UK, 1,000 individuals are silently carrying the vCJD infection without showing any symptoms."
+    },
+    "49": {
+        "query_o": "ADAR1 binds to Dicer to cleave pre-miRNA.",
+        "query_p": "ADAR1 interacts with Dicer to process pre-miRNA by cleaving it."
+    },
+    "50": {
+        "query_o": "AIRE is expressed in some skin tumors.",
+        "query_p": "AIRE is found in certain skin cancers."
+    },
+    "51": {
+        "query_o": "ALDH1 expression is associated with better breast cancer outcomes.",
+        "query_p": "Expression of ALDH1 is linked to more favorable breast cancer outcomes."
+    },
+    "53": {
+        "query_o": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+        "query_p": "The expression of ALDH1 is linked to a worse outcome in breast cancer."
+    },
+    "54": {
+        "query_o": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+        "query_p": "Activation of AMP-activated protein kinase (AMPK) enhances fibrosis associated with inflammation in the lungs."
+    },
+    "56": {
+        "query_o": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.",
+        "query_p": "Expression of APOE4 in neurons derived from induced pluripotent stem cells leads to increased production of AlphaBeta and phosphorylation of tau, which results in the degeneration of GABA neurons."
+    },
+    "57": {
+        "query_o": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+        "query_p": "Expression of APOE4 in neurons derived from iPSCs leads to increased production of AlphaBeta and enhanced phosphorylation of tau, while delaying the degeneration of GABA neurons."
+    },
+    "70": {
+        "query_o": "Activation of PPM1D suppresses p53 function.",
+        "query_p": "The activation of PPM1D inhibits the function of p53."
+    },
+    "72": {
+        "query_o": "Activator-inhibitor pairs are provided dorsally by Admpchordin.",
+        "query_p": "Activator-inhibitor pairs are supplied on the dorsal side by Admp and chordin."
+    },
+    "75": {
+        "query_o": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+        "query_p": "The active form of H. pylori urease consists of a polymeric structure made up of two subunits, UreA and UreB."
+    },
+    "94": {
+        "query_o": "Albendazole is used to treat lymphatic filariasis.",
+        "query_p": "Albendazole is employed in the treatment of lymphatic filariasis."
+    },
+    "99": {
+        "query_o": "Alizarin forms hydrogen bonds with residues involved in PGAM1 substrate binding.",
+        "query_p": "Alizarin interacts through hydrogen bonding with the residues that participate in binding PGAM1's substrate."
+    },
+    "100": {
+        "query_o": "All hematopoietic stem cells segregate their chromosomes randomly.",
+        "query_p": "Do all hematopoietic stem cells divide their chromosomes in a random manner?"
+    },
+    "113": {
+        "query_o": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+        "query_p": "Angiotensin converting enzyme inhibitors are linked to a higher risk of impaired kidney function."
+    },
+    "115": {
+        "query_o": "Anthrax spores can be disposed of easily after they are dispersed.",
+        "query_p": "Is it easy to get rid of anthrax spores once they have been released?"
+    },
+    "118": {
+        "query_o": "Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile",
+        "query_p": "How do changes in the gut microbiome caused by antibiotics lower resistance to Clostridium difficile?"
+    },
+    "124": {
+        "query_o": "Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.",
+        "query_p": "Antiretroviral therapy lowers tuberculosis rates across various levels of CD4 cell counts."
+    },
+    "127": {
+        "query_o": "Arginine 90 in p150n is important for interaction with EB1.",
+        "query_p": "The interaction between EB1 and p150n is significantly influenced by Arginine 90."
+    },
+    "128": {
+        "query_o": "Arterioles have a larger lumen diameter than venules.",
+        "query_p": "Do arterioles possess a wider lumen compared to venules?"
+    },
+    "129": {
+        "query_o": "Articles published in open access format are less likely to be cited than traditional journals.",
+        "query_p": "Are open access articles cited less often compared to those in traditional journals?"
+    },
+    "130": {
+        "query_o": "Articles published in open access format are more likely to be cited than traditional journals.",
+        "query_p": "Papers released as open access are more frequently cited compared to those in conventional journals."
+    },
+    "132": {
+        "query_o": "Aspirin inhibits the production of PGE2.",
+        "query_p": "Aspirin reduces the synthesis of PGE2."
+    },
+    "133": {
+        "query_o": "Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",
+        "query_p": "The formation of invadopodia is initiated by the localized production of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src."
+    },
+    "137": {
+        "query_o": "Asymptomatic visual impairment screening in elderly populations does not lead to improved vision.",
+        "query_p": "Screening for visual impairments in older adults who show no symptoms does not result in better vision."
+    },
+    "141": {
+        "query_o": "Auditory entrainment is strengthened when people see congruent visual and auditory information.",
+        "query_p": "Auditory entrainment is enhanced when individuals are exposed to matching visual and auditory cues."
+    },
+    "142": {
+        "query_o": "Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.",
+        "query_p": "Does using autologous mesenchymal stem cell transplants lead to more opportunistic infections compared to treatment with anti-interleukin-2 receptor antibodies?"
+    },
+    "143": {
+        "query_o": "Autologous transplantation of mesenchymal stem cells causes fewer opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.",
+        "query_p": "Does using mesenchymal stem cells from the patient's own body for transplantation lead to fewer opportunistic infections compared to induction therapy that uses antibodies against the interleukin-2 receptor?"
+    },
+    "146": {
+        "query_o": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+        "query_p": "Does using mesenchymal stem cells from the same individual result in fewer rejections compared to using anti-interleukin-2 receptor antibodies for induction therapy?"
+    },
+    "148": {
+        "query_o": "Autophagy declines in aged organisms.",
+        "query_p": "The process of autophagy decreases as organisms age."
+    },
+    "163": {
+        "query_o": "Bariatric surgery has a positive impact on mental health.",
+        "query_p": "How does undergoing bariatric surgery influence mental well-being positively?"
+    },
+    "171": {
+        "query_o": "Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).",
+        "query_p": "How do basophils help prevent disease progression in individuals with systemic lupus erythematosus (SLE)?"
+    },
+    "179": {
+        "query_o": "Birth-weight is positively associated with breast cancer.",
+        "query_p": "Higher birth-weight is linked to an increased risk of breast cancer."
+    },
+    "180": {
+        "query_o": "Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 leads to increased TDP-43-induced neuronal loss.",
+        "query_p": "Preventing the interaction between TDP-43 and the respiratory complex I proteins ND3 and ND6 results in an increase in neuronal loss caused by TDP-43."
+    },
+    "183": {
+        "query_o": "Bone marrow cells contribute to adult macrophage compartments.",
+        "query_p": "Adult macrophage compartments are derived from bone marrow cells."
+    },
+    "185": {
+        "query_o": "Breast cancer development is determined exclusively by genetic factors.",
+        "query_p": "The development of breast cancer is solely influenced by genetic factors."
+    },
+    "198": {
+        "query_o": "CCL19 is absent within dLNs.",
+        "query_p": "CCL19 is missing in dLNs."
+    },
+    "208": {
+        "query_o": "CHEK2 is not associated with breast cancer.",
+        "query_p": "CHEK2 does not have a link to breast cancer."
+    },
+    "212": {
+        "query_o": "CR is associated with higher methylation age.",
+        "query_p": "Caloric restriction correlates with increased methylation age."
+    },
+    "213": {
+        "query_o": "CRP is not predictive of postoperative mortality following Coronary Artery Bypass Graft (CABG) surgery.",
+        "query_p": "C-reactive protein (CRP) does not indicate the likelihood of death after Coronary Artery Bypass Graft (CABG) surgery."
+    },
+    "216": {
+        "query_o": "CX3CR1 on the Th2 cells impairs T cell survival",
+        "query_p": "The survival of T cells is hindered by CX3CR1 on Th2 cells."
+    },
+    "217": {
+        "query_o": "CX3CR1 on the Th2 cells promotes T cell survival",
+        "query_p": "The presence of CX3CR1 on Th2 cells enhances the survival of T cells."
+    },
+    "218": {
+        "query_o": "CX3CR1 on the Th2 cells promotes airway inflammation.",
+        "query_p": "CX3CR1 present on Th2 cells enhances inflammation in the airways."
+    },
+    "219": {
+        "query_o": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+        "query_p": "The Th2 cells' expression of CX3CR1 reduces airway inflammation."
+    },
+    "230": {
+        "query_o": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.",
+        "query_p": "Individuals who have the alcohol aldehyde dehydrogenase deficiency mutation consume less alcohol than those who do not have the mutation."
+    },
+    "232": {
+        "query_o": "Cataract and trachoma are the primary cause of blindness in Southern Sudan.",
+        "query_p": "Cataracts and trachoma are the leading causes of blindness in Southern Sudan."
+    },
+    "233": {
+        "query_o": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+        "query_p": "Somatic cells in Galliformes do not undergo cell autonomous sex determination."
+    },
+    "236": {
+        "query_o": "Cell autonomous sex determination in somatic cells occurs in Passeriformes.",
+        "query_p": "In Passeriformes, sex determination in somatic cells is cell-autonomous."
+    },
+    "237": {
+        "query_o": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+        "query_p": "Cells that do not have clpC show reduced effectiveness in the sporulation process in Bacillus subtilis."
+    },
+    "238": {
+        "query_o": "Cells undergoing methionine restriction may activate miRNAs.",
+        "query_p": "Do cells that experience methionine restriction have the potential to activate microRNAs?"
+    },
+    "239": {
+        "query_o": "Cellular aging closely links to an older appearance.",
+        "query_p": "The process of cellular aging is strongly connected to looking older."
+    },
+    "248": {
+        "query_o": "Chenodeosycholic acid treatment increases whole-body energy expenditure.",
+        "query_p": "Does treatment with chenodeoxycholic acid lead to an increase in overall energy expenditure in the body?"
+    },
+    "249": {
+        "query_o": "Chenodeosycholic acid treatment reduces whole-body energy expenditure.",
+        "query_p": "Treatment with chenodeoxycholic acid lowers overall energy consumption in the body."
+    },
+    "261": {
+        "query_o": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+        "query_p": "Regular aerobic exercise changes how the endothelium functions, enhancing the mechanisms for vasodilation that are mediated by nitric oxide (NO)."
+    },
+    "268": {
+        "query_o": "Cold exposure increases BAT recruitment.",
+        "query_p": "Exposure to cold temperatures enhances the recruitment of brown adipose tissue (BAT)."
+    },
+    "269": {
+        "query_o": "Cold exposure reduces BAT recruitment.",
+        "query_p": "Does exposure to cold decrease the recruitment of brown adipose tissue (BAT)?"
+    },
+    "274": {
+        "query_o": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.",
+        "query_p": "Using a combination of nicotine replacement treatments alongside varenicline or bupropion results in significantly higher abstinence rates after 52 weeks compared to using only varenicline."
+    },
+    "275": {
+        "query_o": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.",
+        "query_p": "Is the use of phosphatidylinositide 3-kinase inhibitors alongside MEK 1/2 inhibitors an effective treatment strategy for tumors with KRAS mutations?"
+    },
+    "279": {
+        "query_o": "Commelina yellow mottle virus' (ComYMV) genome consists of 7489 baise pairs.",
+        "query_p": "What is the length of the Commelina yellow mottle virus (ComYMV) genome in base pairs?"
+    },
+    "294": {
+        "query_o": "Crossover hot spots are not found within gene promoters in Saccharomyces cerevisiae.",
+        "query_p": "Gene promoters in Saccharomyces cerevisiae do not contain crossover hot spots."
+    },
+    "295": {
+        "query_o": "Crosstalk between dendritic cells (DCs) and innate lymphoid cells (ILCs) is important in the regulation of intestinal homeostasis.",
+        "query_p": "How does the interaction between dendritic cells (DCs) and innate lymphoid cells (ILCs) contribute to maintaining balance in the intestines?"
+    },
+    "298": {
+        "query_o": "Cytochrome c is released from the mitochondrial intermembrane space to cytosol during apoptosis.",
+        "query_p": "During apoptosis, cytochrome c is transferred from the mitochondrial intermembrane space to the cytosol."
+    },
+    "300": {
+        "query_o": "Cytosolic proteins bind to iron-responsive elements on mRNAs coding for DMT1. Cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake.",
+        "query_p": "Cytosolic proteins attach to iron-responsive elements on mRNAs that code for DMT1. They also bind to those on mRNAs encoding proteins related to iron absorption."
+    },
+    "303": {
+        "query_o": "DMRT1 is a sex-determining gene that is epigenetically regulated by the MHM region.",
+        "query_p": "The MHM region regulates the DMRT1 gene, which plays a role in sex determination, through epigenetic mechanisms."
+    },
+    "312": {
+        "query_o": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+        "query_p": "When sequence data undergoes de novo assembly, the resulting contigs are more specific compared to those from unassembled sequence data."
+    },
+    "314": {
+        "query_o": "Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.",
+        "query_p": "The conversion of cytidine to uridine through deamination on the negative strand of viral DNA leads to severe G-to-A mutations in the viral genome."
+    },
+    "324": {
+        "query_o": "Deleting Raptor reduces G-CSF levels.",
+        "query_p": "Eliminating Raptor lowers G-CSF concentrations."
+    },
+    "327": {
+        "query_o": "Deletion of \u03b1v\u03b28 does not result in a spontaneous inflammatory phenotype.",
+        "query_p": "The removal of \u03b1v\u03b28 does not lead to an automatically occurring inflammatory condition."
+    },
+    "338": {
+        "query_o": "Dexamethasone decreases risk of postoperative bleeding.",
+        "query_p": "Does dexamethasone reduce the risk of bleeding after surgery?"
+    },
+    "343": {
+        "query_o": "Diabetic patients with acute coronary syndrome experience increased short-term and long-term risk for bleeding events.",
+        "query_p": "Do diabetic patients with acute coronary syndrome face higher short-term and long-term bleeding risk?"
+    },
+    "350": {
+        "query_o": "Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.",
+        "query_p": "The distinction between initiator and elongation tRNAs relies on the translation initiation factor IF3."
+    },
+    "354": {
+        "query_o": "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.",
+        "query_p": "Inhibition and improper placement of Scribble avert cellular transformation and breast cancer development."
+    },
+    "362": {
+        "query_o": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+        "query_p": "When the initial antibody response occurs, activated B cells move toward the inner and outer areas of the paracortex, where stromal cells produce an accumulation of oxysterols."
+    },
+    "380": {
+        "query_o": "Enhanced early production of inflammatory chemokines improves viral control in the lung.",
+        "query_p": "Increased early production of inflammatory chemokines enhances viral control in the lungs."
+    },
+    "384": {
+        "query_o": "Epidemiological disease burden from noncommunicable diseases is more prevalent in low economic settings.",
+        "query_p": "The impact of noncommunicable diseases is higher in areas with lower economic status."
+    },
+    "385": {
+        "query_o": "Epigenetic modulating agents (EMAs) modulate antitumor immune response in a cancer model system.",
+        "query_p": "Epigenetic modifiers influence the immune response against tumors in a cancer model."
+    },
+    "386": {
+        "query_o": "Errors in peripheral IV drug administration are most common during bolus administration and multiple-step medicine preparations.",
+        "query_p": "Mistakes in administering drugs through peripheral IVs are most frequent during bolus injections and when preparing multi-step medications."
+    },
+    "388": {
+        "query_o": "Ethanol stress decreases the expression of IBP in bacteria.",
+        "query_p": "Exposure to ethanol reduces the level of IBP expression in bacterial cells."
+    },
+    "399": {
+        "query_o": "Exposure to fine particulate air pollution is relate to anxiety prevalence.",
+        "query_p": "The prevalence of anxiety is associated with exposure to fine particulate air pollution."
+    },
+    "410": {
+        "query_o": "Febrile seizures increase the threshold for development of epilepsy.",
+        "query_p": "Do febrile seizures elevate the threshold for the onset of epilepsy?"
+    },
+    "411": {
+        "query_o": "Febrile seizures reduce the threshold for development of epilepsy.",
+        "query_p": "Do febrile seizures lower the risk threshold for developing epilepsy?"
+    },
+    "415": {
+        "query_o": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+        "query_p": "Women who are carriers of the Apolipoprotein E4 (APOE4) gene variant face a higher risk of developing dementia."
+    },
+    "421": {
+        "query_o": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+        "query_p": "Do flexible molecules face more steric hindrance in the tumor microenvironment compared to rigid molecules?"
+    },
+    "431": {
+        "query_o": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+        "query_p": "The activation of FoxO3a in the death of neurons is facilitated by reactive oxygen species (ROS)."
+    },
+    "436": {
+        "query_o": "Free histones are degraded by a Rad53-dependent mechanism once DNA has been replicated.",
+        "query_p": "Histone proteins that are not incorporated into chromatin are broken down through a mechanism dependent on Rad53 after the completion of DNA replication."
+    },
+    "437": {
+        "query_o": "Functional consequences of genomic alterations due to Myelodysplastic syndrome (MDS) are poorly understood due to the lack of an animal model.",
+        "query_p": "The effects of genomic changes caused by Myelodysplastic syndrome (MDS) are not well comprehended because an animal model is not available."
+    },
+    "439": {
+        "query_o": "Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation",
+        "query_p": "During the process of neurulation in zebrafish, Fz/PCP-mediated Pk is found on the front membrane of neuroectoderm cells."
+    },
+    "440": {
+        "query_o": "Fz/PCP-dependent Pk localizes to the anterior membrane of notochord cells during zebrafish neuralation.",
+        "query_p": "Frizzled/Prickle Planar Cell Polarity-dependent Pk is found on the front membrane of notochord cells during zebrafish neural development."
+    },
+    "443": {
+        "query_o": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+        "query_p": "Is GATA-3 essential for the functioning of hematopoietic stem cells (HSCs)?"
+    },
+    "452": {
+        "query_o": "Gene expression does not vary appreciably across genetically identical cells.",
+        "query_p": "The level of gene expression remains largely consistent among genetically identical cells."
+    },
+    "475": {
+        "query_o": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+        "query_p": "Glycolysis is a key pathway for sugar metabolism in cells."
+    },
+    "478": {
+        "query_o": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+        "query_p": "Golli-deficient T-cells tend to develop into an anergic state during the adaptive immune response when cytosolic calcium levels are elevated."
+    },
+    "491": {
+        "query_o": "HNF4A mutations can cause diabetes in mutant carriers by the age of 14 years",
+        "query_p": "Mutations in the HNF4A gene can lead to diabetes in affected individuals by age 14."
+    },
+    "501": {
+        "query_o": "Headaches are not correlated with cognitive impairment.",
+        "query_p": "Headaches do not have a connection to cognitive problems."
+    },
+    "502": {
+        "query_o": "Healthcare delivery efficiency in crowded delivery centers is impaired by improving structural, logistical, and interpersonal elements.",
+        "query_p": "The effectiveness of healthcare delivery in busy centers is negatively affected by enhancements in structural, logistical, and interpersonal aspects."
+    },
+    "507": {
+        "query_o": "Helminths interfere with immune system control of macrophages activated by IL-4 favor Mycobacterium tuberculosis replication.",
+        "query_p": "Helminths disrupt the immune system's regulation of macrophages that are activated by IL-4, promoting the replication of Mycobacterium tuberculosis."
+    },
+    "508": {
+        "query_o": "Hematopoietic Stem Cell purification reaches purity rate of up to 50%.",
+        "query_p": "Achieving up to 50% purity, how effective is the purification process for hematopoietic stem cells?"
+    },
+    "513": {
+        "query_o": "High cardiopulmonary fitness causes increased mortality rate.",
+        "query_p": "Does enhanced cardiopulmonary fitness lead to a higher rate of mortality?"
+    },
+    "514": {
+        "query_o": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+        "query_p": "It is not necessary for individuals with 25(OH)D levels exceeding 75 nmol/liter to have high calcium intake to prevent secondary hyperparathyroidism."
+    },
+    "516": {
+        "query_o": "High levels of CRP reduces the risk of exacerbations in chronic obstructive pulmonary disease (COPD).",
+        "query_p": "Elevated CRP levels decrease the likelihood of flare-ups in chronic obstructive pulmonary disease (COPD)."
+    },
+    "517": {
+        "query_o": "High levels of copeptin decrease risk of diabetes.",
+        "query_p": "Elevated copeptin levels lower the risk of developing diabetes."
+    },
+    "521": {
+        "query_o": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+        "query_p": "The measurement of high-sensitivity cardiac troponin T might not be useful for diagnosis if symptoms of acute myocardial injury start less than 3 hours before testing."
+    },
+    "525": {
+        "query_o": "Histone demethylase recruitment and a transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors.",
+        "query_p": "Recruitment of histone demethylase and a temporary reduction in histone methylation are required for ligand-dependent transcription activation by nuclear receptors."
+    },
+    "527": {
+        "query_o": "Homozygous deletion of murine Sbds gene from osterix-expressing mesenchymal stem and progenitor cells (MPCs) prevents oxidative stress.",
+        "query_p": "A homozygous deletion of the murine Sbds gene in mesenchymal stem and progenitor cells (MPCs) that express osterix inhibits oxidative stress."
+    },
+    "528": {
+        "query_o": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+        "query_p": "Patients with Human T-lymphotropic virus type-I-associated myelopathy/tropical spastic paraparesis (HAM/TSP) generate Immunoglobulin G (IgG) antibodies that cross-react with a major epitope in Tax."
+    },
+    "532": {
+        "query_o": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+        "query_p": "Does an increase in fibrinogen levels reduce the incidence of blood clots in femoropopliteal bypass procedures?"
+    },
+    "533": {
+        "query_o": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+        "query_p": "Elevated fibrinogen levels elevate the risk of thrombosis in femoropopliteal bypass procedures."
+    },
+    "535": {
+        "query_o": "Hypertension is frequently observed in type 1 diabetes patients.",
+        "query_p": "Hypertension is commonly seen in individuals with type 1 diabetes."
+    },
+    "536": {
+        "query_o": "Hypocretin neurones induce panicprone state in rats.",
+        "query_p": "Hypocretin neurons trigger a state of panic-proneness in rats."
+    },
+    "539": {
+        "query_o": "Hypoglycemia increases the risk of dementia.",
+        "query_p": "Low blood sugar levels can elevate the risk of developing dementia."
+    },
+    "540": {
+        "query_o": "Hypothalamic glutamate neurotransmission is crucial to energy balance.",
+        "query_p": "The role of glutamate signaling in the hypothalamus is essential for maintaining energy balance."
+    },
+    "544": {
+        "query_o": "IFIT1 restricts viral replication by sequestrating mis-capped viral RNAs.",
+        "query_p": "Query: IFIT1 inhibits the replication of viruses by trapping viral RNAs with improper caps."
+    },
+    "549": {
+        "query_o": "IRG1 has antiviral effects against neurotropic viruses.",
+        "query_p": "IRG1 exhibits antiviral properties against viruses that affect the nervous system."
+    },
+    "551": {
+        "query_o": "ITAM phosphorylation prevents the transfer of the T cell receptor (TCR) signal from the echo-domain to the cytoplasmic tail of the T cell receptor (TCR).",
+        "query_p": "Query: The phosphorylation of ITAM inhibits the transmission of the T cell receptor (TCR) signal from the ectodomain to the cytoplasmic tail of the TCR."
+    },
+    "552": {
+        "query_o": "IgA plasma cells that are specific for transglutaminase 2 accumulate in the duodenal mucosa on commencement of a gluten-free diet.",
+        "query_p": "Plasma cells that produce IgA antibodies targeting transglutaminase 2 gather in the duodenal mucosa when a gluten-free diet is started."
+    },
+    "554": {
+        "query_o": "Immune complex triggered cell death leads to extracellular release of neutrophil protein HMGB1.",
+        "query_p": "Cell death triggered by immune complexes results in the release of the neutrophil protein HMGB1 into the extracellular environment."
+    },
+    "560": {
+        "query_o": "Immune responses result in the development of inflammatory Th17 cells and anti-inflammatory iTregs.",
+        "query_p": "During immune responses, inflammatory Th17 cells and anti-inflammatory iTregs are formed."
+    },
+    "569": {
+        "query_o": "In adult tissue, most T cells are memory T cells.",
+        "query_p": "Are most T cells in adult tissue classified as memory T cells?"
+    },
+    "575": {
+        "query_o": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+        "query_p": "In domesticated populations of Saccharomyces cerevisiae, entire chromosome aneuploidy occurs infrequently."
+    },
+    "577": {
+        "query_o": "In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",
+        "query_p": "In mice, P. chabaudi parasites can multiply more quickly at the beginning of an infection when introduced in smaller quantities compared to when introduced in larger quantities."
+    },
+    "578": {
+        "query_o": "In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.",
+        "query_p": "In mouse models, the absence of CSF1R promotes leukemia development induced by MOZ-TIF2."
+    },
+    "587": {
+        "query_o": "In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than ten percent of the cells with green florescent colocalize with cell proliferation markers.",
+        "query_p": "In transgenic mice where green fluorescent protein is expressed under the Sox2 promoter, fewer than ten percent of the fluorescent cells coincide with markers for cell proliferation."
+    },
+    "589": {
+        "query_o": "In young and middle-aged adults, current or remote uses of ADHD medications do not increase the risk of serious cardiovascular events.",
+        "query_p": "In young and middle-aged individuals, using ADHD medications presently or in the past does not elevate the risk of significant cardiovascular incidents."
+    },
+    "593": {
+        "query_o": "Incidence of heart failure decreased by 10% in women since 1979.",
+        "query_p": "The rate of heart failure among women has declined by 10% since 1979."
+    },
+    "597": {
+        "query_o": "Incidence rates of cervical cancer have decreased.",
+        "query_p": "Cervical cancer occurrence rates have declined."
+    },
+    "598": {
+        "query_o": "Incidence rates of cervical cancer have increased due to nationwide screening programs based primarily on cytology to detect uterine cervical cancer.",
+        "query_p": "The frequency of cervical cancer cases has risen as a result of national screening initiatives that primarily utilize cytology to identify cancer of the uterine cervix."
+    },
+    "613": {
+        "query_o": "Increased microtubule acetylation repairs LRRK2 Roc-COR domain mutation induced locomotor deficits.",
+        "query_p": "Enhancing microtubule acetylation alleviates movement deficits caused by mutations in the LRRK2 Roc-COR domain."
+    },
+    "619": {
+        "query_o": "Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.",
+        "query_p": "Higher vessel density and reduced fibrosis can lead to a decrease in the effectiveness of chemotherapy treatments."
+    },
+    "623": {
+        "query_o": "Individuals with low serum vitamin D concentrations have increased risk of multiple sclerosis.",
+        "query_p": "People with low levels of vitamin D in their blood may be at a higher risk for developing multiple sclerosis."
+    },
+    "628": {
+        "query_o": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+        "query_p": "Individuals of African descent are most commonly infected with human T-cell lymphotropic virus type 1."
+    },
+    "636": {
+        "query_o": "Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",
+        "query_p": "The enzyme PTEN, which is an inositol lipid 3-phosphatase, transforms PtdIns(3,4)P2 into phosphatidylinositol 4-phosphate."
+    },
+    "637": {
+        "query_o": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+        "query_p": "Input from professionals in both mental and physical health care can effectively reduce homelessness."
+    },
+    "641": {
+        "query_o": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+        "query_p": "Cognitive behavioral therapy is an effective treatment for insomnia."
+    },
+    "644": {
+        "query_o": "Insulin increases risk of severe kidney failure.",
+        "query_p": "The use of insulin heightens the likelihood of experiencing severe kidney failure."
+    },
+    "649": {
+        "query_o": "Integrating classroom-based collaborative learning with Web-based collaborative learning leads to subpar class performance",
+        "query_p": "Combining collaborative learning in the classroom with online collaborative learning results in below-average class performance."
+    },
+    "659": {
+        "query_o": "Ivermectin is used to treat lymphatic filariasis.",
+        "query_p": "Ivermectin is employed in the treatment of lymphatic filariasis."
+    },
+    "660": {
+        "query_o": "Ivermectin is used to treat onchocerciasis.",
+        "query_p": "Ivermectin is used for the treatment of river blindness."
+    },
+    "674": {
+        "query_o": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+        "query_p": "LDL cholesterol is not a factor in the progression of cardiovascular disease."
+    },
+    "684": {
+        "query_o": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+        "query_p": "The absence of clpC does not impact the efficiency of sporulation in Bacillus subtilis cells."
+    },
+    "690": {
+        "query_o": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+        "query_p": "Fewer than 10% of Gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate level exceeding 5 mmol/L."
+    },
+    "691": {
+        "query_o": "Leukemia associated Rho guanine nucleotide-exchange factor represses RhoA in response to SRC activation.",
+        "query_p": "How does the leukemia-related Rho guanine nucleotide-exchange factor suppress RhoA when SRC is activated?"
+    },
+    "692": {
+        "query_o": "Leuko-increased blood increases infectious complications in red blood cell transfusion.",
+        "query_p": "Do elevated white blood cell levels raise the risk of infections during red blood cell transfusions?"
+    },
+    "693": {
+        "query_o": "Leuko-reduced blood reduces infectious complications in red blood cell transfusion.",
+        "query_p": "Does using leuko-reduced blood decrease the risk of infections in red blood cell transfusions?"
+    },
+    "700": {
+        "query_o": "Localization of PIN1 in the Arabidopsis embryo does not require VPS9a",
+        "query_p": "VPS9a is not necessary for the localization of PIN1 in the Arabidopsis embryo."
+    },
+    "702": {
+        "query_o": "Localization of PIN1 in the roots of Arabidopsis does not require VPS9a",
+        "query_p": "The presence of PIN1 in the roots of Arabidopsis does not depend on VPS9a."
+    },
+    "715": {
+        "query_o": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+        "query_p": "Diminished levels of miR7a inhibit target gene expression and play a biological role in the ovaries."
+    },
+    "716": {
+        "query_o": "Low expression of miR7a exerts a biological function in testis.",
+        "query_p": "Reduced levels of miR7a play a role in testicular function."
+    },
+    "718": {
+        "query_o": "Low nucleosome occupancy correlates with low methylation levels across species.",
+        "query_p": "Reduced nucleosome occupancy is associated with decreased methylation levels in various species."
+    },
+    "721": {
+        "query_o": "Lupus-prone mice infected with curliproducing bacteria have higher autoantibody titers compared to controls.",
+        "query_p": "Lupus-prone mice that are infected with bacteria that produce curly have increased levels of autoantibodies compared to the control group."
+    },
+    "723": {
+        "query_o": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+        "query_p": "Ly49Q guides the movement of neutrophils to areas of inflammation by controlling the functions of membrane rafts."
+    },
+    "727": {
+        "query_o": "Ly6C hi monocytes have a lower inflammatory capacity compared to their Ly6C lo counterparts.",
+        "query_p": "Monocytes with high Ly6C expression possess a reduced ability to cause inflammation compared to those with low Ly6C expression."
+    },
+    "728": {
+        "query_o": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+        "query_p": "Do Ly6C high monocytes exhibit a less inflammatory response compared to Ly6C low monocytes?"
+    },
+    "729": {
+        "query_o": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+        "query_p": "Lymphadenopathy is seen in knockin mice that are deficient in the SHP-2 MAPK pathway."
+    },
+    "742": {
+        "query_o": "Macrolides have no protective effect against myocardial infarction.",
+        "query_p": "Macrolides do not guard against heart attacks."
+    },
+    "743": {
+        "query_o": "Macrolides protect against myocardial infarction.",
+        "query_p": "Macrolides provide protection against heart attacks."
+    },
+    "744": {
+        "query_o": "Macropinocytosis contributes to a cell's supply of amino acids via the intracellular uptake of protein.",
+        "query_p": "Macropinocytosis aids in providing amino acids to a cell by capturing proteins within the cell."
+    },
+    "756": {
+        "query_o": "Many proteins in human cells can be post-translationally modified at lysine residues via acetylation.",
+        "query_p": "Numerous proteins within human cells undergo post-translational modification at lysine sites through acetylation."
+    },
+    "759": {
+        "query_o": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+        "query_p": "Predictions from mathematical models indicate that Artemisinin-based combination therapy significantly reduces malaria transmission compared to drugs that do not kill gametocytes."
+    },
+    "768": {
+        "query_o": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+        "query_p": "Thiopurine methyltransferase (TPMT) metabolizes mercaptopurine into its inactive form, methylmercaptopurine."
+    },
+    "770": {
+        "query_o": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+        "query_p": "In elderly patients, treating metastatic colorectal cancer with just fluoropyrimidines led to reduced effectiveness and decreased quality of life compared to chemotherapy that includes oxaliplatin."
+    },
+    "775": {
+        "query_o": "Mice defective for deoxyribonucleic acid (DNA) polymerase I (polI) reveal increased sensitivity to ionizing radiation (IR).",
+        "query_p": "Mice with a deficiency in DNA polymerase I (polI) show heightened sensitivity to ionizing radiation (IR)."
+    },
+    "781": {
+        "query_o": "Mice that lack Interferon-\u03b3 or its receptor exhibit high resistance to experimental autoimmune myocarditis.",
+        "query_p": "Mice deficient in Interferon-\u03b3 or its receptor show strong resistance to experimentally induced autoimmune myocarditis."
+    },
+    "783": {
+        "query_o": "Mice without IFN-\u03b3 or its receptor are resistant to EAM induced with \u03b1-MyHC/CFA.",
+        "query_p": "Mice lacking IFN-\u03b3 or its receptor demonstrate resistance to EAM triggered by \u03b1-MyHC/CFA."
+    },
+    "784": {
+        "query_o": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+        "query_p": "MicroRNA plays a role in controlling the balance of differentiation and proliferation of Neural Stem Cells (NSCs)."
+    },
+    "785": {
+        "query_o": "Microarray results from culture-amplified mixtures of serotypes correlate poorly with microarray results from uncultured mixtures.",
+        "query_p": "Microarray data from cultured serotype mixtures show weak correlation with data from uncultured mixtures."
+    },
+    "793": {
+        "query_o": "Mitochondria are uninvolved in apoptosis.",
+        "query_p": "Do mitochondria play a role in apoptosis?"
+    },
+    "800": {
+        "query_o": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+        "query_p": "Altering the epigenome in the brain influences the natural aging process in humans by impacting specific genes associated with neurogenesis."
+    },
+    "805": {
+        "query_o": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+        "query_p": "Inhibition of metastasis through monoclonal antibody targeting N-cadherin."
+    },
+    "808": {
+        "query_o": "Most termination events in Okazaki fragments are sequence specific.",
+        "query_p": "A majority of termination events in Okazaki fragments are determined by specific sequences."
+    },
+    "811": {
+        "query_o": "Mutant mice lacking SVCT2 have greatly increased ascorbic acid levels in both brain and adrenals.",
+        "query_p": "Mutant mice without SVCT2 show significantly elevated ascorbic acid levels in their brains and adrenal glands."
+    },
+    "814": {
+        "query_o": "Mutations in G-Beta protein GNB2 are present in many cancers, resulting in loss of interaction with G-alpha subunits and concomitant activation of AKT pathway.",
+        "query_p": "Alterations in the G-Beta protein GNB2 are found in various cancers, leading to a disruption in its interaction with G-alpha subunits and simultaneous activation of the AKT pathway."
+    },
+    "820": {
+        "query_o": "N-terminal cleavage increases success identifying transcription start sites.",
+        "query_p": "Increasing the success rate of identifying transcription start sites involves N-terminal cleavage."
+    },
+    "821": {
+        "query_o": "N-terminal cleavage reduces success identifying transcription start sites.",
+        "query_p": "Recognition of transcription start sites is hindered by cleavage at the N-terminal."
+    },
+    "823": {
+        "query_o": "N348I mutations cause resistance to zidovudine (AZT).",
+        "query_p": "Mutations at position N348I lead to resistance against the drug zidovudine (AZT)."
+    },
+    "830": {
+        "query_o": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+        "query_p": "Does NF2 (Merlin) induce phosphorylation and lead to the cytoplasmic retention of YAP in Drosophila by activating LATS1/2 kinases?"
+    },
+    "831": {
+        "query_o": "NF2 (Merlin) prevents phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila.",
+        "query_p": "Merlin (NF2) hinders YAP from being phosphorylated and sequestered in the cytoplasm in Drosophila."
+    },
+    "832": {
+        "query_o": "NFAT4 activation requires IP3R-mediated Ca2+ mobilization.",
+        "query_p": "The activation of NFAT4 depends on Ca2+ mobilization mediated by IP3R."
+    },
+    "834": {
+        "query_o": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+        "query_p": "Pathways that do not rely on NOX2 can produce peroxynitrite through reactions with nitrogen intermediates."
+    },
+    "837": {
+        "query_o": "NR5A2 is important in development of endometrial tissues.",
+        "query_p": "The role of NR5A2 is significant in the formation of endometrial tissues."
+    },
+    "839": {
+        "query_o": "Nanoparticles can be targeted against specific cell types by incorporating aptamers into lipid nanoparticles.",
+        "query_p": "Is it possible to direct nanoparticles towards certain cell types by embedding aptamers into lipid nanoparticles?"
+    },
+    "845": {
+        "query_o": "Neutrophil extracellular traps (NETs) are released by ANCA-stimulated neutrophils.",
+        "query_p": "NETs are emitted by neutrophils when they are activated by ANCA."
+    },
+    "847": {
+        "query_o": "New drugs for tuberculosis often do not penetrate the necrotic portion of a tuberculosis lesion in high concentrations.",
+        "query_p": "Many new medications for tuberculosis typically do not reach high concentrations in the necrotic areas of a tuberculosis lesion."
+    },
+    "852": {
+        "query_o": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+        "query_p": "If there is an insufficient response to standard treatment, the use of non-invasive ventilation should be reduced."
+    },
+    "859": {
+        "query_o": "Normal expression of RUNX1 has tumor-promoting effects.",
+        "query_p": "The typical expression of RUNX1 contributes to tumor promotion."
+    },
+    "870": {
+        "query_o": "Obesity decreases life quality.",
+        "query_p": "Being obese reduces the quality of life."
+    },
+    "873": {
+        "query_o": "Obesity is determined solely by environmental factors.",
+        "query_p": "Obesity is caused only by environmental influences."
+    },
+    "879": {
+        "query_o": "Occupancy of ribosomes by IncRNAs do not make functional peptides.",
+        "query_p": "IncRNAs occupying ribosomes do not produce functional peptides."
+    },
+    "880": {
+        "query_o": "Occupancy of ribosomes by IncRNAs mirror 5 0-UTRs",
+        "query_p": "Ribosome occupancy by IncRNAs resembles that of 5' UTRs."
+    },
+    "882": {
+        "query_o": "Omnivores produce less trimethylamine N-oxide from dietary I-carnitine than vegetarians.",
+        "query_p": "Do omnivores generate lower levels of trimethylamine N-oxide from ingesting dietary I-carnitine compared to vegetarians?"
+    },
+    "887": {
+        "query_o": "Only a minority of cells survive development after differentiation into stress-resistant spores.",
+        "query_p": "Just a small number of cells remain alive after they differentiate into spores that are resistant to stress during development."
+    },
+    "903": {
+        "query_o": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+        "query_p": "Activation of PD-1 on monocytes leads to a decrease in IL-10 production by these cells."
+    },
+    "904": {
+        "query_o": "PDPN promotes efficient motility along stromal surfaces by activating the C-type lectin receptor to rearrange the actin cytoskeleton in dendritic cells.",
+        "query_p": "PDPN enhances movement on stromal surfaces by triggering the C-type lectin receptor, which reorganizes the actin cytoskeleton in dendritic cells."
+    },
+    "907": {
+        "query_o": "PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.",
+        "query_p": "Prostaglandin E2 (PGE2) facilitates the growth of intestinal tumors by modifying the expression of genes involved in tumor suppression and DNA repair."
+    },
+    "911": {
+        "query_o": "PKG-la plays an essential role in expression of pain hypersensitivity in PGK-la knockout mice.",
+        "query_p": "The expression of pain hypersensitivity is significantly influenced by PKG-la in PGK-la knockout mice."
+    },
+    "913": {
+        "query_o": "PPAR-RXRs are inhibited by PPAR ligands.",
+        "query_p": "PPAR ligands inhibit PPAR-RXRs."
+    },
+    "914": {
+        "query_o": "PPAR-RXRs can be activated by PPAR ligands.",
+        "query_p": "PPAR ligands can activate PPAR-RXRs."
+    },
+    "921": {
+        "query_o": "Participating in six months of physical activity improves cognitive functioning.",
+        "query_p": "Engaging in physical exercise for six months enhances cognitive abilities."
+    },
+    "922": {
+        "query_o": "Patients in stable partnerships have a faster progression from HIV to AIDS.",
+        "query_p": "People in stable relationships experience a quicker transition from HIV to AIDS."
+    },
+    "936": {
+        "query_o": "Peroxynitrite is required for nitration of TCR/CD8.",
+        "query_p": "Is peroxynitrite necessary for the nitration process of TCR/CD8?"
+    },
+    "956": {
+        "query_o": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+        "query_p": "The connection of GLP-1R to different intracellular effectors results in varied patterns of cell signaling."
+    },
+    "957": {
+        "query_o": "Podocytes are motile and migrate in the presence of injury.",
+        "query_p": "Podocytes can move and migrate when they experience injury."
+    },
+    "960": {
+        "query_o": "Polymeal nutrition reduces cardiovascular mortality.",
+        "query_p": "The consumption of Polymeal can lower the risk of death from cardiovascular diseases."
+    },
+    "967": {
+        "query_o": "Pretreatment with the Arp2/3 inhibitor CK-666 affects lamelliopodia formation.",
+        "query_p": "Prior exposure to the Arp2/3 inhibitor CK-666 impacts the development of lamellipodia."
+    },
+    "971": {
+        "query_o": "Primary cervical cancer screening with HPV detection has higher longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+        "query_p": "Screening for cervical cancer using HPV detection shows greater long-term sensitivity compared to traditional cytology in identifying cervical intraepithelial neoplasia grade 2."
+    },
+    "975": {
+        "query_o": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+        "query_p": "Initial pro-inflammatory cytokines trigger the release of subsequent mediators with both pro- and anti-inflammatory effects."
+    },
+    "982": {
+        "query_o": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+        "query_p": "Proteins produced at the growth cone undergo ubiquitination more frequently than those produced in the cell body."
+    },
+    "985": {
+        "query_o": "Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.",
+        "query_p": "The pseudogene PTENP1 modulates PTEN expression by acting as a decoy for microRNAs."
+    },
+    "993": {
+        "query_o": "Pyridostatin destabilizes the G - quadruplex in the telomeric region.",
+        "query_p": "Pyridostatin causes instability in the G-quadruplex structure located in the telomeric region."
+    },
+    "1012": {
+        "query_o": "Radioiodine treatment of non-toxic multinodular goitre reduces thyroid volume.",
+        "query_p": "Does administering radioiodine treatment lead to a reduction in thyroid volume in cases of non-toxic multinodular goitre?"
+    },
+    "1014": {
+        "query_o": "Rapamycin decreases the concentration of triacylglycerols in fruit flies.",
+        "query_p": "Rapamycin reduces the levels of triacylglycerols in fruit flies."
+    },
+    "1019": {
+        "query_o": "Rapid phosphotransfer rates govern fidelity in two component systems",
+        "query_p": "Fast phosphotransfer rates regulate accuracy in two-component systems"
+    },
+    "1020": {
+        "query_o": "Rapid up-regulation and higher basal expression of interferon-induced genes increase survival of granule cell neurons that are infected by West Nile virus.",
+        "query_p": "Enhanced and quick activation, along with elevated baseline levels, of genes induced by interferon improve the survival of granule cell neurons infected with the West Nile virus."
+    },
+    "1021": {
+        "query_o": "Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons that are infected by West Nile virus.",
+        "query_p": "Elevated baseline levels and quick increase in expression of interferon-stimulated genes decrease the survival rates of granule cell neurons infected with West Nile virus."
+    },
+    "1024": {
+        "query_o": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+        "query_p": "Frequent mutations are found repeatedly at CTCF anchor sites near oncogenes."
+    },
+    "1029": {
+        "query_o": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.",
+        "query_p": "A decreased response to interleukin-2 in regulatory T cells is linked to increased protection against autoimmune diseases like Type 1 Diabetes."
+    },
+    "1041": {
+        "query_o": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+        "query_p": "Swapping histone H2A with H2A.Z decelerates gene activation in yeasts by stabilizing the +1 nucleosomes."
+    },
+    "1049": {
+        "query_o": "Ribosomopathies have a low degree of cell and tissue specific pathology.",
+        "query_p": "Ribosomopathies exhibit minimal specificity regarding their effects on cells and tissues."
+    },
+    "1062": {
+        "query_o": "S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.",
+        "query_p": "Does S-nitrosylated GAPDH naturally transfer nitroso groups to histone deacetylases?"
+    },
+    "1086": {
+        "query_o": "Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.",
+        "query_p": "Sildenafil enhances erectile function in men experiencing sexual dysfunction due to SSRI antidepressant use."
+    },
+    "1088": {
+        "query_o": "Silencing of Bcl2 is important for the maintenance and progression of tumors.",
+        "query_p": "The suppression of Bcl2 plays a crucial role in the development and advancement of tumors."
+    },
+    "1089": {
+        "query_o": "Smc5/6 engagment drives the activation of SUMO E3 ligase Mms21 by ATP-dependent remolding.",
+        "query_p": "The binding of Smc5/6 prompts the activation of the SUMO E3 ligase Mms21 through an ATP-dependent remodeling process."
+    },
+    "1099": {
+        "query_o": "Statins decrease blood cholesterol.",
+        "query_p": "Statins reduce cholesterol levels in the blood."
+    },
+    "1100": {
+        "query_o": "Statins increase blood cholesterol.",
+        "query_p": "Do statins raise cholesterol levels in the blood?"
+    },
+    "1104": {
+        "query_o": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+        "query_p": "Do stroke patients who previously used direct oral anticoagulants have a reduced risk of in-hospital death compared to those who previously used warfarin?"
+    },
+    "1107": {
+        "query_o": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+        "query_p": "Subcutaneous fat stores experience significant browning following exposure to cold."
+    },
+    "1110": {
+        "query_o": "Suboptimal nutrition is not predictive of chronic disease",
+        "query_p": "Inadequate nutrition does not indicate a likelihood of chronic disease."
+    },
+    "1121": {
+        "query_o": "Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.",
+        "query_p": "Synaptic activity increases the release of brain-derived neurotrophic factor from postsynaptic dendrites."
+    },
+    "1130": {
+        "query_o": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+        "query_p": "Thymically derived regulatory T cells (tTregs) that do not have \u03b1v\u03b28 are more effective at inhibiting harmful T-cell activity during ongoing inflammation."
+    },
+    "1132": {
+        "query_o": "TCR/CD3 microdomains are a required to induce the immunologic synapse to activate T cells.",
+        "query_p": "Are TCR/CD3 microdomains essential for forming the immunologic synapse and activating T cells?"
+    },
+    "1137": {
+        "query_o": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+        "query_p": "TNFAIP3 acts as a tumor suppressor in glioblastoma."
+    },
+    "1140": {
+        "query_o": "Taking 400mg of \u03b1-tocopheryl acetate helps to prevent prostate cancer.",
+        "query_p": "Does consuming 400mg of \u03b1-tocopheryl acetate aid in preventing prostate cancer?"
+    },
+    "1144": {
+        "query_o": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+        "query_p": "The taxation of sugary drinks did not impact the rate of type II diabetes cases in India."
+    },
+    "1146": {
+        "query_o": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+        "query_p": "The quality of care in teaching hospitals is not superior to that in non-teaching hospitals."
+    },
+    "1150": {
+        "query_o": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+        "query_p": "Tetraspanin-3 plays a role in causing the onset of acute myelogenous leukemia."
+    },
+    "1163": {
+        "query_o": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+        "query_p": "The DdrB protein found in Deinococcus radiodurans serves as an alternative single-stranded DNA-binding protein (SSB)."
+    },
+    "1175": {
+        "query_o": "The PPR MDA5 has two N-terminal CARD domains.",
+        "query_p": "The PPR MDA5 contains two CARD domains at its N-terminus."
+    },
+    "1179": {
+        "query_o": "The PRR MDA5 has a central DExD/H RNA helices domain.",
+        "query_p": "The PRR MDA5 contains a central DExD/H RNA helicase domain."
+    },
+    "1180": {
+        "query_o": "The PRR MDA5 is a sensor of RNA virus infection.",
+        "query_p": "MDA5 acts as a pattern recognition receptor for detecting RNA virus infections."
+    },
+    "1185": {
+        "query_o": "The US health care system can save up to $750 million if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program.",
+        "query_p": "The US healthcare system stands to save up to $750 million if 7% of individuals awaiting kidney transplants take part in the improved national kidney paired donation program."
+    },
+    "1187": {
+        "query_o": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+        "query_p": "The YAP1 and TEAD complex moves into the nucleus, where it engages with transcription factors and DNA-binding proteins to regulate the transcription of target genes."
+    },
+    "1191": {
+        "query_o": "The amount of publicly available DNA data doubles every 10 years.",
+        "query_p": "The volume of DNA data accessible to the public grows twofold every decade."
+    },
+    "1194": {
+        "query_o": "The arm density of TatAd complexes is due to structural rearrangements within Class1 TatAd complexes such as the 'charge zipper mechanism'.",
+        "query_p": "The structural rearrangements within Class1 TatAd complexes, like the 'charge zipper mechanism', account for the arm density of TatAd complexes."
+    },
+    "1196": {
+        "query_o": "The availability of safe places to study is effective at decreasing homelessness.",
+        "query_p": "Providing safe study environments can contribute to reducing homelessness."
+    },
+    "1197": {
+        "query_o": "The availability of safe places to study is not effective at decreasing homelessness.",
+        "query_p": "Having safe study spaces does not effectively reduce homelessness."
+    },
+    "1199": {
+        "query_o": "The benefits of colchicine were achieved with effective widespread use of secondary prevention strategies such as high-dose statins.",
+        "query_p": "The advantages of colchicine were realized through the successful implementation of secondary prevention strategies, including the use of high-dose statins."
+    },
+    "1200": {
+        "query_o": "The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.",
+        "query_p": "The way the ML-SA1 activator binds to hTRPML2 differs from its binding orientation at hTRPML1."
+    },
+    "1202": {
+        "query_o": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+        "query_p": "The core of the granuloma within an immune cell triggers a pro-inflammatory immune reaction."
+    },
+    "1204": {
+        "query_o": "The combination of H3K4me3 and H3K79me2 is found in quiescent hair follicle stem cells.",
+        "query_p": "The presence of both H3K4me3 and H3K79me2 is observed in inactive hair follicle stem cells."
+    },
+    "1207": {
+        "query_o": "The composition of myosin-II isoform switches from the polarizable B isoform to the more homogenous A isoform during hematopoietic differentiation.",
+        "query_p": "During hematopoietic differentiation, the type of myosin-II isoform changes from the variable B isoform to the more uniform A isoform."
+    },
+    "1213": {
+        "query_o": "The deregulated and prolonged activation of monocytes has deleterious effects in inflammatory diseases.",
+        "query_p": "Uncontrolled and extended activation of monocytes causes harmful effects in inflammatory conditions."
+    },
+    "1216": {
+        "query_o": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+        "query_p": "The extracellular part of TMEM27 is split in human beta cells."
+    },
+    "1221": {
+        "query_o": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+        "query_p": "The genetic abnormalities identified in metastases closely resemble those in the original tumor."
+    },
+    "1225": {
+        "query_o": "The locus rs647161 is associated with colorectal carcinoma.",
+        "query_p": "The genetic variant rs647161 is linked to colorectal cancer."
+    },
+    "1226": {
+        "query_o": "The loss of the TET protein functions may have dire biological consequences, such as myeloid cancers.",
+        "query_p": "The loss of TET protein functions could result in serious biological effects, including the potential development of myeloid cancers."
+    },
+    "1232": {
+        "query_o": "The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.",
+        "query_p": "The presence of the minor G allele in the FOXO3 gene is associated with more intense symptoms of Crohn's Disease."
+    },
+    "1241": {
+        "query_o": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+        "query_p": "The myocardial lineage originates from mesodermal cardiac progenitor cells."
+    },
+    "1245": {
+        "query_o": "The one-child policy has been successful in lowering population growth.",
+        "query_p": "Has the one-child policy effectively decreased population growth?"
+    },
+    "1259": {
+        "query_o": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+        "query_p": "How a breast cancer patient's genetic profile affects their ability to process tamoxifen, and how this, in turn, impacts their treatment results."
+    },
+    "1262": {
+        "query_o": "The repair of Cas9-induced double strand breaks in human DNA is error-prone.",
+        "query_p": "The process of fixing double strand breaks in human DNA caused by Cas9 is prone to errors."
+    },
+    "1266": {
+        "query_o": "The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",
+        "query_p": "The likelihood of breast cancer in women who have given birth rises with the placental weight from their pregnancies, and this relationship is most pronounced for breast cancer occurring before menopause."
+    },
+    "1270": {
+        "query_o": "The risk of male prisoners harming themselves is ten times that of female prisoners.",
+        "query_p": "Male prisoners have a self-harm risk that is ten times higher than that of female prisoners."
+    },
+    "1271": {
+        "query_o": "The severity of cardiac involvement in amyloidosis can be described by the degree of transmurality of late gadolinium enhancement in MRI.",
+        "query_p": "The extent of heart damage in amyloidosis can be assessed by how much of the myocardium shows late gadolinium enhancement on an MRI."
+    },
+    "1272": {
+        "query_o": "The single flash-evoked ERG b-wave is generated by activity of ON-bipolar cells.",
+        "query_p": "Does the b-wave in a single flash-evoked ERG originate from the activity of ON-bipolar cells?"
+    },
+    "1273": {
+        "query_o": "The sliding activity of kinesin-8 protein Kip3 promotes bipolar spindle assembly.",
+        "query_p": "The movement of the kinesin-8 protein Kip3 supports the formation of a bipolar spindle."
+    },
+    "1274": {
+        "query_o": "The tip of the inner tube of the toxic type VI secretion system (T6SS) antibacterial effector in Escherichia coli (E. coli) carries toxic effector proteins.",
+        "query_p": "The inner tube tip of the toxic type VI secretion system (T6SS) in Escherichia coli (E. coli) holds toxic effector proteins."
+    },
+    "1278": {
+        "query_o": "The treatment of cancer patients with co-IR blockade does not cause any adverse autoimmune events.",
+        "query_p": "Administering co-IR blockade to cancer patients does not lead to any negative autoimmune reactions."
+    },
+    "1279": {
+        "query_o": "The treatment of cancer patients with co-IR blockade precipitates adverse autoimmune events.",
+        "query_p": "Administering co-IR blockade treatment to cancer patients leads to unwanted autoimmune reactions."
+    },
+    "1280": {
+        "query_o": "The ureABIEFGH gene cluster encodes urease maturation proteins : UreD/UreH, UreE, UreF, and UreG.",
+        "query_p": "The gene cluster ureABIEFGH is responsible for encoding the urease maturation proteins: UreD/UreH, UreE, UreF, and UreG."
+    },
+    "1281": {
+        "query_o": "The ureABIEFGH gene cluster is induced by nickel (II) ion.",
+        "query_p": "The expression of the ureABIEFGH gene cluster is triggered by nickel (II) ion."
+    },
+    "1282": {
+        "query_o": "Therapeutic use of the drug Dapsone to treat pyoderma gangrenous is based on anecdotal evidence.",
+        "query_p": "The use of Dapsone to treat pyoderma gangrenosum is primarily supported by anecdotal evidence."
+    },
+    "1290": {
+        "query_o": "There is an inverse relationship between hip fractures and statin use.",
+        "query_p": "An inverse correlation exists between the use of statins and the occurrence of hip fractures."
+    },
+    "1292": {
+        "query_o": "There is no association between HNF4A mutations and diabetes risks.",
+        "query_p": "There is no link between HNF4A mutations and the risk of developing diabetes."
+    },
+    "1298": {
+        "query_o": "Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke.",
+        "query_p": "Thigh-high graduated compression stockings (GCS) were ineffective in reducing deep vein thrombosis in hospitalized patients who are immobilized due to an acute stroke."
+    },
+    "1303": {
+        "query_o": "Tirasemtiv has no effect on fast-twitch muscle.",
+        "query_p": "Tirasemtiv does not influence fast-twitch muscle fibers."
+    },
+    "1316": {
+        "query_o": "Transferred UCB T cells acquire a memory-like phenotype in recipients.",
+        "query_p": "Memory-like characteristics are acquired by transferred UCB T cells in recipients."
+    },
+    "1319": {
+        "query_o": "Transplanted human glial cells can differentiate within the host animal.",
+        "query_p": "Can human glial cells that are transplanted into a host animal undergo differentiation?"
+    },
+    "1320": {
+        "query_o": "Transplanted human glial progenitor cells are incapable of forming a neural network with host animals' neurons.",
+        "query_p": "Do human glial progenitor cells that are transplanted fail to establish a neural network with the neurons of host animals?"
+    },
+    "1332": {
+        "query_o": "Tumor necrosis factor alpha (TNF-\u03b1) and interleukin-1 (IL-1) are pro-inflammatory cytokines that inhibit IL-6 and IL-10.",
+        "query_p": "Tumor necrosis factor alpha (TNF-\u03b1) along with interleukin-1 (IL-1) are pro-inflammatory cytokines that suppress IL-6 and IL-10."
+    },
+    "1335": {
+        "query_o": "UCB T cells maintain high TCR diversity after transplantation.",
+        "query_p": "Umbilical cord blood T cells preserve extensive TCR diversity following transplantation."
+    },
+    "1336": {
+        "query_o": "UCB T cells reduce TCR diversity after transplantation.",
+        "query_p": "Umbilical cord blood T cells decrease T-cell receptor diversity following transplantation."
+    },
+    "1337": {
+        "query_o": "Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.",
+        "query_p": "The ubiquitin ligase UBC13 creates a K63-linked polyubiquitin chain on PCNA at lysine 164."
+    },
+    "1339": {
+        "query_o": "Ultrasound guidance significantly raises the number of traumatic procedures when attempting needle insertion.",
+        "query_p": "Does using ultrasound guidance lead to an increase in the number of traumatic procedures during needle insertion attempts?"
+    },
+    "1344": {
+        "query_o": "Up-regulation of the p53 pathway and related molecular events casues cancer resistance and results in a significantly shortened lifespan marked by senescent cells and accelerated organismal aging.",
+        "query_p": "Enhanced activation of the p53 pathway and associated molecular activities leads to cancer resistance, significantly reducing lifespan by increasing senescent cells and hastening the aging process."
+    },
+    "1352": {
+        "query_o": "Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.",
+        "query_p": "Expression of mosGCTL-1 is increased after infection with West Nile virus."
+    },
+    "1359": {
+        "query_o": "Varenicline monotherapy is more effective after 12 weeks of treatment compared to combination nicotine replacement therapies with varenicline or bupropion.",
+        "query_p": "Is varenicline used alone more effective after 12 weeks of treatment than when combined with nicotine replacement therapies or bupropion?"
+    },
+    "1362": {
+        "query_o": "Venules have a larger lumen diameter than arterioles.",
+        "query_p": "Do venules have a wider lumen than arterioles?"
+    },
+    "1363": {
+        "query_o": "Venules have a thinner or absent smooth layer compared to arterioles.",
+        "query_p": "Do venules have a smoother muscle layer that is thinner or missing compared to arterioles?"
+    },
+    "1368": {
+        "query_o": "Vitamin D deficiency effects the term of delivery.",
+        "query_p": "Does a deficiency in vitamin D impact the timing of delivery?"
+    },
+    "1370": {
+        "query_o": "Vitamin D deficiency is unrelated to birth weight.",
+        "query_p": "There is no connection between low vitamin D levels and birth weight."
+    },
+    "1379": {
+        "query_o": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+        "query_p": "Females with a greater weight at birth have an increased likelihood of developing breast cancer as they age."
+    },
+    "1382": {
+        "query_o": "aPKCz causes tumour enhancement by affecting glutamine metabolism.",
+        "query_p": "aPKCz contributes to increased tumor growth by influencing glutamine metabolism."
+    },
+    "1385": {
+        "query_o": "cSMAC formation enhances weak ligand signalling.",
+        "query_p": "The formation of cSMAC improves signaling from weak ligands."
+    },
+    "1389": {
+        "query_o": "mTORC2 regulates intracellular cysteine levels through xCT inhibition.",
+        "query_p": "How does mTORC2 control intracellular cysteine levels by inhibiting xCT?"
+    },
+    "1395": {
+        "query_o": "p16INK4A accumulation is  linked to an abnormal wound response caused by the microinvasive step of advanced Oral Potentially Malignant Lesions (OPMLs).",
+        "query_p": "How is the build-up of p16INK4A associated with an atypical wound healing response triggered by the microinvasive stage of advanced Oral Potentially Malignant Lesions (OPMLs)?"
+    }
+}

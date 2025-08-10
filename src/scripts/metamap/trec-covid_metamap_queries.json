@@ -1,0 +1,792 @@
+{
+  "1": [
+    {
+      "preferred_name": "Participation Type - origin",
+      "trigger": "[\"origin\"-tx-1-\"origin\"-noun-0]",
+      "cui": "C1550512",
+      "semtypes": "[inpr]",
+      "pos_info": "13/6"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "23/8"
+    }
+  ],
+  "2": [
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "14/11"
+    }
+  ],
+  "3": [
+    {
+      "preferred_name": "Severe Acute Respiratory Syndrome",
+      "trigger": "[\"SARS\"-tx-1-\"SARS\"-noun-0]",
+      "cui": "C1175175",
+      "semtypes": "[dsyn]",
+      "pos_info": "6/4"
+    }
+  ],
+  "4": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "6/6"
+    },
+    {
+      "preferred_name": "Death Domain",
+      "trigger": "[\"DEATH\"-tx-1-\"death\"-noun-0]",
+      "cui": "C4722467",
+      "semtypes": "[inpr]",
+      "pos_info": "13/5"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "24/8"
+    }
+  ],
+  "5": [
+    {
+      "preferred_name": "Pharmaceutical Preparations",
+      "trigger": "[\"Drugs\"-tx-1-\"drugs\"-noun-0]",
+      "cui": "C0013227",
+      "semtypes": "[phsu]",
+      "pos_info": "6/5"
+    }
+  ],
+  "6": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "33/8"
+    },
+    {
+      "preferred_name": "Test type",
+      "trigger": "[\"testing types\"-tx-1-\"types testing\"-noun-0]",
+      "cui": "C0449570",
+      "semtypes": "[inpr]",
+      "pos_info": "6/5,21/7"
+    }
+  ],
+  "7": [],
+  "8": [
+    {
+      "preferred_name": "Tests (qualifier value)",
+      "trigger": "[\"testing\"-tx-1-\"testing\"-adj-0]",
+      "cui": "C0392366",
+      "semtypes": "[inpr]",
+      "pos_info": "17/7"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "81/8"
+    }
+  ],
+  "9": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "9/8"
+    }
+  ],
+  "10": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "62/8"
+    }
+  ],
+  "11": [
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "61/11"
+    },
+    {
+      "preferred_name": "Guidelines",
+      "trigger": "[\"Guidelines\"-tx-1-\"guidelines\"-noun-0]",
+      "cui": "C0162791",
+      "semtypes": "[inpr]",
+      "pos_info": "14/10"
+    },
+    {
+      "preferred_name": "Triage",
+      "trigger": "[\"Triage\"-tx-1-\"triaging\"-adj-0]",
+      "cui": "C0040861",
+      "semtypes": "[topp]",
+      "pos_info": "29/8"
+    }
+  ],
+  "12": [
+    {
+      "preferred_name": "Quarantine",
+      "trigger": "[\"Quarantine\"-tx-1-\"quarantine\"-noun-0]",
+      "cui": "C0034386",
+      "semtypes": "[topp]",
+      "pos_info": "65/10"
+    }
+  ],
+  "13": [
+    {
+      "preferred_name": "disease transmission",
+      "trigger": "[\"Transmission\"-tx-1-\"transmission\"-noun-0]",
+      "cui": "C0242781",
+      "semtypes": "[patf]",
+      "pos_info": "14/12"
+    },
+    {
+      "preferred_name": "CDISC SDTM Route of Administration Terminology",
+      "trigger": "[\"ROUTE\"-tx-1-\"routes\"-verb-0]",
+      "cui": "C1879941",
+      "semtypes": "[inpr]",
+      "pos_info": "27/6"
+    },
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "37/11"
+    }
+  ],
+  "14": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "35/8"
+    }
+  ],
+  "15": [
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "18/11"
+    }
+  ],
+  "16": [
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "15/11"
+    },
+    {
+      "preferred_name": "Patient Condition Code - Stable",
+      "trigger": "[\"Stable\"-tx-1-\"stable\"-adj-0]",
+      "cui": "C1547311",
+      "semtypes": "[inpr]",
+      "pos_info": "34/6"
+    }
+  ],
+  "17": [
+    {
+      "preferred_name": "Clinical Trial [Publication Type]",
+      "trigger": "[\"clinical trials\"-tx-1-\"clinical trials\"-noun-0]",
+      "cui": "C1096775",
+      "semtypes": "[inpr]",
+      "pos_info": "15/15"
+    },
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "49/11"
+    }
+  ],
+  "18": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "53/8"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"preventing\"-adj-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "29/10"
+    }
+  ],
+  "19": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "50/8"
+    },
+    {
+      "preferred_name": "GDC Type Terminology",
+      "trigger": "[\"TYPE\"-tx-1-\"type\"-noun-0]",
+      "cui": "C5202910",
+      "semtypes": "[inpr]",
+      "pos_info": "6/4"
+    }
+  ],
+  "20": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "63:3"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "90/8"
+    },
+    {
+      "preferred_name": "Angiotensin-Converting Enzyme Inhibitors",
+      "trigger": "[\"Angiotensin converting enzyme--Inhibitors\"-tx-1-\"Angiotensin-converting enzyme inhibitors\"-noun-0]",
+      "cui": "C0003015",
+      "semtypes": "[phsu]",
+      "pos_info": "21/40"
+    }
+  ],
+  "21": [
+    {
+      "preferred_name": "Overall Publication Type",
+      "trigger": "[\"Overall\"-tx-1-\"overall\"-adv-0]",
+      "cui": "C0282416",
+      "semtypes": "[inpr]",
+      "pos_info": "30/7"
+    }
+  ],
+  "22": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "51/8"
+    },
+    {
+      "preferred_name": "Cardiac complication",
+      "trigger": "[\"Cardiac complications\"-tx-1-\"cardiac complications\"-noun-0]",
+      "cui": "C0161816",
+      "semtypes": "[patf]",
+      "pos_info": "5/21"
+    },
+    {
+      "preferred_name": "Complication",
+      "trigger": "[\"Complications\"-tx-1-\"complications\"-noun-0]",
+      "cui": "C0009566",
+      "semtypes": "[patf]",
+      "pos_info": "13/13"
+    }
+  ],
+  "23": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "40/8"
+    },
+    {
+      "preferred_name": "Hypertensive disease",
+      "trigger": "[\"HYPERTENSION\"-tx-1-\"hypertension\"-noun-0]",
+      "cui": "C0020538",
+      "semtypes": "[dsyn]",
+      "pos_info": "69/12"
+    },
+    {
+      "preferred_name": "Complication",
+      "trigger": "[\"Complications\"-tx-1-\"complications\"-noun-0]",
+      "cui": "C0009566",
+      "semtypes": "[patf]",
+      "pos_info": "15/13"
+    }
+  ],
+  "24": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "40/8"
+    },
+    {
+      "preferred_name": "Diabetes",
+      "trigger": "[\"Diabetes\"-tx-1-\"diabetes\"-noun-0]",
+      "cui": "C0011847",
+      "semtypes": "[dsyn]",
+      "pos_info": "69/8"
+    },
+    {
+      "preferred_name": "Complication",
+      "trigger": "[\"Complications\"-tx-1-\"complications\"-noun-0]",
+      "cui": "C0009566",
+      "semtypes": "[patf]",
+      "pos_info": "15/13"
+    }
+  ],
+  "25": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"2019-nCoV infection\"-tx-1-\"2019-nCOV infection\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "56/19"
+    }
+  ],
+  "26": [
+    {
+      "preferred_name": "Symptoms",
+      "trigger": "[\"SYMPTOMS\"-tx-1-\"symptoms\"-noun-0]",
+      "cui": "C1457887",
+      "semtypes": "[sosy]",
+      "pos_info": "22/8"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "34/8"
+    }
+  ],
+  "27": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "41/8"
+    }
+  ],
+  "28": [
+    {
+      "preferred_name": "hydroxychloroquine",
+      "trigger": "[\"HYDROXYCHLOROQUINE\"-tx-1-\"hydroxychloroquine\"-noun-0]",
+      "cui": "C0020336",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "41/18"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "72/8"
+    }
+  ],
+  "29": [
+    {
+      "preferred_name": "Pharmaceutical Preparations",
+      "trigger": "[\"Drugs\"-tx-1-\"drugs\"-noun-0]",
+      "cui": "C0013227",
+      "semtypes": "[phsu]",
+      "pos_info": "111/5"
+    }
+  ],
+  "30": [
+    {
+      "preferred_name": "remdesivir",
+      "trigger": "[\"REMDESIVIR\"-tx-1-\"remdesivir\"-noun-0]",
+      "cui": "C4726677",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "4/10"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "42/8"
+    }
+  ],
+  "31": [
+    {
+      "preferred_name": "Coronavirus Infections",
+      "trigger": "[\"Corona virus\"-tx-1-\"coronavirus\"-noun-0]",
+      "cui": "C0206750",
+      "semtypes": "[dsyn]",
+      "pos_info": "14/11"
+    },
+    {
+      "preferred_name": "Influenza",
+      "trigger": "[\"FLU\"-tx-1-\"flu\"-noun-0]",
+      "cui": "C0021400",
+      "semtypes": "[dsyn]",
+      "pos_info": "47/3"
+    }
+  ],
+  "32": [],
+  "33": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"Covid-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "46/8"
+    },
+    {
+      "preferred_name": "Candidate",
+      "trigger": "[\"Candidate\"-tx-1-\"candidates\"-noun-0]",
+      "cui": "C4527371",
+      "semtypes": "[cnce]",
+      "pos_info": "14/10"
+    },
+    {
+      "preferred_name": "Tests (qualifier value)",
+      "trigger": "[\"tested\"-tx-1-\"tested\"-verb-0]",
+      "cui": "C0392366",
+      "semtypes": "[inpr]",
+      "pos_info": "35/6"
+    },
+    {
+      "preferred_name": "Vaccines",
+      "trigger": "[\"Vaccine\"-tx-1-\"vaccine\"-noun-0]",
+      "cui": "C0042210",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "6/7"
+    }
+  ],
+  "34": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "66/8"
+    },
+    {
+      "preferred_name": "Complication",
+      "trigger": "[\"Complications\"-tx-1-\"complications\"-noun-0]",
+      "cui": "C0009566",
+      "semtypes": "[patf]",
+      "pos_info": "26/13"
+    }
+  ],
+  "35": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "51/8"
+    },
+    {
+      "preferred_name": "Data Set",
+      "trigger": "[\"Dataset\"-tx-1-\"datasets\"-noun-0]",
+      "cui": "C0150098",
+      "semtypes": "[inpr]",
+      "pos_info": "17/8"
+    }
+  ],
+  "36": [],
+  "37": [
+    {
+      "preferred_name": "Genome - anatomical entity",
+      "trigger": "[\"Genome\"-tx-1-\"genome\"-noun-0]",
+      "cui": "C2338314",
+      "semtypes": "[cnce]",
+      "pos_info": "59/6"
+    },
+    {
+      "preferred_name": "Sequence - TransmissionRelationshipTypeCode",
+      "trigger": "[\"sequence\"-tx-1-\"sequence\"-noun-0]",
+      "cui": "C3853789",
+      "semtypes": "[inpr]",
+      "pos_info": "66/8"
+    },
+    {
+      "preferred_name": "Phylogenetic Analysis",
+      "trigger": "[\"Phylogenetic Analysis\"-tx-1-\"phylogenetic analysis\"-noun-0]",
+      "cui": "C1519068",
+      "semtypes": "[resa]",
+      "pos_info": "23/21"
+    }
+  ],
+  "38": [
+    {
+      "preferred_name": "Pathogenesis",
+      "trigger": "[\"Pathogenesis\"-tx-1-\"pathogenesis\"-noun-0]",
+      "cui": "C0699748",
+      "semtypes": "[patf]",
+      "pos_info": "52/12"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "68/8"
+    },
+    {
+      "preferred_name": "Inflammatory Response",
+      "trigger": "[\"Inflammatory Response\"-tx-1-\"inflammatory response\"-noun-0]",
+      "cui": "C1155266",
+      "semtypes": "[patf]",
+      "pos_info": "26/21"
+    }
+  ],
+  "39": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "57/8"
+    },
+    {
+      "preferred_name": "Trichohepatoenteric Syndrome",
+      "trigger": "[\"THE SYNDROME\"-tx-1-\"the syndrome\"-noun-0]",
+      "cui": "C1857276",
+      "semtypes": "[dsyn]",
+      "pos_info": "9/3,41/8"
+    }
+  ],
+  "40": [
+    {
+      "preferred_name": "Often - answer to question",
+      "trigger": "[\"Often\"-tx-1-\"often\"-adv-0]",
+      "cui": "C4050225",
+      "semtypes": "[inpr]",
+      "pos_info": "66/5"
+    }
+  ],
+  "41": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "25/8"
+    }
+  ],
+  "42": [
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "47/9"
+    },
+    {
+      "preferred_name": "Prophylactic treatment",
+      "trigger": "[\"Prevention\"-tx-1-\"prevention\"-noun-0]",
+      "cui": "C0199176",
+      "semtypes": "[topp]",
+      "pos_info": "32/10"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "23/8"
+    },
+    {
+      "preferred_name": "vitamin D",
+      "trigger": "[\"VITAMIN D\"-tx-1-\"Vitamin D\"-noun-0]",
+      "cui": "C0042866",
+      "semtypes": "[horm,phsu,vita]",
+      "pos_info": "6/9"
+    }
+  ],
+  "43": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19 pandemic\"-tx-1-\"COVID-19 pandemic\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "13/17"
+    },
+    {
+      "preferred_name": "Impacted tooth",
+      "trigger": "[\"Impacted\"-tx-1-\"impacted\"-adj-0]",
+      "cui": "C0040456",
+      "semtypes": "[dsyn]",
+      "pos_info": "31/8"
+    }
+  ],
+  "44": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "63/8"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"preventing\"-noun-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "34/10"
+    }
+  ],
+  "45": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19 pandemic\"-tx-1-\"COVID-19 pandemic\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "13/17"
+    },
+    {
+      "preferred_name": "Impacted tooth",
+      "trigger": "[\"Impacted\"-tx-1-\"impacted\"-adj-0]",
+      "cui": "C0040456",
+      "semtypes": "[dsyn]",
+      "pos_info": "31/8"
+    }
+  ],
+  "46": [
+    {
+      "preferred_name": "dexamethasone",
+      "trigger": "[\"DEXAMETHASONE\"-tx-1-\"dexamethasone\"-noun-0]",
+      "cui": "C0011777",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "28/13"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "47/9"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "61/8"
+    },
+    {
+      "preferred_name": "artesunate",
+      "trigger": "[\"AS\"-tx-1-\"as\"-prep-0]",
+      "cui": "C0052432",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "42/2"
+    }
+  ],
+  "47": [
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "56/8"
+    },
+    {
+      "preferred_name": "Routine Contract",
+      "trigger": "[\"Contract\"-tx-1-\"contract\"-verb-0]",
+      "cui": "C1705564",
+      "semtypes": "[cnce]",
+      "pos_info": "47/8"
+    },
+    {
+      "preferred_name": "Health Outcomes",
+      "trigger": "[\"Health Outcomes\"-tx-1-\"health outcomes\"-noun-0]",
+      "cui": "C1550208",
+      "semtypes": "[inpr]",
+      "pos_info": "14/15"
+    }
+  ],
+  "48": [
+    {
+      "preferred_name": "GDC Radon Exposure Terminology",
+      "trigger": "[\"RE\"-tx-1-\"re\"-noun-0]",
+      "cui": "C5202999",
+      "semtypes": "[inpr]",
+      "pos_info": "36/2"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risks\"-verb-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "27/5"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19 pandemic\"-tx-1-\"COVID-19 pandemic\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "75/17"
+    }
+  ],
+  "49": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "131/2"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevent\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "134/7"
+    },
+    {
+      "preferred_name": "Communicable Diseases",
+      "trigger": "[\"Infection, NOS\"-tx-1-\"infection\"-noun-0]",
+      "cui": "C0009450",
+      "semtypes": "[dsyn]",
+      "pos_info": "145/9"
+    },
+    {
+      "preferred_name": "GDC Radon Exposure Terminology",
+      "trigger": "[\"RE\"-tx-1-\"re\"-noun-0]",
+      "cui": "C5202999",
+      "semtypes": "[inpr]",
+      "pos_info": "142/2"
+    },
+    {
+      "preferred_name": "COVID-19",
+      "trigger": "[\"COVID-19\"-tx-1-\"COVID-19\"-noun-0]",
+      "cui": "C5203670",
+      "semtypes": "[dsyn]",
+      "pos_info": "33/8"
+    }
+  ],
+  "50": [
+    {
+      "preferred_name": "Vaccines",
+      "trigger": "[\"Vaccine\"-tx-1-\"vaccine\"-noun-0]",
+      "cui": "C0042210",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "29/7"
+    }
+  ]
+}

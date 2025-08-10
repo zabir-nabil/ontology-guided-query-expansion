@@ -1,0 +1,1294 @@
+{
+    "PLAIN-2": {
+        "query_o": "Do Cholesterol Statin Drugs Cause Breast Cancer?",
+        "query_p": "Are statin medications linked to an increased risk of developing breast cancer?"
+    },
+    "PLAIN-12": {
+        "query_o": "Exploiting Autophagy to Live Longer",
+        "query_p": "Utilizing Autophagy for Increased Longevity"
+    },
+    "PLAIN-23": {
+        "query_o": "How to Reduce Exposure to Alkylphenols Through Your Diet",
+        "query_p": "Ways to Decrease Alkylphenols in Your Diet"
+    },
+    "PLAIN-33": {
+        "query_o": "What\u2019s Driving America\u2019s Obesity Problem?",
+        "query_p": "What are the main causes of obesity in the United States?"
+    },
+    "PLAIN-44": {
+        "query_o": "Who Should be Careful About Curcumin?",
+        "query_p": "Who Needs to Exercise Caution When Taking Curcumin?"
+    },
+    "PLAIN-56": {
+        "query_o": "Foods for Glaucoma",
+        "query_p": "Options for diet that may benefit glaucoma"
+    },
+    "PLAIN-68": {
+        "query_o": "What is Actually in Chicken Nuggets?",
+        "query_p": "What ingredients make up chicken nuggets?"
+    },
+    "PLAIN-78": {
+        "query_o": "What Do Meat Purge and Cola Have in Common?",
+        "query_p": "How are meat purge and cola related?"
+    },
+    "PLAIN-91": {
+        "query_o": "Chronic Headaches and Pork Parasites",
+        "query_p": "Persistent Headaches and Parasites in Pork"
+    },
+    "PLAIN-102": {
+        "query_o": "Stopping Heart Disease in Childhood",
+        "query_p": "Preventing Heart Disease in Children"
+    },
+    "PLAIN-112": {
+        "query_o": "Food Dyes and ADHD",
+        "query_p": "The relationship between food coloring and attention deficit hyperactivity disorder (ADHD)."
+    },
+    "PLAIN-123": {
+        "query_o": "How Citrus Might Help Keep Your Hands Warm",
+        "query_p": "Ways Citrus Can Keep Your Hands Warm"
+    },
+    "PLAIN-133": {
+        "query_o": "Starving Tumors of Their Blood Supply",
+        "query_p": "Cutting Off Blood Supply to Tumors"
+    },
+    "PLAIN-143": {
+        "query_o": "Are Dental X-Rays Safe?",
+        "query_p": "Are dental X-rays considered safe?"
+    },
+    "PLAIN-153": {
+        "query_o": "How Should I Take Probiotics?",
+        "query_p": "What is the recommended way to take probiotics?"
+    },
+    "PLAIN-165": {
+        "query_o": "Breast Cancer & Alcohol: How Much is Safe?",
+        "query_p": "What is the safe amount of alcohol consumption in relation to breast cancer risk?"
+    },
+    "PLAIN-175": {
+        "query_o": "Diet and Cellulite",
+        "query_p": "Nutrition and the Development of Cellulite"
+    },
+    "PLAIN-186": {
+        "query_o": "Best Treatment for Constipation",
+        "query_p": "Effective remedies for alleviating constipation"
+    },
+    "PLAIN-196": {
+        "query_o": "Should We Avoid Titanium Dioxide?",
+        "query_p": "Is It Advisable to Steer Clear of Titanium Dioxide?"
+    },
+    "PLAIN-207": {
+        "query_o": "Avoiding Cooked Meat Carcinogens",
+        "query_p": "Preventing Cancer-Causing Agents in Cooked Meat"
+    },
+    "PLAIN-217": {
+        "query_o": "Plant-Based Diets for Psoriasis",
+        "query_p": "Dietary Approaches Using Plants for Managing Psoriasis"
+    },
+    "PLAIN-227": {
+        "query_o": "Increasing Muscle Strength with Fenugreek",
+        "query_p": "Using Fenugreek to Enhance Muscle Strength"
+    },
+    "PLAIN-238": {
+        "query_o": "How Chemically Contaminated Are We?",
+        "query_p": "To what extent are we affected by chemical contamination?"
+    },
+    "PLAIN-248": {
+        "query_o": "Treating an Enlarged Prostate With Diet",
+        "query_p": "Using Dietary Changes to Manage an Enlarged Prostate"
+    },
+    "PLAIN-259": {
+        "query_o": "Optimal Phytosterol Dose and Source",
+        "query_p": "Best Phytosterol Amount and Origin"
+    },
+    "PLAIN-270": {
+        "query_o": "Is Caffeinated Tea Really Dehydrating?",
+        "query_p": "Does drinking caffeinated tea actually cause dehydration?"
+    },
+    "PLAIN-280": {
+        "query_o": "Mercury Testing Recommended Before Pregnancy",
+        "query_p": "Testing for Mercury Levels Suggested Prior to Pregnancy"
+    },
+    "PLAIN-291": {
+        "query_o": "Stool Size and Breast Cancer Risk",
+        "query_p": "The Relationship Between Stool Dimensions and the Risk of Developing Breast Cancer"
+    },
+    "PLAIN-307": {
+        "query_o": "Vitamin D: Shedding some light on the new recommendations",
+        "query_p": "Exploring the Updated Guidelines on Vitamin D"
+    },
+    "PLAIN-320": {
+        "query_o": "Breast Cancer and Diet",
+        "query_p": "Diet and Its Relationship to Breast Cancer"
+    },
+    "PLAIN-332": {
+        "query_o": "Can antioxidant-rich spices counteract the effects of a high-fat meal?",
+        "query_p": "Do spices that are rich in antioxidants help mitigate the impact of consuming a high-fat meal?"
+    },
+    "PLAIN-344": {
+        "query_o": "Dioxins Stored in Our Own Fat May Increase Diabetes Risk",
+        "query_p": "Dioxins Accumulated in Body Fat Might Elevate the Risk of Diabetes"
+    },
+    "PLAIN-358": {
+        "query_o": "Didn't another study show carnitine was good for the heart?",
+        "query_p": "Didn't a different study suggest that carnitine benefits the heart?"
+    },
+    "PLAIN-371": {
+        "query_o": "Any update on the scary in vitro avocado data?",
+        "query_p": "Are there any new developments or updates regarding the alarming in vitro avocado research findings?"
+    },
+    "PLAIN-383": {
+        "query_o": "What do you think of Dr. Jenkins' take on paleolithic diets?",
+        "query_p": "What is your opinion on Dr. Jenkins' perspective regarding paleolithic diets?"
+    },
+    "PLAIN-395": {
+        "query_o": "What about pepper plus turmeric in V8 juice?",
+        "query_p": "How does adding pepper and turmeric affect V8 juice?"
+    },
+    "PLAIN-407": {
+        "query_o": "Is annatto food coloring safe?",
+        "query_p": "Is it safe to consume annatto as a food coloring?"
+    },
+    "PLAIN-418": {
+        "query_o": "Fresh fruit versus frozen--which is better?",
+        "query_p": "Is it better to consume fresh fruit or frozen fruit?"
+    },
+    "PLAIN-430": {
+        "query_o": "Are krill oil supplements better than fish oil capsules?",
+        "query_p": "Do krill oil supplements have advantages over fish oil capsules?"
+    },
+    "PLAIN-441": {
+        "query_o": "Is apple cider vinegar good for you?",
+        "query_p": "Is apple cider vinegar beneficial for your health?"
+    },
+    "PLAIN-457": {
+        "query_o": "How can you believe in any scientific study?",
+        "query_p": "What makes you trust a scientific study?"
+    },
+    "PLAIN-468": {
+        "query_o": "Is vitamin D3 (cholecalciferol) preferable to D2 (ergocalciferol)?",
+        "query_p": "Is cholecalciferol a better option than ergocalciferol?"
+    },
+    "PLAIN-478": {
+        "query_o": "accidents",
+        "query_p": "traffic incidents"
+    },
+    "PLAIN-488": {
+        "query_o": "adenovirus 36",
+        "query_p": "Adenovirus type 36"
+    },
+    "PLAIN-499": {
+        "query_o": "African-American",
+        "query_p": "Query: Black American"
+    },
+    "PLAIN-510": {
+        "query_o": "airport scanners",
+        "query_p": "machines used for security screening at airports"
+    },
+    "PLAIN-520": {
+        "query_o": "Alli",
+        "query_p": "Query: Alli\n\nParaphrased query: Explain the meaning of the name Alli."
+    },
+    "PLAIN-531": {
+        "query_o": "alternative medicine",
+        "query_p": "holistic healing practices"
+    },
+    "PLAIN-541": {
+        "query_o": "American Dental Association",
+        "query_p": "U.S. Dental Association"
+    },
+    "PLAIN-551": {
+        "query_o": "amnesia",
+        "query_p": "memory loss"
+    },
+    "PLAIN-561": {
+        "query_o": "aneurysm",
+        "query_p": "bulging blood vessel condition"
+    },
+    "PLAIN-571": {
+        "query_o": "anisakis",
+        "query_p": "Information on anisakis"
+    },
+    "PLAIN-583": {
+        "query_o": "antinutrients",
+        "query_p": "Substances that interfere with nutrient absorption."
+    },
+    "PLAIN-593": {
+        "query_o": "apnea",
+        "query_p": "sleep apnea"
+    },
+    "PLAIN-603": {
+        "query_o": "Arkansas",
+        "query_p": "Tell me about Arkansas."
+    },
+    "PLAIN-613": {
+        "query_o": "ascorbic acid",
+        "query_p": "vitamin C"
+    },
+    "PLAIN-623": {
+        "query_o": "Atkins diet",
+        "query_p": "Low-carbohydrate Atkins dietary plan"
+    },
+    "PLAIN-634": {
+        "query_o": "avocados",
+        "query_p": "Query: avocados\n\nParaphrased query: information about avocados"
+    },
+    "PLAIN-645": {
+        "query_o": "bagels",
+        "query_p": "types of bagels"
+    },
+    "PLAIN-660": {
+        "query_o": "beans",
+        "query_p": "types of beans"
+    },
+    "PLAIN-671": {
+        "query_o": "benzene",
+        "query_p": "Query: C6H6 compound"
+    },
+    "PLAIN-681": {
+        "query_o": "betel nuts",
+        "query_p": "areca nuts"
+    },
+    "PLAIN-691": {
+        "query_o": "bioavailability",
+        "query_p": "extent of absorption and availability of a drug in the bloodstream"
+    },
+    "PLAIN-701": {
+        "query_o": "black raspberries",
+        "query_p": "dark berries called raspberries"
+    },
+    "PLAIN-711": {
+        "query_o": "blood clots",
+        "query_p": "clotting in the bloodstream"
+    },
+    "PLAIN-721": {
+        "query_o": "BMAA",
+        "query_p": "Beta-methylamino-L-alanine"
+    },
+    "PLAIN-731": {
+        "query_o": "bone fractures",
+        "query_p": "broken bones"
+    },
+    "PLAIN-741": {
+        "query_o": "BPH",
+        "query_p": "What is benign prostatic hyperplasia?"
+    },
+    "PLAIN-751": {
+        "query_o": "BRCA genes",
+        "query_p": "Genes associated with breast cancer (BRCA)"
+    },
+    "PLAIN-761": {
+        "query_o": "breast pain",
+        "query_p": "chest discomfort"
+    },
+    "PLAIN-771": {
+        "query_o": "bronchiolitis obliterans",
+        "query_p": "obstructive lung disease affecting the small airways"
+    },
+    "PLAIN-782": {
+        "query_o": "Bush administration",
+        "query_p": "Administration under President Bush"
+    },
+    "PLAIN-792": {
+        "query_o": "cadaverine",
+        "query_p": "Query: a compound associated with decaying organic matter\n\nParaphrased query:"
+    },
+    "PLAIN-806": {
+        "query_o": "caloric restriction",
+        "query_p": "reducing calorie intake"
+    },
+    "PLAIN-817": {
+        "query_o": "canker sores",
+        "query_p": "mouth ulcers"
+    },
+    "PLAIN-827": {
+        "query_o": "carcinogens",
+        "query_p": "substances that cause cancer"
+    },
+    "PLAIN-838": {
+        "query_o": "carrageenan",
+        "query_p": "carrageenan extract"
+    },
+    "PLAIN-850": {
+        "query_o": "cauliflower",
+        "query_p": "cauliflower vegetable"
+    },
+    "PLAIN-872": {
+        "query_o": "chanterelle mushrooms",
+        "query_p": "wild mushrooms called chanterelles"
+    },
+    "PLAIN-882": {
+        "query_o": "Chernobyl",
+        "query_p": "Disaster at the Chernobyl Nuclear Power Plant"
+    },
+    "PLAIN-892": {
+        "query_o": "chickpeas",
+        "query_p": "Query: garbanzo beans"
+    },
+    "PLAIN-902": {
+        "query_o": "chlorophyll",
+        "query_p": "green pigment in plants"
+    },
+    "PLAIN-913": {
+        "query_o": "cinnamon",
+        "query_p": "spice known as cinnamon"
+    },
+    "PLAIN-924": {
+        "query_o": "cocaine",
+        "query_p": "substance used as a recreational stimulant or medication"
+    },
+    "PLAIN-934": {
+        "query_o": "coffee",
+        "query_p": "brewed beverage made from coffee beans"
+    },
+    "PLAIN-946": {
+        "query_o": "coma",
+        "query_p": "unconscious state"
+    },
+    "PLAIN-956": {
+        "query_o": "cooking methods",
+        "query_p": "ways to cook"
+    },
+    "PLAIN-966": {
+        "query_o": "cortisol",
+        "query_p": "What is cortisol?"
+    },
+    "PLAIN-977": {
+        "query_o": "crib death",
+        "query_p": "sudden infant death"
+    },
+    "PLAIN-987": {
+        "query_o": "cumin",
+        "query_p": "spice known as cumin"
+    },
+    "PLAIN-997": {
+        "query_o": "Czechoslovakia",
+        "query_p": "What is Czechoslovakia?"
+    },
+    "PLAIN-1008": {
+        "query_o": "deafness",
+        "query_p": "hearing loss"
+    },
+    "PLAIN-1018": {
+        "query_o": "DHA",
+        "query_p": "Document Handling and Administration"
+    },
+    "PLAIN-1028": {
+        "query_o": "dietary scoring",
+        "query_p": "assessment of dietary habits"
+    },
+    "PLAIN-1039": {
+        "query_o": "domoic acid",
+        "query_p": "acid domoic"
+    },
+    "PLAIN-1050": {
+        "query_o": "Dr. Dean Ornish",
+        "query_p": "Dr. Ornish, Dean"
+    },
+    "PLAIN-1066": {
+        "query_o": "Dr. Walter Willett",
+        "query_p": "Walter Willett, M.D."
+    },
+    "PLAIN-1088": {
+        "query_o": "ECMO",
+        "query_p": "Extracorporeal membrane oxygenation"
+    },
+    "PLAIN-1098": {
+        "query_o": "eggnog",
+        "query_p": "traditional holiday beverage"
+    },
+    "PLAIN-1109": {
+        "query_o": "endocrine disruptors",
+        "query_p": "substances that interfere with the endocrine system"
+    },
+    "PLAIN-1119": {
+        "query_o": "energy drinks",
+        "query_p": "Beverage that boosts energy."
+    },
+    "PLAIN-1130": {
+        "query_o": "ergothioneine",
+        "query_p": "Ergothioneine compound"
+    },
+    "PLAIN-1141": {
+        "query_o": "Evidence-based medicine",
+        "query_p": "Medicine based on empirical evidence"
+    },
+    "PLAIN-1151": {
+        "query_o": "factory farming practices",
+        "query_p": "industrial livestock farming methods"
+    },
+    "PLAIN-1161": {
+        "query_o": "fava beans",
+        "query_p": "broad beans"
+    },
+    "PLAIN-1172": {
+        "query_o": "fenugreek",
+        "query_p": "fenugreek herb"
+    },
+    "PLAIN-1183": {
+        "query_o": "Finland",
+        "query_p": "What can you tell me about Finland?"
+    },
+    "PLAIN-1193": {
+        "query_o": "flax oil",
+        "query_p": "linseed oil"
+    },
+    "PLAIN-1203": {
+        "query_o": "folic acid",
+        "query_p": "Vitamin B9 supplement"
+    },
+    "PLAIN-1214": {
+        "query_o": "Fosamax",
+        "query_p": "What information is available about Fosamax?"
+    },
+    "PLAIN-1225": {
+        "query_o": "fructose",
+        "query_p": "query: fruit sugar"
+    },
+    "PLAIN-1236": {
+        "query_o": "galactosemia",
+        "query_p": "Galactosemia disorder information"
+    },
+    "PLAIN-1249": {
+        "query_o": "genetic manipulation",
+        "query_p": "genetic engineering"
+    },
+    "PLAIN-1262": {
+        "query_o": "Global Burden of Disease Study",
+        "query_p": "Study on the Worldwide Impact of Diseases"
+    },
+    "PLAIN-1275": {
+        "query_o": "goji berries",
+        "query_p": "benefits of consuming goji berries"
+    },
+    "PLAIN-1288": {
+        "query_o": "grapes",
+        "query_p": "query about grapes"
+    },
+    "PLAIN-1299": {
+        "query_o": "growth promoters",
+        "query_p": "agents that stimulate growth"
+    },
+    "PLAIN-1309": {
+        "query_o": "halibut",
+        "query_p": "Type of fish called halibut"
+    },
+    "PLAIN-1320": {
+        "query_o": "Harvard Physicians\u2019 Study II",
+        "query_p": "Study conducted by Harvard involving physicians, II"
+    },
+    "PLAIN-1331": {
+        "query_o": "hearing",
+        "query_p": "Listening session"
+    },
+    "PLAIN-1342": {
+        "query_o": "heme iron",
+        "query_p": "iron in the form found in animal products"
+    },
+    "PLAIN-1353": {
+        "query_o": "hernia",
+        "query_p": "protrusion of an organ through the wall of the cavity containing it"
+    },
+    "PLAIN-1363": {
+        "query_o": "Hiroshima",
+        "query_p": "Hiroshima City"
+    },
+    "PLAIN-1374": {
+        "query_o": "hormonal dysfunction",
+        "query_p": "endocrine imbalance"
+    },
+    "PLAIN-1387": {
+        "query_o": "hyperactivity",
+        "query_p": "increased activity levels"
+    },
+    "PLAIN-1398": {
+        "query_o": "IGF-1",
+        "query_p": "Insulin-like Growth Factor 1 (IGF-1)"
+    },
+    "PLAIN-1409": {
+        "query_o": "industrial toxins",
+        "query_p": "hazardous substances from industrial processes"
+    },
+    "PLAIN-1419": {
+        "query_o": "insects",
+        "query_p": "creatures classified as insects"
+    },
+    "PLAIN-1429": {
+        "query_o": "Iowa Women\u2019s Health Study",
+        "query_p": "Research on Women's Health in Iowa"
+    },
+    "PLAIN-1441": {
+        "query_o": "Japan",
+        "query_p": "Country in East Asia."
+    },
+    "PLAIN-1453": {
+        "query_o": "junk food",
+        "query_p": "Unhealthy snacks and fast food"
+    },
+    "PLAIN-1463": {
+        "query_o": "kidney beans",
+        "query_p": "Query: red beans"
+    },
+    "PLAIN-1473": {
+        "query_o": "kohlrabi",
+        "query_p": "Definition and uses of kohlrabi"
+    },
+    "PLAIN-1485": {
+        "query_o": "lard",
+        "query_p": "Animal fat"
+    },
+    "PLAIN-1496": {
+        "query_o": "leeks",
+        "query_p": "green onions"
+    },
+    "PLAIN-1506": {
+        "query_o": "leucine",
+        "query_p": "leucine amino acid"
+    },
+    "PLAIN-1516": {
+        "query_o": "Lindane",
+        "query_p": "What is lindane?"
+    },
+    "PLAIN-1527": {
+        "query_o": "liver disease",
+        "query_p": "hepatic disorder"
+    },
+    "PLAIN-1537": {
+        "query_o": "low-carb diets",
+        "query_p": "Diets focusing on reducing carbohydrates"
+    },
+    "PLAIN-1547": {
+        "query_o": "lyme disease",
+        "query_p": "What is Lyme disease?"
+    },
+    "PLAIN-1557": {
+        "query_o": "magnesium",
+        "query_p": "Search term: magnesium"
+    },
+    "PLAIN-1568": {
+        "query_o": "maple syrup",
+        "query_p": "natural maple sweetener"
+    },
+    "PLAIN-1579": {
+        "query_o": "mastitis",
+        "query_p": "inflammation of the mammary gland"
+    },
+    "PLAIN-1590": {
+        "query_o": "medical ethics",
+        "query_p": "ethical issues in healthcare"
+    },
+    "PLAIN-1601": {
+        "query_o": "memory",
+        "query_p": "recall\u80fd\u529b"
+    },
+    "PLAIN-1611": {
+        "query_o": "mesquite",
+        "query_p": "mesquite tree"
+    },
+    "PLAIN-1621": {
+        "query_o": "Mevacor",
+        "query_p": "Lovastatin"
+    },
+    "PLAIN-1635": {
+        "query_o": "milk",
+        "query_p": "dairy product"
+    },
+    "PLAIN-1645": {
+        "query_o": "molasses",
+        "query_p": "syrup-like byproduct of sugar processing"
+    },
+    "PLAIN-1656": {
+        "query_o": "mouth cancer",
+        "query_p": "Oral cancer"
+    },
+    "PLAIN-1667": {
+        "query_o": "muscle health",
+        "query_p": "well-being of muscles"
+    },
+    "PLAIN-1679": {
+        "query_o": "myelopathy",
+        "query_p": "spinal cord disease"
+    },
+    "PLAIN-1690": {
+        "query_o": "National Academy of Sciences",
+        "query_p": "Academy of Sciences of the United States"
+    },
+    "PLAIN-1700": {
+        "query_o": "Native Americans",
+        "query_p": "Indigenous Peoples of America"
+    },
+    "PLAIN-1710": {
+        "query_o": "neurocysticercosis",
+        "query_p": "What is neurocysticercosis?"
+    },
+    "PLAIN-1721": {
+        "query_o": "NIH-AARP study",
+        "query_p": "The NIH-AARP research study"
+    },
+    "PLAIN-1731": {
+        "query_o": "norovirus",
+        "query_p": "stomach virus"
+    },
+    "PLAIN-1741": {
+        "query_o": "nuts",
+        "query_p": "types of nuts"
+    },
+    "PLAIN-1752": {
+        "query_o": "okra",
+        "query_p": "query: lady's finger"
+    },
+    "PLAIN-1762": {
+        "query_o": "oral intraepithelial neoplasia",
+        "query_p": "pre-cancerous lesions in the mouth"
+    },
+    "PLAIN-1772": {
+        "query_o": "organotins",
+        "query_p": "compounds containing organotin elements"
+    },
+    "PLAIN-1784": {
+        "query_o": "oxen meat",
+        "query_p": "meat from oxen"
+    },
+    "PLAIN-1794": {
+        "query_o": "Panama",
+        "query_p": "What information can you provide about Panama?"
+    },
+    "PLAIN-1805": {
+        "query_o": "Parkinson's disease",
+        "query_p": "Inquiry about Parkinson's disease"
+    },
+    "PLAIN-1817": {
+        "query_o": "peanut butter",
+        "query_p": "crushed peanut spread"
+    },
+    "PLAIN-1827": {
+        "query_o": "Peoria",
+        "query_p": "City of Peoria"
+    },
+    "PLAIN-1837": {
+        "query_o": "pesticides",
+        "query_p": "chemical agents for pest control"
+    },
+    "PLAIN-1847": {
+        "query_o": "philippines",
+        "query_p": "The Philippines"
+    },
+    "PLAIN-1857": {
+        "query_o": "phytic acid",
+        "query_p": "chelating agent found in seeds"
+    },
+    "PLAIN-1867": {
+        "query_o": "pineapples",
+        "query_p": "tropical fruit with a spiky exterior and sweet interior"
+    },
+    "PLAIN-1877": {
+        "query_o": "plant-based diet",
+        "query_p": "vegetarian or vegan eating plan"
+    },
+    "PLAIN-1887": {
+        "query_o": "poisonous plants",
+        "query_p": "toxic flora"
+    },
+    "PLAIN-1897": {
+        "query_o": "polypropylene plastic",
+        "query_p": "plastic made of polypropylene"
+    },
+    "PLAIN-1909": {
+        "query_o": "pork",
+        "query_p": "meat from a pig"
+    },
+    "PLAIN-1919": {
+        "query_o": "poultry workers",
+        "query_p": "workers in the poultry industry"
+    },
+    "PLAIN-1929": {
+        "query_o": "prenatal vitamins",
+        "query_p": "vitamins for pregnant women"
+    },
+    "PLAIN-1940": {
+        "query_o": "prolactin",
+        "query_p": "levels of the hormone prolactin"
+    },
+    "PLAIN-1950": {
+        "query_o": "prunes",
+        "query_p": "dried plums"
+    },
+    "PLAIN-1962": {
+        "query_o": "pumpkin",
+        "query_p": "gourd vegetable"
+    },
+    "PLAIN-1972": {
+        "query_o": "quinine",
+        "query_p": "medication derived from cinchona bark"
+    },
+    "PLAIN-1983": {
+        "query_o": "rapamycin",
+        "query_p": "sirolimus"
+    },
+    "PLAIN-1995": {
+        "query_o": "red tea",
+        "query_p": "crimson infusion"
+    },
+    "PLAIN-2009": {
+        "query_o": "rhabdomyolysis",
+        "query_p": "muscle breakdown"
+    },
+    "PLAIN-2019": {
+        "query_o": "rickets",
+        "query_p": "information about rickets"
+    },
+    "PLAIN-2030": {
+        "query_o": "Rutin",
+        "query_p": "What is Rutin?"
+    },
+    "PLAIN-2040": {
+        "query_o": "salmon",
+        "query_p": "types of fish, focusing on salmon"
+    },
+    "PLAIN-2051": {
+        "query_o": "saturated fat",
+        "query_p": "high-fat content"
+    },
+    "PLAIN-2061": {
+        "query_o": "seafood",
+        "query_p": "marine cuisine"
+    },
+    "PLAIN-2071": {
+        "query_o": "serotonin",
+        "query_p": "Paraphrased query: What is serotonin?"
+    },
+    "PLAIN-2081": {
+        "query_o": "shelf life",
+        "query_p": "duration of usability"
+    },
+    "PLAIN-2092": {
+        "query_o": "sirtuins",
+        "query_p": "sirtuin proteins"
+    },
+    "PLAIN-2102": {
+        "query_o": "smoking",
+        "query_p": "tobacco use"
+    },
+    "PLAIN-2113": {
+        "query_o": "soil health",
+        "query_p": "condition of the soil"
+    },
+    "PLAIN-2124": {
+        "query_o": "spearmint",
+        "query_p": "peppermint alternative"
+    },
+    "PLAIN-2134": {
+        "query_o": "Splenda",
+        "query_p": "Artificial sweetener Splenda"
+    },
+    "PLAIN-2145": {
+        "query_o": "St. John's wort",
+        "query_p": "Hypericum perforatum (commonly known as St. John's wort)"
+    },
+    "PLAIN-2156": {
+        "query_o": "stevia",
+        "query_p": "Alternative sweetener derived from a plant."
+    },
+    "PLAIN-2167": {
+        "query_o": "subsidies",
+        "query_p": "financial assistance programs"
+    },
+    "PLAIN-2177": {
+        "query_o": "sulfur",
+        "query_p": "Element symbol S"
+    },
+    "PLAIN-2187": {
+        "query_o": "suppositories",
+        "query_p": "medicated inserts"
+    },
+    "PLAIN-2197": {
+        "query_o": "sweeteners",
+        "query_p": "sugar substitutes"
+    },
+    "PLAIN-2209": {
+        "query_o": "taro",
+        "query_p": "Yam variety"
+    },
+    "PLAIN-2220": {
+        "query_o": "tempeh",
+        "query_p": "fermented soybean cake"
+    },
+    "PLAIN-2230": {
+        "query_o": "thiamine",
+        "query_p": "vitamin B1"
+    },
+    "PLAIN-2240": {
+        "query_o": "titanium dioxide",
+        "query_p": "Titanium dioxide compound"
+    },
+    "PLAIN-2250": {
+        "query_o": "tongue worm",
+        "query_p": "tongue parasite"
+    },
+    "PLAIN-2261": {
+        "query_o": "trans fats",
+        "query_p": "hydrogenated fats"
+    },
+    "PLAIN-2271": {
+        "query_o": "Tufts",
+        "query_p": "Query: Tufts University"
+    },
+    "PLAIN-2281": {
+        "query_o": "turnips",
+        "query_p": "roots of turnip plants"
+    },
+    "PLAIN-2291": {
+        "query_o": "ultra-processed foods",
+        "query_p": "highly-processed foods"
+    },
+    "PLAIN-2301": {
+        "query_o": "uterine health",
+        "query_p": "health of the uterus"
+    },
+    "PLAIN-2311": {
+        "query_o": "veal",
+        "query_p": "young beef"
+    },
+    "PLAIN-2321": {
+        "query_o": "veggie chicken",
+        "query_p": "plant-based chicken"
+    },
+    "PLAIN-2332": {
+        "query_o": "viral infections",
+        "query_p": "Queries about infections caused by viruses"
+    },
+    "PLAIN-2343": {
+        "query_o": "vitamin K",
+        "query_p": "health benefits and sources of vitamin K"
+    },
+    "PLAIN-2354": {
+        "query_o": "walnut oil",
+        "query_p": "oil derived from walnuts"
+    },
+    "PLAIN-2364": {
+        "query_o": "weight gain",
+        "query_p": "increase in body mass"
+    },
+    "PLAIN-2375": {
+        "query_o": "whiting",
+        "query_p": "species of fish called whiting"
+    },
+    "PLAIN-2386": {
+        "query_o": "worms",
+        "query_p": "parasitic creatures"
+    },
+    "PLAIN-2396": {
+        "query_o": "Yale",
+        "query_p": "University in Connecticut"
+    },
+    "PLAIN-2408": {
+        "query_o": "Zoloft",
+        "query_p": "Information about Zoloft"
+    },
+    "PLAIN-2430": {
+        "query_o": "Preventing Brain Loss with B Vitamins?",
+        "query_p": "Can B vitamins help stop brain deterioration?"
+    },
+    "PLAIN-2440": {
+        "query_o": "More Than an Apple a Day: Combating Common Diseases",
+        "query_p": "Exceeding One Apple Daily: Battling Frequent Illnesses"
+    },
+    "PLAIN-2450": {
+        "query_o": "Are Organic Foods Safer?",
+        "query_p": "Are organic foods considered to be more secure?"
+    },
+    "PLAIN-2460": {
+        "query_o": "Diabetes as a Disease of Fat Toxicity",
+        "query_p": "Diabetes Viewed as a Condition Caused by Fat Toxicity"
+    },
+    "PLAIN-2470": {
+        "query_o": "Is Milk Good for Our Bones?",
+        "query_p": "Is consuming milk beneficial for bone health?"
+    },
+    "PLAIN-2480": {
+        "query_o": "Preventing Ulcerative Colitis with Diet",
+        "query_p": "Dietary Strategies to Avert Ulcerative Colitis"
+    },
+    "PLAIN-2490": {
+        "query_o": "The Actual Benefit of Diet vs. Drugs",
+        "query_p": "Comparing the True Advantages of Diet and Medication"
+    },
+    "PLAIN-2500": {
+        "query_o": "The Saturated Fat Studies: Buttering Up the Public",
+        "query_p": "The Research on Saturated Fats: Influencing Public Opinion on Butter"
+    },
+    "PLAIN-2510": {
+        "query_o": "Coffee and Artery Function",
+        "query_p": "Impact of Coffee on Arterial Health"
+    },
+    "PLAIN-2520": {
+        "query_o": "Caloric Restriction vs. Plant-Based Diets",
+        "query_p": "Comparison of caloric restriction and plant-based eating plans"
+    },
+    "PLAIN-2530": {
+        "query_o": "Infectobesity: Adenovirus 36 and Childhood Obesity",
+        "query_p": "The relationship between Adenovirus 36 infection and obesity in children."
+    },
+    "PLAIN-2540": {
+        "query_o": "Does Cholesterol Size Matter?",
+        "query_p": "Is the size of cholesterol significant?"
+    },
+    "PLAIN-2550": {
+        "query_o": "Barriers to Heart Disease Prevention",
+        "query_p": "Obstacles in Preventing Heart Disease"
+    },
+    "PLAIN-2560": {
+        "query_o": "Childhood Constipation and Cow\u2019s Milk",
+        "query_p": "Children's Constipation and Dairy Milk"
+    },
+    "PLAIN-2570": {
+        "query_o": "Diabetics Should Take Their Pulses",
+        "query_p": "Individuals with diabetes should check their pulse rates."
+    },
+    "PLAIN-2580": {
+        "query_o": "Academy of Nutrition and Dietetics Conflicts of Interest",
+        "query_p": "Conflicts of Interest at the Academy of Nutrition and Dietetics"
+    },
+    "PLAIN-2590": {
+        "query_o": "Do Vegetarians Get Enough Protein?",
+        "query_p": "Do people following a vegetarian diet consume sufficient protein?"
+    },
+    "PLAIN-2600": {
+        "query_o": "Eggs and Arterial Function",
+        "query_p": "Eggs and Their Impact on Arterial Health"
+    },
+    "PLAIN-2610": {
+        "query_o": "Treating Asthma With Plants vs. Supplements?",
+        "query_p": "Comparing the Use of Plants and Supplements for Asthma Treatment"
+    },
+    "PLAIN-2620": {
+        "query_o": "Phytates for the Treatment of Cancer",
+        "query_p": "Using Phytates in Cancer Therapy"
+    },
+    "PLAIN-2630": {
+        "query_o": "Alkylphenol Endocrine Disruptors and Allergies",
+        "query_p": "Endocrine-disrupting Alkylphenols and Their Link to Allergies"
+    },
+    "PLAIN-2640": {
+        "query_o": "Chicken Salmonella Thanks to Meat Industry Lawsuit",
+        "query_p": "Impact of Meat Industry Lawsuit on Chicken Salmonella"
+    },
+    "PLAIN-2650": {
+        "query_o": "Turmeric Curcumin and Osteoarthritis",
+        "query_p": "The effects of turmeric extract on osteoarthritis"
+    },
+    "PLAIN-2660": {
+        "query_o": "How Long to Detox From Fish Before Pregnancy?",
+        "query_p": "What is the recommended time to avoid eating fish before becoming pregnant to detoxify?"
+    },
+    "PLAIN-2670": {
+        "query_o": "Is Caramel Color Carcinogenic?",
+        "query_p": "Does caramel color have cancer-causing properties?"
+    },
+    "PLAIN-2680": {
+        "query_o": "Counteracting the Effects of Dioxins Through Diet",
+        "query_p": "Mitigating Dioxin Impact Through Dietary Choices"
+    },
+    "PLAIN-2690": {
+        "query_o": "Chronic Headaches and Pork Tapeworms",
+        "query_p": "Persistent Headaches and Pork-Transmitted Tapeworms"
+    },
+    "PLAIN-2700": {
+        "query_o": "Heart Disease Starts in Childhood",
+        "query_p": "Childhood as the Origin of Heart Disease"
+    },
+    "PLAIN-2710": {
+        "query_o": "Artificial Food Colors and ADHD",
+        "query_p": "The relationship between synthetic food dyes and attention-deficit/hyperactivity disorder (ADHD)"
+    },
+    "PLAIN-2720": {
+        "query_o": "Keeping Your Hands Warm With Citrus",
+        "query_p": "How to Keep Your Hands Warm Using Citrus"
+    },
+    "PLAIN-2730": {
+        "query_o": "Anti-Angiogenesis: Cutting Off Tumor Supply Lines",
+        "query_p": "Inhibition of Angiogenesis: Disrupting Tumor Blood Supply"
+    },
+    "PLAIN-2740": {
+        "query_o": "Cancer Risk From CT Scan Radiation",
+        "query_p": "Risk of Developing Cancer Due to Radiation from CT Scans"
+    },
+    "PLAIN-2750": {
+        "query_o": "Preventing the Common Cold with Probiotics?",
+        "query_p": "Can probiotics help in avoiding the common cold?"
+    },
+    "PLAIN-2760": {
+        "query_o": "Eating Healthy on a Budget",
+        "query_p": "Affordable Ways to Maintain a Healthy Diet"
+    },
+    "PLAIN-2770": {
+        "query_o": "Flaxseeds & Breast Cancer Survival: Clinical Evidence",
+        "query_p": "Clinical Evidence on the Impact of Flaxseeds on Breast Cancer Survival"
+    },
+    "PLAIN-2780": {
+        "query_o": "Do Fruit & Nut Bars Cause Weight Gain?",
+        "query_p": "Do consuming Fruit & Nut Bars lead to an increase in weight?"
+    },
+    "PLAIN-2790": {
+        "query_o": "Titanium Dioxide & Inflammatory Bowel Disease",
+        "query_p": "Connection between Titanium Dioxide and Inflammatory Bowel Disease"
+    },
+    "PLAIN-2800": {
+        "query_o": "Prolonged Liver Function Enhancement From Broccoli",
+        "query_p": "Long-term Improvement of Liver Function Through Broccoli"
+    },
+    "PLAIN-2810": {
+        "query_o": "Apple Juice May Be Worse Than Sugar Water",
+        "query_p": "Apple juice could be more harmful than sugary water."
+    },
+    "PLAIN-2820": {
+        "query_o": "Preventing Strokes with Diet",
+        "query_p": "Dietary Methods for Stroke Prevention"
+    },
+    "PLAIN-2830": {
+        "query_o": "Neurobiology of Artificial Sweeteners",
+        "query_p": "The impact of artificial sweeteners on brain function."
+    },
+    "PLAIN-2840": {
+        "query_o": "Benefits of Fenugreek Seeds",
+        "query_p": "Advantages of Fenugreek Seeds"
+    },
+    "PLAIN-2850": {
+        "query_o": "More Antibiotics In White Meat or Dark Meat?",
+        "query_p": "Which type of meat contains more antibiotics: white meat or dark meat?"
+    },
+    "PLAIN-2860": {
+        "query_o": "BPA Plastic and Male Sexual Dysfunction",
+        "query_p": "Impact of BPA on Male Sexual Health"
+    },
+    "PLAIN-2870": {
+        "query_o": "Filled Full of Lead",
+        "query_p": "Completely Loaded with Lead"
+    },
+    "PLAIN-2880": {
+        "query_o": "The Answer to the Pritikin Puzzle",
+        "query_p": "What is the solution to the Pritikin Puzzle?"
+    },
+    "PLAIN-2890": {
+        "query_o": "To Snack or Not to Snack?",
+        "query_p": "Should You Snack or Skip It?"
+    },
+    "PLAIN-2900": {
+        "query_o": "Boosting Good Bacteria in the Colon Without Probiotics",
+        "query_p": "Enhancing Beneficial Gut Bacteria in the Colon Without Using Probiotics"
+    },
+    "PLAIN-2910": {
+        "query_o": "Optimal Phytosterol Dose",
+        "query_p": "What is the best dosage for phytosterols?"
+    },
+    "PLAIN-2920": {
+        "query_o": "Human Neurotransmitters in Plants",
+        "query_p": "Neurotransmitters Found in Plants Related to Humans"
+    },
+    "PLAIN-2930": {
+        "query_o": "Kiwifruit for Irritable Bowel Syndrome",
+        "query_p": "Kiwifruit as a treatment for IBS"
+    },
+    "PLAIN-2940": {
+        "query_o": "Dietary Treatment of Crohn's Disease",
+        "query_p": "Nutritional Approaches to Managing Crohn's Disease"
+    },
+    "PLAIN-2950": {
+        "query_o": "Unsafe at Any Feed",
+        "query_p": "Dangerous by Any Nutrition"
+    },
+    "PLAIN-2960": {
+        "query_o": "Pharmacists Versus Health Food Store Employees: Who Gives Better Advice?",
+        "query_p": "Pharmacists Compared to Health Food Store Employees: Who Provides Superior Guidance?"
+    },
+    "PLAIN-2970": {
+        "query_o": "Preventing Cataracts with Diet",
+        "query_p": "Dietary Strategies to Avert Cataracts"
+    },
+    "PLAIN-2981": {
+        "query_o": "Cheese Mites and Maggots",
+        "query_p": "Mites and Maggots in Cheese"
+    },
+    "PLAIN-2991": {
+        "query_o": "Cholesterol and Lower Back Pain",
+        "query_p": "Cholesterol Levels and Lumbar Pain"
+    },
+    "PLAIN-3001": {
+        "query_o": "EPIC Findings on Lymphoma",
+        "query_p": "Results from the EPIC study on lymphoma"
+    },
+    "PLAIN-3014": {
+        "query_o": "Sometimes the Enzyme Myth Is True",
+        "query_p": "Occasionally, the Enzyme Myth Holds Validity"
+    },
+    "PLAIN-3026": {
+        "query_o": "Vitamin C-Enriched Bacon",
+        "query_p": "Bacon with Added Vitamin C"
+    },
+    "PLAIN-3037": {
+        "query_o": "Out of the Lab Onto the Track",
+        "query_p": "From the Laboratory to the Racetrack"
+    },
+    "PLAIN-3053": {
+        "query_o": "Dragon's Blood",
+        "query_p": "Essence of the Dragon"
+    },
+    "PLAIN-3063": {
+        "query_o": "Better Than Goji Berries",
+        "query_p": "Are there alternatives that surpass goji berries?"
+    },
+    "PLAIN-3074": {
+        "query_o": "How to Help Prevent Abdominal Aortic Aneurysms",
+        "query_p": "Ways to Prevent an Abdominal Aortic Aneurysm"
+    },
+    "PLAIN-3085": {
+        "query_o": "The Difficulty of Arriving at a Vitamin D Recommendation",
+        "query_p": "Challenges in Establishing a Vitamin D Recommendation"
+    },
+    "PLAIN-3097": {
+        "query_o": "Amyloid and Apple Juice",
+        "query_p": "Connections between Amyloid and Apple Juice"
+    },
+    "PLAIN-3116": {
+        "query_o": "Dietary Guidelines: From Dairies to Berries",
+        "query_p": "Nutritional Recommendations: Transitioning from Dairy Products to Berries"
+    },
+    "PLAIN-3131": {
+        "query_o": "Are Avocados Good for You?",
+        "query_p": "Are avocados beneficial for your health?"
+    },
+    "PLAIN-3141": {
+        "query_o": "Relieving Yourself of Excess Estrogen",
+        "query_p": "Reducing High Estrogen Levels"
+    },
+    "PLAIN-3151": {
+        "query_o": "Too Much Iodine Can Be as Bad as Too Little",
+        "query_p": "Excessive Iodine Can Be as Harmful as Insufficient Amounts"
+    },
+    "PLAIN-3161": {
+        "query_o": "Is Milk and Mucus a Myth?",
+        "query_p": "Is there any truth to the idea that milk causes mucus?"
+    },
+    "PLAIN-3171": {
+        "query_o": "Convergence of Evidence",
+        "query_p": "Evidence Convergence"
+    },
+    "PLAIN-3181": {
+        "query_o": "Is Dragon Fruit Good For You?",
+        "query_p": "Is dragon fruit beneficial for your health?"
+    },
+    "PLAIN-3191": {
+        "query_o": "Is Distilled Fish Oil Toxin-Free?",
+        "query_p": "Is there any toxin present in distilled fish oil?"
+    },
+    "PLAIN-3201": {
+        "query_o": "Acne & Cancer Connection",
+        "query_p": "Relationship Between Acne and Cancer"
+    },
+    "PLAIN-3211": {
+        "query_o": "Overdosing on Greens",
+        "query_p": "Excessive Consumption of Vegetables"
+    },
+    "PLAIN-3221": {
+        "query_o": "Dietary Theory of Alzheimer's",
+        "query_p": "Nutritional Hypothesis of Alzheimer's Disease"
+    },
+    "PLAIN-3231": {
+        "query_o": "Meat & Multiple Myeloma",
+        "query_p": "Meat and its relation to multiple myeloma"
+    },
+    "PLAIN-3241": {
+        "query_o": "Apthous Ulcer Mystery Solved",
+        "query_p": "Solution to the Apthous Ulcer Enigma"
+    },
+    "PLAIN-3251": {
+        "query_o": "EPIC Study",
+        "query_p": "Investigation on EPIC"
+    },
+    "PLAIN-3261": {
+        "query_o": "Update on Herbalife\u00ae",
+        "query_p": "Latest information on Herbalife\u00ae"
+    },
+    "PLAIN-3271": {
+        "query_o": "Saturated Fat & Cancer Progression",
+        "query_p": "The Role of Saturated Fat in Cancer Development"
+    },
+    "PLAIN-3281": {
+        "query_o": "Aluminum in Vaccines vs. Food",
+        "query_p": "Comparison of Aluminum Content in Vaccines and Food"
+    },
+    "PLAIN-3292": {
+        "query_o": "Are Multivitamins Good For You?",
+        "query_p": "Are multivitamins beneficial for health?"
+    },
+    "PLAIN-3302": {
+        "query_o": "Fish Fog",
+        "query_p": "Fog of Fish"
+    },
+    "PLAIN-3312": {
+        "query_o": "Sexually Transmitted Fish Toxin",
+        "query_p": "Transmissible Fish Poison Through Sexual Contact"
+    },
+    "PLAIN-3322": {
+        "query_o": "Veggies vs. Cancer",
+        "query_p": "The Relationship Between Vegetables and Cancer"
+    },
+    "PLAIN-3332": {
+        "query_o": "Alcohol Risks vs. Benefits",
+        "query_p": "Pros and Cons of Alcohol Consumption"
+    },
+    "PLAIN-3342": {
+        "query_o": "Is Coconut Milk Good For You?",
+        "query_p": "Is consuming coconut milk beneficial for health?"
+    },
+    "PLAIN-3352": {
+        "query_o": "Boosting Heart Nerve Control",
+        "query_p": "Enhancing Cardiac Nervous System Regulation"
+    },
+    "PLAIN-3362": {
+        "query_o": "Kuna Indian Secret",
+        "query_p": "Mysterious Practices of the Kuna People"
+    },
+    "PLAIN-3372": {
+        "query_o": "The Healthiest Sweetener",
+        "query_p": "What is the healthiest sugar substitute?"
+    },
+    "PLAIN-3382": {
+        "query_o": "Are Artificial Colors Bad for You?",
+        "query_p": "Do Artificial Dyes Have Negative Effects on Health?"
+    },
+    "PLAIN-3392": {
+        "query_o": "Healthiest Airplane Beverage",
+        "query_p": "Which drink is the healthiest to consume on an airplane?"
+    },
+    "PLAIN-3402": {
+        "query_o": "Antioxidant Content of 300 Foods",
+        "query_p": "Levels of Antioxidants in 300 Different Foods"
+    },
+    "PLAIN-3412": {
+        "query_o": "Plant vs. Cow Calcium",
+        "query_p": "Calcium in plants compared to calcium in cows"
+    },
+    "PLAIN-3422": {
+        "query_o": "Vitamin Supplements Worth Taking",
+        "query_p": "Are Vitamin Supplements Beneficial?"
+    },
+    "PLAIN-3432": {
+        "query_o": "Healthy Chocolate Milkshakes",
+        "query_p": "Nutritious Chocolate Smoothies"
+    },
+    "PLAIN-3442": {
+        "query_o": "The Healthiest Vegetables",
+        "query_p": "Most Nutritious Vegetables"
+    },
+    "PLAIN-3452": {
+        "query_o": "Bowel Movement Frequency",
+        "query_p": "Frequency of Bowel Movements"
+    },
+    "PLAIN-3462": {
+        "query_o": "Olive Oil and Artery Function",
+        "query_p": "Artery Health and Olive Oil"
+    },
+    "PLAIN-3472": {
+        "query_o": "How Doctors Responded to Being Named a Leading Killer",
+        "query_p": "How Physicians Reacted to Being Labeled as a Top Cause of Death"
+    }
+}

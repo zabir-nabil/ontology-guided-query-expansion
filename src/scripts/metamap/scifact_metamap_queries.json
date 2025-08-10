@@ -1,0 +1,4916 @@
+{
+  "1": [
+    {
+      "preferred_name": "Induction procedure",
+      "trigger": "[\"inductions\"-tx-1-\"inductive\"-adj-0]",
+      "cui": "C0857127",
+      "semtypes": "[topp]",
+      "pos_info": "33/9"
+    },
+    {
+      "preferred_name": "DIMENSION (pharmacologic substance)",
+      "trigger": "[\"DIMENSION\"-tx-1-\"dimensional\"-adj-0]",
+      "cui": "C4761422",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "3/11"
+    }
+  ],
+  "3": [
+    {
+      "preferred_name": "Project",
+      "trigger": "[\"Project\"-tx-1-\"project\"-verb-0]",
+      "cui": "C1709701",
+      "semtypes": "[cnce]",
+      "pos_info": "15/7"
+    },
+    {
+      "preferred_name": "1+ Score, WHO",
+      "trigger": "[\"1+\"-tx-1-\"1\"-comma_integer-0]",
+      "cui": "C2981698",
+      "semtypes": "[inpr]",
+      "pos_info": "1/1"
+    },
+    {
+      "preferred_name": "Common Specifications in HL7 V3 Publishing",
+      "trigger": "[\"common\"-tx-1-\"common\"-adj-0]",
+      "cui": "C3245511",
+      "semtypes": "[inpr]",
+      "pos_info": "133/6"
+    },
+    {
+      "preferred_name": "With - dosing instruction fragment",
+      "trigger": "[\"With\"-tx-1-\"with\"-prep-0]",
+      "cui": "C1705690",
+      "semtypes": "[inpr]",
+      "pos_info": "97/4"
+    }
+  ],
+  "5": [
+    {
+      "preferred_name": "UK 1",
+      "trigger": "[\"UK 1\"-tx-1-\"1 UK\"-noun-0]",
+      "cui": "C0219333",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/1,11/2"
+    },
+    {
+      "preferred_name": "Abnormal Reference Range",
+      "trigger": "[\"ABNORMAL\"-tx-1-\"abnormal\"-adj-0]",
+      "cui": "C2699333",
+      "semtypes": "[inpr]",
+      "pos_info": "19/8"
+    },
+    {
+      "preferred_name": "Pityriasis Rubra Pilaris",
+      "trigger": "[\"PRP\"-tx-1-\"PrP\"-noun-0]",
+      "cui": "C0032027",
+      "semtypes": "[dsyn]",
+      "pos_info": "28/3"
+    }
+  ],
+  "13": [
+    {
+      "preferred_name": "Immunogenicity Specimen Assessments Domain",
+      "trigger": "[\"IS\"-tx-1-\"is\"-aux-0]",
+      "cui": "C3812801",
+      "semtypes": "[inpr]",
+      "pos_info": "27/2"
+    }
+  ],
+  "36": [
+    {
+      "preferred_name": "Vitamin A Deficiency",
+      "trigger": "[\"Deficiency of vitamin A\"-tx-1-\"A deficiency of vitamin\"-noun-0]",
+      "cui": "C0042842",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/23"
+    }
+  ],
+  "42": [
+    {
+      "preferred_name": "Alpha trait thalassemia",
+      "trigger": "[\"Alpha thalassaemia trait\"-tx-1-\"alpha thalassemia trait\"-noun-0]",
+      "cui": "C0472762",
+      "semtypes": "[dsyn]",
+      "pos_info": "83/5,94/17"
+    },
+    {
+      "preferred_name": "Homozygous alpha thalassemia",
+      "trigger": "[\"Homozygous alpha thalassemia\"-tx-1-\"homozygous alpha thalassemia\"-noun-0]",
+      "cui": "C0472761",
+      "semtypes": "[dsyn]",
+      "pos_info": "72/16,94/11"
+    },
+    {
+      "preferred_name": "Anemia, severe",
+      "trigger": "[\"ANEMIA, SEVERE\"-tx-1-\"severe anemia\"-noun-0]",
+      "cui": "C0238644",
+      "semtypes": "[dsyn]",
+      "pos_info": "55/13"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"high\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "3/4"
+    },
+    {
+      "preferred_name": "Homozygote",
+      "trigger": "[\"Homozygous\"-tx-1-\"homozygous\"-adj-0]",
+      "cui": "C0019904",
+      "semtypes": "[orga]",
+      "pos_info": "72/10"
+    },
+    {
+      "preferred_name": "Trait",
+      "trigger": "[\"Trait\"-tx-1-\"trait\"-noun-0]",
+      "cui": "C0599883",
+      "semtypes": "[orga]",
+      "pos_info": "106/5"
+    }
+  ],
+  "48": [
+    {
+      "preferred_name": "Asymptomatic Infections",
+      "trigger": "[\"Asymptomatic Infection\"-tx-1-\"asymptomatic infection\"-noun-0]",
+      "cui": "C0275522",
+      "semtypes": "[dsyn]",
+      "pos_info": "39/12,69/9"
+    },
+    {
+      "preferred_name": "New Variant Creutzfeldt-Jakob Disease",
+      "trigger": "[\"vCJD\"-tx-1-\"vCJD\"-noun-0]",
+      "cui": "C0376329",
+      "semtypes": "[dsyn]",
+      "pos_info": "64/4"
+    }
+  ],
+  "49": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "22/2"
+    }
+  ],
+  "50": [
+    {
+      "preferred_name": "Skin Neoplasms",
+      "trigger": "[\"SKIN TUMORS\"-tx-1-\"skin tumors\"-noun-0]",
+      "cui": "C0037286",
+      "semtypes": "[neop]",
+      "pos_info": "27/11"
+    }
+  ],
+  "51": [
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "7/10"
+    },
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "44/13"
+    }
+  ],
+  "53": [
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "7/10"
+    },
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "57/13"
+    }
+  ],
+  "54": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "31:4"
+    },
+    {
+      "preferred_name": "Pulmonary Fibrosis",
+      "trigger": "[\"fibrosis lungs\"-tx-1-\"fibrosis lungs\"-noun-0]",
+      "cui": "C0034069",
+      "semtypes": "[dsyn]",
+      "pos_info": "79/8,95/5"
+    },
+    {
+      "preferred_name": "Fibrosis",
+      "trigger": "[\"FIBROSIS\"-tx-1-\"fibrosis\"-noun-0]",
+      "cui": "C0016059",
+      "semtypes": "[patf]",
+      "pos_info": "79/8"
+    },
+    {
+      "preferred_name": "Pneumonia",
+      "trigger": "[\"inflammation lungs\"-tx-1-\"inflammation lungs\"-noun-0]",
+      "cui": "C0032285",
+      "semtypes": "[dsyn]",
+      "pos_info": "58/12,95/5"
+    },
+    {
+      "preferred_name": "Inflammation",
+      "trigger": "[\"INFLAMMATION\"-tx-1-\"inflammation\"-noun-0]",
+      "cui": "C0021368",
+      "semtypes": "[patf]",
+      "pos_info": "58/12"
+    }
+  ],
+  "56": [
+    {
+      "preferred_name": "Abnormal degeneration",
+      "trigger": "[\"DEGENERATION\"-tx-1-\"degeneration\"-noun-0]",
+      "cui": "C0011164",
+      "semtypes": "[patf]",
+      "pos_info": "117/12"
+    },
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "7/10"
+    },
+    {
+      "preferred_name": "Greek letter tau",
+      "trigger": "[\"Tau\"-tx-1-\"tau\"-noun-0]",
+      "cui": "C1720655",
+      "semtypes": "[inpr]",
+      "pos_info": "77/3"
+    }
+  ],
+  "57": [
+    {
+      "preferred_name": "Abnormal degeneration",
+      "trigger": "[\"DEGENERATION\"-tx-1-\"degeneration\"-noun-0]",
+      "cui": "C0011164",
+      "semtypes": "[patf]",
+      "pos_info": "119/12"
+    },
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "7/10"
+    },
+    {
+      "preferred_name": "Greek letter tau",
+      "trigger": "[\"Tau\"-tx-1-\"tau\"-noun-0]",
+      "cui": "C1720655",
+      "semtypes": "[inpr]",
+      "pos_info": "77/3"
+    }
+  ],
+  "70": [
+    {
+      "preferred_name": "Function Axis",
+      "trigger": "[\"FUNCTION\"-tx-1-\"function\"-noun-0]",
+      "cui": "C0700205",
+      "semtypes": "[orga]",
+      "pos_info": "36/8"
+    }
+  ],
+  "72": [],
+  "75": [
+    {
+      "preferred_name": "urea",
+      "trigger": "[\"UREA\"-tx-1-\"UreA\"-noun-0]",
+      "cui": "C0041942",
+      "semtypes": "[bacs,orch,phsu]",
+      "pos_info": "82/4"
+    }
+  ],
+  "94": [
+    {
+      "preferred_name": "Filarial Elephantiases",
+      "trigger": "[\"Lymphatic Filariasis\"-tx-1-\"lymphatic filariasis\"-noun-0]",
+      "cui": "C0013884",
+      "semtypes": "[dsyn]",
+      "pos_info": "30/20"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "21/2"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"TREAT\"-tx-1-\"treat\"-verb-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "24/5"
+    },
+    {
+      "preferred_name": "albendazole",
+      "trigger": "[\"ALBENDAZOLE\"-tx-1-\"Albendazole\"-noun-0]",
+      "cui": "C0001911",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/11"
+    }
+  ],
+  "99": [
+    {
+      "preferred_name": "Residue",
+      "trigger": "[\"Residue\"-tx-1-\"residues\"-noun-0]",
+      "cui": "C1709915",
+      "semtypes": "[cnce]",
+      "pos_info": "36/8"
+    }
+  ],
+  "100": [],
+  "113": [
+    {
+      "preferred_name": "Angiotensin-Converting Enzyme Inhibitors",
+      "trigger": "[\"Angiotensin converting enzyme--Inhibitors\"-tx-1-\"Angiotensin converting enzyme inhibitors\"-noun-0]",
+      "cui": "C0003015",
+      "semtypes": "[phsu]",
+      "pos_info": "1/40"
+    },
+    {
+      "preferred_name": "functional insufficiency",
+      "trigger": "[\"functional insufficiency\"-tx-1-\"functional insufficiency\"-noun-0]",
+      "cui": "C0679222",
+      "semtypes": "[patf]",
+      "pos_info": "81/10,98/13"
+    },
+    {
+      "preferred_name": "Renal Insufficiency",
+      "trigger": "[\"RENAL INSUFFICIENCY\"-tx-1-\"renal insufficiency\"-noun-0]",
+      "cui": "C1565489",
+      "semtypes": "[dsyn]",
+      "pos_info": "92/19"
+    },
+    {
+      "preferred_name": "Functional Relationship",
+      "trigger": "[\"Functional\"-tx-1-\"functional\"-adj-0]",
+      "cui": "C2700217",
+      "semtypes": "[cnce]",
+      "pos_info": "81/10"
+    }
+  ],
+  "115": [
+    {
+      "preferred_name": "Anthrax disease",
+      "trigger": "[\"ANTHRAX\"-tx-1-\"Anthrax\"-noun-0]",
+      "cui": "C0003175",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/7"
+    }
+  ],
+  "118": [],
+  "124": [
+    {
+      "preferred_name": "Antiretroviral therapy",
+      "trigger": "[\"Antiretroviral Therapy\"-tx-1-\"Antiretroviral therapy\"-noun-0]",
+      "cui": "C1963724",
+      "semtypes": "[topp]",
+      "pos_info": "1/22"
+    },
+    {
+      "preferred_name": "Concept model range (foundation metadata concept)",
+      "trigger": "[\"Range\"-tx-1-\"range\"-noun-0]",
+      "cui": "C3542016",
+      "semtypes": "[inpr]",
+      "pos_info": "69/5"
+    },
+    {
+      "preferred_name": "Tuberculosis",
+      "trigger": "[\"TUBERCULOSIS\"-tx-1-\"tuberculosis\"-noun-0]",
+      "cui": "C0041296",
+      "semtypes": "[dsyn]",
+      "pos_info": "41/12"
+    },
+    {
+      "preferred_name": "Traverse",
+      "trigger": "[\"Across\"-tx-1-\"across\"-prep-0]",
+      "cui": "C2828360",
+      "semtypes": "[cnce]",
+      "pos_info": "54/6"
+    }
+  ],
+  "127": [
+    {
+      "preferred_name": "Importance Rating Score 0",
+      "trigger": "[\"Important\"-tx-1-\"important\"-adj-0]",
+      "cui": "C4084912",
+      "semtypes": "[inpr]",
+      "pos_info": "25/9"
+    },
+    {
+      "preferred_name": "arginine",
+      "trigger": "[\"ARGININE\"-tx-1-\"Arginine\"-noun-0]",
+      "cui": "C0003765",
+      "semtypes": "[aapp,bacs,phsu]",
+      "pos_info": "1/8"
+    }
+  ],
+  "128": [],
+  "129": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "58/2"
+    },
+    {
+      "preferred_name": "Article",
+      "trigger": "[\"Article\"-tx-1-\"Articles\"-noun-0]",
+      "cui": "C1706852",
+      "semtypes": "[inpr]",
+      "pos_info": "1/8"
+    },
+    {
+      "preferred_name": "Journal",
+      "trigger": "[\"journals\"-tx-1-\"journals\"-noun-0]",
+      "cui": "C0162443",
+      "semtypes": "[inpr,mnob]",
+      "pos_info": "87/8"
+    },
+    {
+      "preferred_name": "Format",
+      "trigger": "[\"Format\"-tx-1-\"format\"-noun-0]",
+      "cui": "C1301627",
+      "semtypes": "[inpr]",
+      "pos_info": "35/6"
+    },
+    {
+      "preferred_name": "Open Surgical Procedure",
+      "trigger": "[\"Open\"-tx-1-\"open\"-adj-0]",
+      "cui": "C4283938",
+      "semtypes": "[topp]",
+      "pos_info": "23/4"
+    },
+    {
+      "preferred_name": "Scientific Publication",
+      "trigger": "[\"Published\"-tx-1-\"published\"-verb-0]",
+      "cui": "C1704324",
+      "semtypes": "[inpr]",
+      "pos_info": "10/9"
+    }
+  ],
+  "130": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "58/2"
+    },
+    {
+      "preferred_name": "Article",
+      "trigger": "[\"Article\"-tx-1-\"Articles\"-noun-0]",
+      "cui": "C1706852",
+      "semtypes": "[inpr]",
+      "pos_info": "1/8"
+    },
+    {
+      "preferred_name": "Journal",
+      "trigger": "[\"journals\"-tx-1-\"journals\"-noun-0]",
+      "cui": "C0162443",
+      "semtypes": "[inpr,mnob]",
+      "pos_info": "87/8"
+    },
+    {
+      "preferred_name": "Format",
+      "trigger": "[\"Format\"-tx-1-\"format\"-noun-0]",
+      "cui": "C1301627",
+      "semtypes": "[inpr]",
+      "pos_info": "35/6"
+    },
+    {
+      "preferred_name": "Open Surgical Procedure",
+      "trigger": "[\"Open\"-tx-1-\"open\"-adj-0]",
+      "cui": "C4283938",
+      "semtypes": "[topp]",
+      "pos_info": "23/4"
+    },
+    {
+      "preferred_name": "Scientific Publication",
+      "trigger": "[\"Published\"-tx-1-\"published\"-verb-0]",
+      "cui": "C1704324",
+      "semtypes": "[inpr]",
+      "pos_info": "10/9"
+    }
+  ],
+  "132": [
+    {
+      "preferred_name": "aspirin",
+      "trigger": "[\"ASPIRIN\"-tx-1-\"Aspirin\"-noun-0]",
+      "cui": "C0004057",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/7"
+    },
+    {
+      "preferred_name": "Cardiac Arrest",
+      "trigger": "[\"arrested\"-tx-1-\"inhibits\"-verb-0]",
+      "cui": "C0018790",
+      "semtypes": "[dsyn]",
+      "pos_info": "9/8"
+    },
+    {
+      "preferred_name": "dinoprostone",
+      "trigger": "[\"PGE2\"-tx-1-\"PGE2\"-noun-0]",
+      "cui": "C0012472",
+      "semtypes": "[horm,orch,phsu]",
+      "pos_info": "36/4"
+    }
+  ],
+  "133": [],
+  "137": [
+    {
+      "preferred_name": "Admission Level of Care Code - Improved",
+      "trigger": "[\"Improved\"-tx-1-\"improved\"-adj-0]",
+      "cui": "C1561611",
+      "semtypes": "[inpr]",
+      "pos_info": "82/8"
+    },
+    {
+      "preferred_name": "Plumbum metallicum, homeopathic preparation",
+      "trigger": "[\"lead\"-tx-1-\"lead\"-verb-0]",
+      "cui": "C1442948",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "74/4"
+    },
+    {
+      "preferred_name": "Low Vision",
+      "trigger": "[\"Visual impairment\"-tx-1-\"visual impairment\"-noun-0]",
+      "cui": "C0042798",
+      "semtypes": "[dsyn]",
+      "pos_info": "14/17"
+    }
+  ],
+  "141": [],
+  "142": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "54/6"
+    },
+    {
+      "preferred_name": "Transplantation of autologous hematopoietic stem cell",
+      "trigger": "[\"Autologous Stem Cell Transplantation\"-tx-1-\"Autologous transplantation stem cells\"-noun-0]",
+      "cui": "C1831743",
+      "semtypes": "[topp]",
+      "pos_info": "1/26,43/10"
+    },
+    {
+      "preferred_name": "Neoadjuvant Therapy",
+      "trigger": "[\"Induction Therapy\"-tx-1-\"induction therapy\"-noun-0]",
+      "cui": "C0600558",
+      "semtypes": "[topp]",
+      "pos_info": "108/17"
+    },
+    {
+      "preferred_name": "Opportunistic Infections",
+      "trigger": "[\"Opportunistic Infections\"-tx-1-\"opportunistic infections\"-noun-0]",
+      "cui": "C0029118",
+      "semtypes": "[dsyn]",
+      "pos_info": "78/24"
+    }
+  ],
+  "143": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "54/6"
+    },
+    {
+      "preferred_name": "Transplantation of autologous hematopoietic stem cell",
+      "trigger": "[\"Autologous Stem Cell Transplantation\"-tx-1-\"Autologous transplantation stem cells\"-noun-0]",
+      "cui": "C1831743",
+      "semtypes": "[topp]",
+      "pos_info": "1/26,43/10"
+    },
+    {
+      "preferred_name": "Opportunistic Infections",
+      "trigger": "[\"Opportunistic Infections\"-tx-1-\"opportunistic infections\"-noun-0]",
+      "cui": "C0029118",
+      "semtypes": "[dsyn]",
+      "pos_info": "67/24"
+    },
+    {
+      "preferred_name": "Neoadjuvant Therapy",
+      "trigger": "[\"Induction Therapy\"-tx-1-\"induction therapy\"-noun-0]",
+      "cui": "C0600558",
+      "semtypes": "[topp]",
+      "pos_info": "97/17"
+    }
+  ],
+  "146": [
+    {
+      "preferred_name": "Transplantation of autologous hematopoietic stem cell",
+      "trigger": "[\"Autologous Stem Cell Transplantation\"-tx-1-\"Autologous transplantation stem cells\"-noun-0]",
+      "cui": "C1831743",
+      "semtypes": "[topp]",
+      "pos_info": "1/26,43/10"
+    },
+    {
+      "preferred_name": "Neoadjuvant Therapy",
+      "trigger": "[\"Induction Therapy\"-tx-1-\"induction therapy\"-noun-0]",
+      "cui": "C0600558",
+      "semtypes": "[topp]",
+      "pos_info": "88/17"
+    }
+  ],
+  "148": [
+    {
+      "preferred_name": "Age",
+      "trigger": "[\"Aged\"-tx-1-\"aged\"-adj-0]",
+      "cui": "C0001779",
+      "semtypes": "[orga]",
+      "pos_info": "23/4"
+    }
+  ],
+  "163": [
+    {
+      "preferred_name": "Bariatric Surgery",
+      "trigger": "[\"Bariatric Surgery\"-tx-1-\"Bariatric surgery\"-noun-0]",
+      "cui": "C1456587",
+      "semtypes": "[topp]",
+      "pos_info": "1/17"
+    }
+  ],
+  "171": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "89:3"
+    },
+    {
+      "preferred_name": "Lupus Erythematosus, Systemic",
+      "trigger": "[\"Lupus Erythematosus, Systemic\"-tx-1-\"systemic lupus erythematosus\"-noun-0]",
+      "cui": "C0024141",
+      "semtypes": "[dsyn]",
+      "pos_info": "59/28"
+    }
+  ],
+  "179": [
+    {
+      "preferred_name": "Birth Weight",
+      "trigger": "[\"birthweight\"-tx-1-\"Birth-weight\"-noun-0]",
+      "cui": "C0005612",
+      "semtypes": "[orga]",
+      "pos_info": "1/12"
+    },
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "44/13"
+    }
+  ],
+  "180": [],
+  "183": [
+    {
+      "preferred_name": "Anatomical compartments",
+      "trigger": "[\"Compartments\"-tx-1-\"compartments\"-noun-0]",
+      "cui": "C1185625",
+      "semtypes": "[inpr]",
+      "pos_info": "50/12"
+    }
+  ],
+  "185": [
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"Breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "1/13"
+    },
+    {
+      "preferred_name": "Primary malignant neoplasm",
+      "trigger": "[\"Cancer\"-tx-1-\"cancer\"-noun-0]",
+      "cui": "C1306459",
+      "semtypes": "[neop]",
+      "pos_info": "8/6"
+    }
+  ],
+  "198": [],
+  "208": [
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-1]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "30/13"
+    }
+  ],
+  "212": [
+    {
+      "preferred_name": "Lugano Lymphoma Response Classification Complete Remission by CT",
+      "trigger": "[\"CR\"-tx-1-\"CR\"-noun-0]",
+      "cui": "C4553337",
+      "semtypes": "[inpr]",
+      "pos_info": "1/2"
+    },
+    {
+      "preferred_name": "Age",
+      "trigger": "[\"AGE\"-tx-1-\"age\"-noun-0]",
+      "cui": "C0001779",
+      "semtypes": "[orga]",
+      "pos_info": "42/3"
+    }
+  ],
+  "213": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "90:4"
+    },
+    {
+      "preferred_name": "Coronary Artery Bypass Surgery",
+      "trigger": "[\"Coronary Artery Bypass Graft Surgery\"-tx-1-\"Coronary Artery Bypass Graft surgery\"-noun-0]",
+      "cui": "C0010055",
+      "semtypes": "[topp]",
+      "pos_info": "60/28,96/7"
+    }
+  ],
+  "216": [],
+  "217": [],
+  "218": [
+    {
+      "preferred_name": "Inflammation",
+      "trigger": "[\"INFLAMMATION\"-tx-1-\"inflammation\"-noun-0]",
+      "cui": "C0021368",
+      "semtypes": "[patf]",
+      "pos_info": "41/12"
+    }
+  ],
+  "219": [
+    {
+      "preferred_name": "Inflammation",
+      "trigger": "[\"INFLAMMATION\"-tx-1-\"inflammation\"-noun-0]",
+      "cui": "C0021368",
+      "semtypes": "[patf]",
+      "pos_info": "43/12"
+    }
+  ],
+  "230": [
+    {
+      "preferred_name": "Deficiency of dehydrogenase",
+      "trigger": "[\"Deficiency of dehydrogenase\"-tx-1-\"of dehydrogenase deficiency\"-noun-0]",
+      "cui": "C1291311",
+      "semtypes": "[dsyn]",
+      "pos_info": "10/2,34/24"
+    },
+    {
+      "preferred_name": "Alcohols",
+      "trigger": "[\"Alcohol\"-tx-1-\"alcohol\"-noun-0]",
+      "cui": "C0001975",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "17/7"
+    }
+  ],
+  "232": [
+    {
+      "preferred_name": "Neonatal chlamydial conjunctivitis",
+      "trigger": "[\"Trachoma\"-tx-1-\"trachoma\"-noun-0]",
+      "cui": "C0343723",
+      "semtypes": "[dsyn]",
+      "pos_info": "14/8"
+    },
+    {
+      "preferred_name": "Primary operation",
+      "trigger": "[\"Primary\"-tx-1-\"primary\"-noun-0]",
+      "cui": "C0439631",
+      "semtypes": "[topp]",
+      "pos_info": "31/7"
+    },
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"cause\"-noun-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "39/5"
+    },
+    {
+      "preferred_name": "Blindness",
+      "trigger": "[\"BLINDNESS\"-tx-1-\"blindness\"-noun-0]",
+      "cui": "C0456909",
+      "semtypes": "[dsyn]",
+      "pos_info": "48/9"
+    }
+  ],
+  "233": [],
+  "236": [],
+  "237": [],
+  "238": [
+    {
+      "preferred_name": "methionine",
+      "trigger": "[\"METHIONINE\"-tx-1-\"methionine\"-noun-0]",
+      "cui": "C0025646",
+      "semtypes": "[aapp,bacs,phsu]",
+      "pos_info": "18/10"
+    }
+  ],
+  "239": [
+    {
+      "preferred_name": "Links List",
+      "trigger": "[\"Link\"-tx-1-\"links\"-verb-0]",
+      "cui": "C1517892",
+      "semtypes": "[inpr]",
+      "pos_info": "24/5"
+    },
+    {
+      "preferred_name": "Personal appearance",
+      "trigger": "[\"Appearance\"-tx-1-\"appearance\"-noun-0]",
+      "cui": "C0233426",
+      "semtypes": "[orga]",
+      "pos_info": "42/10"
+    }
+  ],
+  "248": [
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "23/9"
+    },
+    {
+      "preferred_name": "Specimen Source Codes - Whole body",
+      "trigger": "[\"Whole body\"-tx-1-\"whole-body\"-adj-0]",
+      "cui": "C1546549",
+      "semtypes": "[inpr]",
+      "pos_info": "43/10"
+    }
+  ],
+  "249": [
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "23/9"
+    },
+    {
+      "preferred_name": "Specimen Source Codes - Whole body",
+      "trigger": "[\"Whole body\"-tx-1-\"whole-body\"-adj-0]",
+      "cui": "C1546549",
+      "semtypes": "[inpr]",
+      "pos_info": "41/10"
+    }
+  ],
+  "261": [
+    {
+      "preferred_name": "Exercise, Aerobic",
+      "trigger": "[\"Aerobic Exercise\"-tx-1-\"aerobic exercise\"-noun-0]",
+      "cui": "C0001701",
+      "semtypes": "[topp]",
+      "pos_info": "9/16"
+    },
+    {
+      "preferred_name": "Mathematical Operator",
+      "trigger": "[\"Function\"-tx-1-\"function\"-noun-0]",
+      "cui": "C1705273",
+      "semtypes": "[inpr]",
+      "pos_info": "45/8"
+    },
+    {
+      "preferred_name": "Mediator brand of benfluorex hydrochloride",
+      "trigger": "[\"Mediated\"-tx-1-\"mediated\"-verb-0]",
+      "cui": "C0127400",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "89/8"
+    }
+  ],
+  "268": [],
+  "269": [],
+  "274": [
+    {
+      "preferred_name": "varenicline",
+      "trigger": "[\"VARENICLINE\"-tx-1-\"varenicline\"-noun-0]",
+      "cui": "C1569608",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "[49/11],[147/11]"
+    },
+    {
+      "preferred_name": "Plumbum metallicum, homeopathic preparation",
+      "trigger": "[\"lead\"-tx-1-\"lead\"-verb-0]",
+      "cui": "C1442948",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "74/4"
+    },
+    {
+      "preferred_name": "bupropion",
+      "trigger": "[\"BUPROPION\"-tx-1-\"bupropion\"-noun-0]",
+      "cui": "C0085208",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "64/9"
+    },
+    {
+      "preferred_name": "Single Agent Therapy",
+      "trigger": "[\"Monotherapy\"-tx-1-\"monotherapy\"-noun-0]",
+      "cui": "C4763675",
+      "semtypes": "[topp]",
+      "pos_info": "159/11"
+    },
+    {
+      "preferred_name": "Nicotine replacement therapy",
+      "trigger": "[\"nicotine replacement therapies\"-tx-1-\"nicotine replacement therapies\"-noun-0]",
+      "cui": "C1278444",
+      "semtypes": "[topp]",
+      "pos_info": "13/30"
+    },
+    {
+      "preferred_name": "Abstinence",
+      "trigger": "[\"Abstinence\"-tx-1-\"abstinence\"-noun-0]",
+      "cui": "C3843422",
+      "semtypes": "[topp]",
+      "pos_info": "113/10"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "79/2"
+    }
+  ],
+  "275": [
+    {
+      "preferred_name": "Mitogen-Activated Protein Kinase Kinase Inhibitor",
+      "trigger": "[\"MEK Inhibitor\"-tx-1-\"MEK inhibitors\"-noun-0]",
+      "cui": "C2347168",
+      "semtypes": "[phsu]",
+      "pos_info": "46/3,54/10"
+    },
+    {
+      "preferred_name": "Neoplasms",
+      "trigger": "[\"Tumors\"-tx-1-\"tumors\"-noun-0]",
+      "cui": "C0027651",
+      "semtypes": "[neop]",
+      "pos_info": "102/6"
+    }
+  ],
+  "279": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "33:6"
+    },
+    {
+      "preferred_name": "Genome - anatomical entity",
+      "trigger": "[\"Genome\"-tx-1-\"genome\"-noun-0]",
+      "cui": "C2338314",
+      "semtypes": "[cnce]",
+      "pos_info": "41/6"
+    }
+  ],
+  "294": [
+    {
+      "preferred_name": "Pyotraumatic dermatitis",
+      "trigger": "[\"Hot spots\"-tx-1-\"hot spots\"-noun-0]",
+      "cui": "C0263214",
+      "semtypes": "[dsyn]",
+      "pos_info": "11/9"
+    },
+    {
+      "preferred_name": "Cross-Over Studies",
+      "trigger": "[\"CROSSOVER\"-tx-1-\"Crossover\"-noun-0]",
+      "cui": "C0150097",
+      "semtypes": "[resa]",
+      "pos_info": "1/9"
+    }
+  ],
+  "295": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "36:2"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "36:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "68:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "68:4"
+    },
+    {
+      "preferred_name": "Importance Rating Score 0",
+      "trigger": "[\"Important\"-tx-1-\"important\"-adj-0]",
+      "cui": "C4084912",
+      "semtypes": "[inpr]",
+      "pos_info": "77/9"
+    }
+  ],
+  "298": [
+    {
+      "preferred_name": "Apoptosis Pathway",
+      "trigger": "[\"Apoptosis\"-tx-1-\"apoptosis\"-noun-0]",
+      "cui": "C4759886",
+      "semtypes": "[cnce]",
+      "pos_info": "87/9"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-prep-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "69/2"
+    }
+  ],
+  "300": [
+    {
+      "preferred_name": "Coding Subtest (WISC-V)",
+      "trigger": "[\"Coding\"-tx-1-\"coding\"-verb-0]",
+      "cui": "C4050310",
+      "semtypes": "[inpr]",
+      "pos_info": "[62/6],[140/6]"
+    },
+    {
+      "preferred_name": "elemental iron",
+      "trigger": "[\"elemental iron\"-tx-1-\"iron elements\"-noun-0]",
+      "cui": "C0876023",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "[28/4,44/8],[106/4,122/8]"
+    },
+    {
+      "preferred_name": "iron",
+      "trigger": "[\"IRON\"-tx-1-\"iron\"-noun-0]",
+      "cui": "C0302583",
+      "semtypes": "[bacs,elii,phsu]",
+      "pos_info": "172/4"
+    }
+  ],
+  "303": [
+    {
+      "preferred_name": "GDC Gene Symbol Terminology",
+      "trigger": "[\"GENE\"-tx-1-\"gene\"-noun-0]",
+      "cui": "C5203053",
+      "semtypes": "[inpr]",
+      "pos_info": "28/4"
+    },
+    {
+      "preferred_name": "Gender",
+      "trigger": "[\"sex\"-tx-1-\"sex\"-noun-0]",
+      "cui": "C0079399",
+      "semtypes": "[orga]",
+      "pos_info": "12/3"
+    }
+  ],
+  "312": [
+    {
+      "preferred_name": "Sequencing Data",
+      "trigger": "[\"Sequence Data\"-tx-1-\"sequence data\"-noun-0]",
+      "cui": "C4727174",
+      "semtypes": "[inpr]",
+      "pos_info": "[21/13],[78/13]"
+    },
+    {
+      "preferred_name": "Entity Determiner - specific",
+      "trigger": "[\"specific\"-tx-1-\"specific\"-adj-0]",
+      "cui": "C1552740",
+      "semtypes": "[inpr]",
+      "pos_info": "44/8"
+    }
+  ],
+  "314": [
+    {
+      "preferred_name": "uridine",
+      "trigger": "[\"URIDINE\"-tx-1-\"uridine\"-noun-0]",
+      "cui": "C0041984",
+      "semtypes": "[nnon,phsu]",
+      "pos_info": "28/7"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-prep-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "25/2"
+    }
+  ],
+  "324": [],
+  "327": [
+    {
+      "preferred_name": "Phenotype",
+      "trigger": "[\"Phenotype\"-tx-1-\"phenotype\"-noun-0]",
+      "cui": "C0031437",
+      "semtypes": "[orga]",
+      "pos_info": "64/9"
+    }
+  ],
+  "338": [
+    {
+      "preferred_name": "Postoperative Hemorrhage",
+      "trigger": "[\"Postoperative Bleeding\"-tx-1-\"postoperative bleeding\"-noun-0]",
+      "cui": "C0032788",
+      "semtypes": "[patf]",
+      "pos_info": "33/22"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-verb-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "25/4"
+    },
+    {
+      "preferred_name": "dexamethasone",
+      "trigger": "[\"DEXAMETHASONE\"-tx-1-\"Dexamethasone\"-noun-0]",
+      "cui": "C0011777",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/13"
+    }
+  ],
+  "343": [
+    {
+      "preferred_name": "Acute Coronary Syndrome",
+      "trigger": "[\"Acute Coronary Syndrome\"-tx-1-\"acute coronary syndrome\"-noun-0]",
+      "cui": "C0948089",
+      "semtypes": "[dsyn]",
+      "pos_info": "24/23"
+    }
+  ],
+  "350": [],
+  "354": [
+    {
+      "preferred_name": "Mammary Tumorigenesis",
+      "trigger": "[\"Mammary Tumorigenesis\"-tx-1-\"mammary tumorigenesis\"-noun-0]",
+      "cui": "C1512981",
+      "semtypes": "[neop]",
+      "pos_info": "81/21"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevents\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "48/8"
+    },
+    {
+      "preferred_name": "metaplastic cell transformation",
+      "trigger": "[\"Cell Transformation\"-tx-1-\"cell transformation\"-noun-0]",
+      "cui": "C1510411",
+      "semtypes": "[patf]",
+      "pos_info": "57/19"
+    }
+  ],
+  "362": [
+    {
+      "preferred_name": "Primary operation",
+      "trigger": "[\"Primary\"-tx-1-\"primary\"-adj-0]",
+      "cui": "C0439631",
+      "semtypes": "[topp]",
+      "pos_info": "12/7"
+    }
+  ],
+  "380": [
+    {
+      "preferred_name": "Scientific Control",
+      "trigger": "[\"Control\"-tx-1-\"control\"-noun-0]",
+      "cui": "C1882979",
+      "semtypes": "[cnce]",
+      "pos_info": "69/7"
+    },
+    {
+      "preferred_name": "Pneumonia, Viral",
+      "trigger": "[\"viral Pneumoniae\"-tx-1-\"viral lung\"-noun-0]",
+      "cui": "C0032310",
+      "semtypes": "[dsyn]",
+      "pos_info": "63/5,84/4"
+    }
+  ],
+  "384": [
+    {
+      "preferred_name": "Noncommunicable Diseases",
+      "trigger": "[\"Noncommunicable Diseases\"-tx-1-\"noncommunicable diseases\"-noun-0]",
+      "cui": "C4505065",
+      "semtypes": "[dsyn]",
+      "pos_info": "37/24"
+    },
+    {
+      "preferred_name": "Disease",
+      "trigger": "[\"Disease\"-tx-1-\"disease\"-noun-0]",
+      "cui": "C0012634",
+      "semtypes": "[dsyn]",
+      "pos_info": "17/7"
+    },
+    {
+      "preferred_name": "Epidemiology",
+      "trigger": "[\"Epidemiological\"-tx-1-\"Epidemiological\"-adj-0]",
+      "cui": "C0014507",
+      "semtypes": "[bmod]",
+      "pos_info": "1/15"
+    }
+  ],
+  "385": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "31:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "31:4"
+    },
+    {
+      "preferred_name": "Protocol Agent",
+      "trigger": "[\"Agent\"-tx-1-\"agents\"-noun-0]",
+      "cui": "C1521826",
+      "semtypes": "[inpr]",
+      "pos_info": "23/6"
+    },
+    {
+      "preferred_name": "study of epigenetics",
+      "trigger": "[\"Epigenetic\"-tx-1-\"Epigenetic\"-adj-0]",
+      "cui": "C1655731",
+      "semtypes": "[bmod]",
+      "pos_info": "1/10"
+    }
+  ],
+  "386": [
+    {
+      "preferred_name": "Common Specifications in HL7 V3 Publishing",
+      "trigger": "[\"common\"-tx-1-\"common\"-adj-0]",
+      "cui": "C3245511",
+      "semtypes": "[inpr]",
+      "pos_info": "54/6"
+    },
+    {
+      "preferred_name": "Step (specific stage)",
+      "trigger": "[\"Step\"-tx-1-\"step\"-noun-0]",
+      "cui": "C1261552",
+      "semtypes": "[cnce]",
+      "pos_info": "102/4"
+    },
+    {
+      "preferred_name": "Administration procedure",
+      "trigger": "[\"Administration\"-tx-1-\"administration\"-noun-0]",
+      "cui": "C1533734",
+      "semtypes": "[topp]",
+      "pos_info": "74/14"
+    },
+    {
+      "preferred_name": "bolus infusion",
+      "trigger": "[\"Bolus\"-tx-1-\"bolus\"-noun-0]",
+      "cui": "C1511237",
+      "semtypes": "[topp]",
+      "pos_info": "68/5"
+    },
+    {
+      "preferred_name": "Stage IV Uveal Melanoma AJCC v7",
+      "trigger": "[\"IV\"-tx-1-\"IV\"-noun-0]",
+      "cui": "C1336445",
+      "semtypes": "[neop]",
+      "pos_info": "22/2"
+    }
+  ],
+  "388": [
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "30/10"
+    },
+    {
+      "preferred_name": "ethanol",
+      "trigger": "[\"ETHANOL\"-tx-1-\"Ethanol\"-noun-0]",
+      "cui": "C0001962",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/7"
+    },
+    {
+      "preferred_name": "O,O-diisopropyl-S-benzylthiophosphate",
+      "trigger": "[\"IBP\"-tx-1-\"IBP\"-noun-0]",
+      "cui": "C0064368",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "44/3"
+    }
+  ],
+  "399": [
+    {
+      "preferred_name": "Anxiety Scale (BASC-2)",
+      "trigger": "[\"Anxiety\"-tx-1-\"anxiety\"-noun-0]",
+      "cui": "C4050613",
+      "semtypes": "[inpr]",
+      "pos_info": "57/7"
+    },
+    {
+      "preferred_name": "air",
+      "trigger": "[\"AIR\"-tx-1-\"air\"-noun-0]",
+      "cui": "C3536832",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "30/3"
+    }
+  ],
+  "410": [
+    {
+      "preferred_name": "Epilepsy",
+      "trigger": "[\"EPILEPSY\"-tx-1-\"epilepsy\"-noun-0]",
+      "cui": "C0014544",
+      "semtypes": "[dsyn]",
+      "pos_info": "60/8"
+    },
+    {
+      "preferred_name": "Febrile Convulsions",
+      "trigger": "[\"Febrile seizures\"-tx-1-\"Febrile seizures\"-noun-0]",
+      "cui": "C0009952",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/16"
+    }
+  ],
+  "411": [
+    {
+      "preferred_name": "Epilepsy",
+      "trigger": "[\"EPILEPSY\"-tx-1-\"epilepsy\"-noun-0]",
+      "cui": "C0014544",
+      "semtypes": "[dsyn]",
+      "pos_info": "58/8"
+    },
+    {
+      "preferred_name": "Febrile Convulsions",
+      "trigger": "[\"Febrile seizures\"-tx-1-\"Febrile seizures\"-noun-0]",
+      "cui": "C0009952",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/16"
+    }
+  ],
+  "415": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "43:5"
+    },
+    {
+      "preferred_name": "Females",
+      "trigger": "[\"FEMALE\"-tx-1-\"Female\"-noun-0]",
+      "cui": "C0086287",
+      "semtypes": "[orga]",
+      "pos_info": "1/6"
+    }
+  ],
+  "421": [
+    {
+      "preferred_name": "Muscle Rigidity",
+      "trigger": "[\"Rigid\"-tx-1-\"rigid\"-adj-0]",
+      "cui": "C0026837",
+      "semtypes": "[sosy]",
+      "pos_info": "90/5"
+    }
+  ],
+  "431": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "77:2"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "77:3"
+    },
+    {
+      "preferred_name": "Mediator brand of benfluorex hydrochloride",
+      "trigger": "[\"Mediated\"-tx-1-\"mediated\"-verb-0]",
+      "cui": "C0127400",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "40/8"
+    }
+  ],
+  "436": [
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "39/9"
+    }
+  ],
+  "437": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "81:3"
+    },
+    {
+      "preferred_name": "Childhood Myelodysplastic Syndrome",
+      "trigger": "[\"Myelodysplastic Syndrome\"-tx-1-\"Myelodysplastic syndrome\"-noun-0]",
+      "cui": "C2347761",
+      "semtypes": "[neop]",
+      "pos_info": "55/24"
+    },
+    {
+      "preferred_name": "functional genomics",
+      "trigger": "[\"functional genomic\"-tx-1-\"Functional genomic\"-adj-0]",
+      "cui": "C0872316",
+      "semtypes": "[bmod]",
+      "pos_info": "1/10,28/7"
+    }
+  ],
+  "439": [
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "8/9"
+    },
+    {
+      "preferred_name": "Papillary craniopharyngioma",
+      "trigger": "[\"PCP\"-tx-1-\"PCP\"-noun-0]",
+      "cui": "C0431128",
+      "semtypes": "[neop]",
+      "pos_info": "4/3"
+    }
+  ],
+  "440": [
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "8/9"
+    },
+    {
+      "preferred_name": "Papillary craniopharyngioma",
+      "trigger": "[\"PCP\"-tx-1-\"PCP\"-noun-0]",
+      "cui": "C0431128",
+      "semtypes": "[neop]",
+      "pos_info": "4/3"
+    }
+  ],
+  "443": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "50:3"
+    },
+    {
+      "preferred_name": "Importance Rating Score 0",
+      "trigger": "[\"Important\"-tx-1-\"important\"-adj-0]",
+      "cui": "C4084912",
+      "semtypes": "[inpr]",
+      "pos_info": "11/9"
+    },
+    {
+      "preferred_name": "Function Axis",
+      "trigger": "[\"FUNCTION\"-tx-1-\"function\"-noun-0]",
+      "cui": "C0700205",
+      "semtypes": "[orga]",
+      "pos_info": "55/8"
+    }
+  ],
+  "452": [],
+  "475": [
+    {
+      "preferred_name": "Pathway (interactions)",
+      "trigger": "[\"Pathways\"-tx-1-\"pathways\"-noun-0]",
+      "cui": "C1705987",
+      "semtypes": "[cnce]",
+      "pos_info": "49/8"
+    },
+    {
+      "preferred_name": "Primary operation",
+      "trigger": "[\"Primary\"-tx-1-\"primary\"-adj-0]",
+      "cui": "C0439631",
+      "semtypes": "[topp]",
+      "pos_info": "26/7"
+    }
+  ],
+  "478": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "32/2"
+    },
+    {
+      "preferred_name": "Phenotype",
+      "trigger": "[\"Phenotype\"-tx-1-\"phenotype\"-noun-0]",
+      "cui": "C0031437",
+      "semtypes": "[orga]",
+      "pos_info": "65/9"
+    },
+    {
+      "preferred_name": "calcium ion",
+      "trigger": "[\"Ca2+\"-tx-1-\"Ca2\"-noun-0]",
+      "cui": "C0596235",
+      "semtypes": "[elii,phsu]",
+      "pos_info": "142/3"
+    }
+  ],
+  "491": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"cause\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "21/5"
+    },
+    {
+      "preferred_name": "Diabetes Mellitus",
+      "trigger": "[\"Diabetes\"-tx-1-\"diabetes\"-noun-0]",
+      "cui": "C0011849",
+      "semtypes": "[dsyn]",
+      "pos_info": "27/8"
+    }
+  ],
+  "501": [
+    {
+      "preferred_name": "Headache",
+      "trigger": "[\"Headaches\"-tx-1-\"Headaches\"-noun-0]",
+      "cui": "C0018681",
+      "semtypes": "[sosy]",
+      "pos_info": "1/9"
+    }
+  ],
+  "502": [],
+  "507": [
+    {
+      "preferred_name": "Specimen Source Codes - Macrophages",
+      "trigger": "[\"Macrophages\"-tx-1-\"macrophages\"-noun-0]",
+      "cui": "C1546706",
+      "semtypes": "[inpr]",
+      "pos_info": "51/11"
+    },
+    {
+      "preferred_name": "binetrakin",
+      "trigger": "[\"IL-4\"-tx-1-\"IL-4\"-noun-0]",
+      "cui": "C3486572",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "76/4"
+    },
+    {
+      "preferred_name": "Scientific Control",
+      "trigger": "[\"Control\"-tx-1-\"control\"-noun-0]",
+      "cui": "C1882979",
+      "semtypes": "[cnce]",
+      "pos_info": "40/7"
+    },
+    {
+      "preferred_name": "favor",
+      "trigger": "[\"FAVOR\"-tx-1-\"favor\"-noun-0]",
+      "cui": "C0309049",
+      "semtypes": "[orch,phsu,vita]",
+      "pos_info": "81/5"
+    }
+  ],
+  "508": [
+    {
+      "preferred_name": "PSA Level Greater than Fifty",
+      "trigger": "[\">50\"-tx-1-\"50\"-percentage-0]",
+      "cui": "C4084918",
+      "semtypes": "[cnce]",
+      "pos_info": "67/2"
+    }
+  ],
+  "513": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "30/6"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"High\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "1/4"
+    }
+  ],
+  "514": [
+    {
+      "preferred_name": "Hyperparathyroidism, Secondary",
+      "trigger": "[\"HYPERPARATHYROIDISM, SECONDARY\"-tx-1-\"secondary hyperparathyroidism\"-noun-0]",
+      "cui": "C0020503",
+      "semtypes": "[dsyn]",
+      "pos_info": "64/29"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"High\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "1/4"
+    },
+    {
+      "preferred_name": "Prevention Study",
+      "trigger": "[\"PREVENTION\"-tx-1-\"prevention\"-noun-0]",
+      "cui": "C1706420",
+      "semtypes": "[resa]",
+      "pos_info": "50/10"
+    },
+    {
+      "preferred_name": "With - dosing instruction fragment",
+      "trigger": "[\"With\"-tx-1-\"with\"-prep-0]",
+      "cui": "C1705690",
+      "semtypes": "[inpr]",
+      "pos_info": "106/4"
+    }
+  ],
+  "516": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "96:4"
+    },
+    {
+      "preferred_name": "Chronic Obstructive Airway Disease",
+      "trigger": "[\"CHRONIC OBSTRUCTIVE PULMONARY DISEASE\"-tx-1-\"chronic obstructive pulmonary disease\"-noun-0]",
+      "cui": "C0024117",
+      "semtypes": "[dsyn]",
+      "pos_info": "57/37"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-noun-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "32/4"
+    }
+  ],
+  "517": [
+    {
+      "preferred_name": "Diabetes Mellitus",
+      "trigger": "[\"Diabetes\"-tx-1-\"diabetes\"-noun-0]",
+      "cui": "C0011849",
+      "semtypes": "[dsyn]",
+      "pos_info": "42/8"
+    }
+  ],
+  "521": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "38:6"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "157:3"
+    },
+    {
+      "preferred_name": "Cumulative Dose",
+      "trigger": "[\"dosage\"-tx-1-\"dosage\"-noun-0]",
+      "cui": "C2986497",
+      "semtypes": "[cnce]",
+      "pos_info": "46/6"
+    }
+  ],
+  "525": [
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "105/9"
+    },
+    {
+      "preferred_name": "Induction procedure",
+      "trigger": "[\"induction\"-tx-1-\"induction\"-noun-0]",
+      "cui": "C0857127",
+      "semtypes": "[topp]",
+      "pos_info": "115/9"
+    }
+  ],
+  "527": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "104:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "104:4"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevents\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "110/8"
+    },
+    {
+      "preferred_name": "Patient Reported Outcome Stem",
+      "trigger": "[\"stem\"-tx-1-\"stem\"-noun-0]",
+      "cui": "C4553151",
+      "semtypes": "[inpr]",
+      "pos_info": "77/4"
+    },
+    {
+      "preferred_name": "Homozygote",
+      "trigger": "[\"Homozygous\"-tx-1-\"Homozygous\"-adj-0]",
+      "cui": "C0019904",
+      "semtypes": "[orga]",
+      "pos_info": "1/10"
+    }
+  ],
+  "528": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "133:3"
+    },
+    {
+      "preferred_name": "Tropical Spastic Paraparesis",
+      "trigger": "[\"Myelopathy, Human T Lymphotropic Virus Type 1 Associated\"-tx-1-\"Human T-lymphotropic virus type-I-associated myelopathy\"-noun-0,\"Tropical Spastic Paraparesis\"-tx-1-\"tropical spastic paraparesis\"-noun-0]",
+      "cui": "C0030481",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/55;59/28"
+    },
+    {
+      "preferred_name": "immunoglobulin G",
+      "trigger": "[\"Immunoglobulin G\"-tx-1-\"Immunoglobulin G\"-noun-0]",
+      "cui": "C0020852",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "115/16"
+    },
+    {
+      "preferred_name": "Antibodies",
+      "trigger": "[\"Antibodies\"-tx-1-\"antibodies\"-noun-0]",
+      "cui": "C0003241",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "138/10"
+    },
+    {
+      "preferred_name": "React",
+      "trigger": "[\"React\"-tx-1-\"react\"-verb-0]",
+      "cui": "C4224854",
+      "semtypes": "[horm,orch,phsu]",
+      "pos_info": "161/5"
+    },
+    {
+      "preferred_name": "Traverse",
+      "trigger": "[\"Cross\"-tx-1-\"cross\"-verb-0]",
+      "cui": "C2828360",
+      "semtypes": "[cnce]",
+      "pos_info": "155/5"
+    }
+  ],
+  "532": [
+    {
+      "preferred_name": "Hyperfibrinogenemia",
+      "trigger": "[\"Hyperfibrinogenemia\"-tx-1-\"Hyperfibrinogenemia\"-noun-0]",
+      "cui": "C0919890",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/19"
+    },
+    {
+      "preferred_name": "Femoral-popliteal artery bypass graft",
+      "trigger": "[\"FEMOROPOPLITEAL BYPASS\"-tx-1-\"femoropopliteal bypass\"-noun-0]",
+      "cui": "C0190932",
+      "semtypes": "[topp]",
+      "pos_info": "40/22"
+    },
+    {
+      "preferred_name": "Thrombosis of blood vessel",
+      "trigger": "[\"thrombosis\"-tx-1-\"thrombosis\"-noun-0]",
+      "cui": "C2586211",
+      "semtypes": "[patf]",
+      "pos_info": "63/10"
+    }
+  ],
+  "533": [
+    {
+      "preferred_name": "Hyperfibrinogenemia",
+      "trigger": "[\"Hyperfibrinogenemia\"-tx-1-\"Hyperfibrinogenemia\"-noun-0]",
+      "cui": "C0919890",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/19"
+    },
+    {
+      "preferred_name": "Femoral-popliteal artery bypass graft",
+      "trigger": "[\"FEMOROPOPLITEAL BYPASS\"-tx-1-\"femoropopliteal bypass\"-noun-0]",
+      "cui": "C0190932",
+      "semtypes": "[topp]",
+      "pos_info": "40/22"
+    },
+    {
+      "preferred_name": "Thrombosis of blood vessel",
+      "trigger": "[\"thrombosis\"-tx-1-\"thrombosis\"-noun-0]",
+      "cui": "C2586211",
+      "semtypes": "[patf]",
+      "pos_info": "63/10"
+    }
+  ],
+  "535": [
+    {
+      "preferred_name": "Hypertensive disease",
+      "trigger": "[\"HYPERTENSION\"-tx-1-\"Hypertension\"-noun-0]",
+      "cui": "C0020538",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/12"
+    },
+    {
+      "preferred_name": "Diabetes Mellitus, Insulin-Dependent",
+      "trigger": "[\"Type I Diabetes\"-tx-1-\"type 1 diabetes\"-noun-0]",
+      "cui": "C0011854",
+      "semtypes": "[dsyn]",
+      "pos_info": "40/15"
+    }
+  ],
+  "536": [],
+  "539": [
+    {
+      "preferred_name": "Hypoglycemia",
+      "trigger": "[\"HYPOGLYCEMIA\"-tx-1-\"Hypoglycemia\"-noun-0]",
+      "cui": "C0020615",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/12"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-noun-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "28/4"
+    }
+  ],
+  "540": [],
+  "544": [],
+  "549": [
+    {
+      "preferred_name": "Antiviral Agents",
+      "trigger": "[\"Antiviral\"-tx-1-\"antiviral\"-adj-0]",
+      "cui": "C0003451",
+      "semtypes": "[phsu]",
+      "pos_info": "10/9"
+    }
+  ],
+  "551": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "68:3"
+    },
+    {
+      "preferred_name": "Transfer Ability",
+      "trigger": "[\"Transfer\"-tx-1-\"TCR\"-noun-0,\"Transfer\"-tx-1-\"transfer\"-noun-0]",
+      "cui": "C4319192",
+      "semtypes": "[inpr]",
+      "pos_info": "149/3;35/8"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevents\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "22/8"
+    },
+    {
+      "preferred_name": "Superkingdom (taxonomic category)",
+      "trigger": "[\"Domain\"-tx-1-\"domain\"-noun-0]",
+      "cui": "C1883221",
+      "semtypes": "[cnce]",
+      "pos_info": "94/6"
+    },
+    {
+      "preferred_name": "ECHO protocol",
+      "trigger": "[\"ECHO\"-tx-1-\"echo\"-noun-0]",
+      "cui": "C0058928",
+      "semtypes": "[topp]",
+      "pos_info": "89/4"
+    }
+  ],
+  "552": [
+    {
+      "preferred_name": "Entity Determiner - specific",
+      "trigger": "[\"specific\"-tx-1-\"specific\"-adj-0]",
+      "cui": "C1552740",
+      "semtypes": "[inpr]",
+      "pos_info": "27/8"
+    },
+    {
+      "preferred_name": "immunoglobulin A, human",
+      "trigger": "[\"IgA\"-tx-1-\"IgA\"-noun-0]",
+      "cui": "C2825347",
+      "semtypes": "[imft,phsu]",
+      "pos_info": "1/3"
+    },
+    {
+      "preferred_name": "On (qualifier value)",
+      "trigger": "[\"On\"-tx-1-\"on\"-prep-0]",
+      "cui": "C1720294",
+      "semtypes": "[inpr]",
+      "pos_info": "93/2"
+    }
+  ],
+  "554": [
+    {
+      "preferred_name": "Plumbum metallicum, homeopathic preparation",
+      "trigger": "[\"lead\"-tx-1-\"leads\"-verb-0]",
+      "cui": "C1442948",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "37/5"
+    },
+    {
+      "preferred_name": "Release (procedure)",
+      "trigger": "[\"Release\"-tx-1-\"release\"-noun-0]",
+      "cui": "C1963578",
+      "semtypes": "[topp]",
+      "pos_info": "60/7"
+    }
+  ],
+  "560": [
+    {
+      "preferred_name": "Anti-Inflammatory Agents",
+      "trigger": "[\"Antiinflammatory\"-tx-1-\"anti-inflammatory\"-adj-0]",
+      "cui": "C0003209",
+      "semtypes": "[phsu]",
+      "pos_info": "75/17"
+    }
+  ],
+  "569": [
+    {
+      "preferred_name": "Tissue Specimen Code",
+      "trigger": "[\"Tissue\"-tx-1-\"tissue\"-noun-0]",
+      "cui": "C1547928",
+      "semtypes": "[inpr]",
+      "pos_info": "10/6"
+    }
+  ],
+  "575": [],
+  "577": [
+    {
+      "preferred_name": "Inoculation",
+      "trigger": "[\"Inoculate\"-tx-1-\"inoculated\"-verb-0]",
+      "cui": "C2987620",
+      "semtypes": "[topp]",
+      "pos_info": "[87/10],[125/10]"
+    },
+    {
+      "preferred_name": "Ability",
+      "trigger": "[\"Able\"-tx-1-\"able\"-adj-0]",
+      "cui": "C0085732",
+      "semtypes": "[orga]",
+      "pos_info": "36/4"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "41/2"
+    },
+    {
+      "preferred_name": "Communicable Diseases",
+      "trigger": "[\"Infection, NOS\"-tx-1-\"infection\"-noun-0]",
+      "cui": "C0009450",
+      "semtypes": "[dsyn]",
+      "pos_info": "72/9"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"high\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "139/4"
+    }
+  ],
+  "578": [],
+  "587": [
+    {
+      "preferred_name": "Toxic Epidermal Necrolysis",
+      "trigger": "[\"TEN\"-tx-1-\"ten\"-noun-0]",
+      "cui": "C0014518",
+      "semtypes": "[dsyn]",
+      "pos_info": "105/3"
+    },
+    {
+      "preferred_name": "Scientific Control",
+      "trigger": "[\"Control\"-tx-1-\"control\"-noun-0]",
+      "cui": "C1882979",
+      "semtypes": "[cnce]",
+      "pos_info": "65/7"
+    }
+  ],
+  "589": [
+    {
+      "preferred_name": "Pharmaceutical Preparations",
+      "trigger": "[\"Medications\"-tx-1-\"medications\"-noun-0]",
+      "cui": "C0013227",
+      "semtypes": "[phsu]",
+      "pos_info": "65/11"
+    }
+  ],
+  "593": [
+    {
+      "preferred_name": "Congestive heart failure",
+      "trigger": "[\"Heart failure\"-tx-1-\"heart failure\"-noun-0]",
+      "cui": "C0018802",
+      "semtypes": "[dsyn]",
+      "pos_info": "14/13"
+    }
+  ],
+  "597": [
+    {
+      "preferred_name": "Cervix carcinoma",
+      "trigger": "[\"CERVICAL CANCER\"-tx-1-\"cervical cancer\"-noun-0]",
+      "cui": "C0302592",
+      "semtypes": "[neop]",
+      "pos_info": "20/15"
+    }
+  ],
+  "598": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "116/2"
+    },
+    {
+      "preferred_name": "cervical cancer",
+      "trigger": "[\"Uterine Cervical Cancer\"-tx-1-\"uterine cervical cancer\"-noun-0]",
+      "cui": "C4048328",
+      "semtypes": "[neop]",
+      "pos_info": "126/23"
+    },
+    {
+      "preferred_name": "Cytology",
+      "trigger": "[\"Cytology\"-tx-1-\"cytology\"-noun-0]",
+      "cui": "C0010819",
+      "semtypes": "[bmod]",
+      "pos_info": "107/8"
+    },
+    {
+      "preferred_name": "Programs - Publication Format",
+      "trigger": "[\"Programs\"-tx-1-\"programs\"-noun-0]",
+      "cui": "C0376691",
+      "semtypes": "[inpr]",
+      "pos_info": "79/8"
+    },
+    {
+      "preferred_name": "Trial Screening",
+      "trigger": "[\"SCREENING\"-tx-1-\"screening\"-noun-0]",
+      "cui": "C1710477",
+      "semtypes": "[resa]",
+      "pos_info": "69/9"
+    },
+    {
+      "preferred_name": "Cervix carcinoma",
+      "trigger": "[\"CERVICAL CANCER\"-tx-1-\"cervical cancer\"-noun-0]",
+      "cui": "C0302592",
+      "semtypes": "[neop]",
+      "pos_info": "20/15"
+    }
+  ],
+  "613": [
+    {
+      "preferred_name": "Surgical repair",
+      "trigger": "[\"repairs\"-tx-1-\"repairs\"-verb-0]",
+      "cui": "C0374711",
+      "semtypes": "[topp]",
+      "pos_info": "35/7"
+    },
+    {
+      "preferred_name": "Superkingdom (taxonomic category)",
+      "trigger": "[\"Domain\"-tx-1-\"domain\"-noun-0]",
+      "cui": "C1883221",
+      "semtypes": "[cnce]",
+      "pos_info": "57/6"
+    },
+    {
+      "preferred_name": "cordycepin",
+      "trigger": "[\"COR\"-tx-1-\"COR\"-noun-0]",
+      "cui": "C0056331",
+      "semtypes": "[nnon,phsu]",
+      "pos_info": "53/3"
+    }
+  ],
+  "619": [
+    {
+      "preferred_name": "Fibrosis",
+      "trigger": "[\"FIBROSIS\"-tx-1-\"fibrosis\"-noun-0]",
+      "cui": "C0016059",
+      "semtypes": "[patf]",
+      "pos_info": "52/8"
+    },
+    {
+      "preferred_name": "Challenge Agent Treatment Efficacy Study",
+      "trigger": "[\"EFFICACY, TREATMENT\"-tx-1-\"efficacy treatments\"-noun-0]",
+      "cui": "C4761524",
+      "semtypes": "[resa]",
+      "pos_info": "75/8,100/10"
+    },
+    {
+      "preferred_name": "Efficacy Study",
+      "trigger": "[\"EFFICACY\"-tx-1-\"efficacy\"-noun-0]",
+      "cui": "C1707887",
+      "semtypes": "[resa]",
+      "pos_info": "75/8"
+    },
+    {
+      "preferred_name": "Chemotherapy Regimen",
+      "trigger": "[\"Chemotherapy, NOS\"-tx-1-\"chemotherapy\"-noun-0]",
+      "cui": "C0392920",
+      "semtypes": "[topp]",
+      "pos_info": "87/12"
+    },
+    {
+      "preferred_name": "Reduction procedure",
+      "trigger": "[\"Reduction\"-tx-1-\"reduction\"-noun-0]",
+      "cui": "C1293152",
+      "semtypes": "[topp]",
+      "pos_info": "39/9"
+    }
+  ],
+  "623": [
+    {
+      "preferred_name": "Multiple Sclerosis",
+      "trigger": "[\"MULTIPLE SCLEROSIS\"-tx-1-\"multiple sclerosis\"-noun-0]",
+      "cui": "C0026769",
+      "semtypes": "[dsyn]",
+      "pos_info": "76/18"
+    },
+    {
+      "preferred_name": "Specimen Source Codes - Serum",
+      "trigger": "[\"Serum\"-tx-1-\"serum\"-noun-0]",
+      "cui": "C1546774",
+      "semtypes": "[inpr]",
+      "pos_info": "22/5"
+    }
+  ],
+  "628": [
+    {
+      "preferred_name": "HTLV-I Infections",
+      "trigger": "[\"Human T-cell lymphotropic virus 1 infection\"-tx-1-\"Infection human T-cell lymphotropic virus 1\"-noun-0]",
+      "cui": "C0020097",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/9,14/31,51/1"
+    },
+    {
+      "preferred_name": "Communicable Diseases",
+      "trigger": "[\"Infection, NOS\"-tx-1-\"Infection\"-noun-0]",
+      "cui": "C0009450",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/9"
+    },
+    {
+      "preferred_name": "GDC Type Terminology",
+      "trigger": "[\"TYPE\"-tx-1-\"type\"-noun-0]",
+      "cui": "C5202910",
+      "semtypes": "[inpr]",
+      "pos_info": "46/4"
+    }
+  ],
+  "636": [
+    {
+      "preferred_name": "3+ Score, WHO",
+      "trigger": "[\"3+\"-tx-1-\"3\"-integer-0]",
+      "cui": "C2981702",
+      "semtypes": "[inpr]",
+      "pos_info": "51/1"
+    },
+    {
+      "preferred_name": "P-2",
+      "trigger": "[\"P-2\"-tx-1-\"P 2\"-noun-0]",
+      "cui": "C0608663",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "55/3"
+    },
+    {
+      "preferred_name": "inositol",
+      "trigger": "[\"INOSITOL\"-tx-1-\"Inositol\"-noun-0]",
+      "cui": "C0021547",
+      "semtypes": "[orch,phsu,vita]",
+      "pos_info": "1/8"
+    }
+  ],
+  "637": [
+    {
+      "preferred_name": "Input",
+      "trigger": "[\"Input\"-tx-1-\"Input\"-noun-0]",
+      "cui": "C1708517",
+      "semtypes": "[cnce]",
+      "pos_info": "1/5"
+    }
+  ],
+  "641": [
+    {
+      "preferred_name": "Sleeplessness",
+      "trigger": "[\"INSOMNIA\"-tx-1-\"Insomnia\"-noun-0]",
+      "cui": "C0917801",
+      "semtypes": "[sosy]",
+      "pos_info": "1/8"
+    },
+    {
+      "preferred_name": "Cognitive Therapy",
+      "trigger": "[\"cognitive behavioural therapy\"-tx-1-\"cognitive behavioral therapy\"-noun-0]",
+      "cui": "C0009244",
+      "semtypes": "[topp]",
+      "pos_info": "42/28"
+    },
+    {
+      "preferred_name": "Treated with",
+      "trigger": "[\"Treated with\"-tx-1-\"treated with\"-verb-0]",
+      "cui": "C0332293",
+      "semtypes": "[topp]",
+      "pos_info": "29/12"
+    }
+  ],
+  "644": [
+    {
+      "preferred_name": "Hyperinsulinism",
+      "trigger": "[\"INSULIN INCREASE\"-tx-1-\"Insulin increases\"-noun-0]",
+      "cui": "C0020459",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/17"
+    },
+    {
+      "preferred_name": "Kidney Failure",
+      "trigger": "[\"Failure, Kidney\"-tx-1-\"kidney failure\"-noun-0]",
+      "cui": "C0035078",
+      "semtypes": "[dsyn]",
+      "pos_info": "34/14"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-verb-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "19/4"
+    }
+  ],
+  "649": [
+    {
+      "preferred_name": "Plumbum metallicum, homeopathic preparation",
+      "trigger": "[\"lead\"-tx-1-\"leads\"-verb-0]",
+      "cui": "C1442948",
+      "semtypes": "[inch,phsu]",
+      "pos_info": "90/5"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "96/2"
+    },
+    {
+      "preferred_name": "Object Class",
+      "trigger": "[\"class\"-tx-1-\"class\"-noun-0]",
+      "cui": "C1518526",
+      "semtypes": "[cnce]",
+      "pos_info": "106/5"
+    }
+  ],
+  "659": [
+    {
+      "preferred_name": "Filarial Elephantiases",
+      "trigger": "[\"Lymphatic Filariasis\"-tx-1-\"lymphatic filariasis\"-noun-0]",
+      "cui": "C0013884",
+      "semtypes": "[dsyn]",
+      "pos_info": "29/20"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "20/2"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"TREAT\"-tx-1-\"treat\"-verb-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "23/5"
+    },
+    {
+      "preferred_name": "ivermectin",
+      "trigger": "[\"IVERMECTIN\"-tx-1-\"Ivermectin\"-noun-0]",
+      "cui": "C0022322",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    }
+  ],
+  "660": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "20/2"
+    },
+    {
+      "preferred_name": "Onchocerciasis",
+      "trigger": "[\"ONCHOCERCIASIS\"-tx-1-\"onchocerciasis\"-noun-0]",
+      "cui": "C0029001",
+      "semtypes": "[dsyn]",
+      "pos_info": "29/14"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"TREAT\"-tx-1-\"treat\"-verb-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "23/5"
+    },
+    {
+      "preferred_name": "ivermectin",
+      "trigger": "[\"IVERMECTIN\"-tx-1-\"Ivermectin\"-noun-0]",
+      "cui": "C0022322",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    }
+  ],
+  "674": [
+    {
+      "preferred_name": "Cardiovascular Diseases",
+      "trigger": "[\"Cardiovascular Disease\"-tx-1-\"cardiovascular disease\"-noun-1]",
+      "cui": "C0007222",
+      "semtypes": "[dsyn]",
+      "pos_info": "58/22"
+    }
+  ],
+  "684": [],
+  "690": [
+    {
+      "preferred_name": "Nevus Sebaceus of Jadassohn",
+      "trigger": "[\"SFM\"-tx-1-\"SFM\"-noun-0]",
+      "cui": "C4552097",
+      "semtypes": "[dsyn]",
+      "pos_info": "87/3"
+    },
+    {
+      "preferred_name": "lactate",
+      "trigger": "[\"LACTATE\"-tx-1-\"lactate\"-noun-0]",
+      "cui": "C0376261",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "105/7"
+    },
+    {
+      "preferred_name": "Organoid Nevus Phakomatosis",
+      "trigger": "[\"Syndrome, Schimmelpenning-Feuerstein-Mims\"-tx-1-\"Schimmelpenning-Feuerstein-Mims syndrome\"-noun-0]",
+      "cui": "C0265329",
+      "semtypes": "[dsyn]",
+      "pos_info": "45/40"
+    },
+    {
+      "preferred_name": "Plasma Product",
+      "trigger": "[\"Plasma\"-tx-1-\"plasma\"-noun-0]",
+      "cui": "C4521445",
+      "semtypes": "[phsu]",
+      "pos_info": "98/6"
+    }
+  ],
+  "691": [
+    {
+      "preferred_name": "leukemia",
+      "trigger": "[\"LEUKEMIA\"-tx-1-\"Leukemia\"-noun-0]",
+      "cui": "C0023418",
+      "semtypes": "[neop]",
+      "pos_info": "1/8"
+    },
+    {
+      "preferred_name": "Response process",
+      "trigger": "[\"Response\"-tx-1-\"response\"-noun-0]",
+      "cui": "C0871261",
+      "semtypes": "[orga]",
+      "pos_info": "78/8"
+    }
+  ],
+  "692": [
+    {
+      "preferred_name": "infection as a complication",
+      "trigger": "[\"complications infections\"-tx-1-\"infectious complications\"-noun-0]",
+      "cui": "C0940933",
+      "semtypes": "[dsyn]",
+      "pos_info": "33/24"
+    },
+    {
+      "preferred_name": "Red Blood Cell Transfusion",
+      "trigger": "[\"Red Blood Cell Transfusion\"-tx-1-\"red blood cell transfusion\"-noun-0]",
+      "cui": "C0086252",
+      "semtypes": "[topp]",
+      "pos_info": "61/26"
+    }
+  ],
+  "693": [
+    {
+      "preferred_name": "infection as a complication",
+      "trigger": "[\"complications infections\"-tx-1-\"infectious complications\"-noun-0]",
+      "cui": "C0940933",
+      "semtypes": "[dsyn]",
+      "pos_info": "29/24"
+    },
+    {
+      "preferred_name": "Red Blood Cell Transfusion",
+      "trigger": "[\"Red Blood Cell Transfusion\"-tx-1-\"red blood cell transfusion\"-noun-0]",
+      "cui": "C0086252",
+      "semtypes": "[topp]",
+      "pos_info": "57/26"
+    }
+  ],
+  "700": [],
+  "702": [],
+  "715": [],
+  "716": [],
+  "718": [
+    {
+      "preferred_name": "low confidentiality",
+      "trigger": "[\"low\"-tx-1-\"Low\"-adj-0]",
+      "cui": "C1550472",
+      "semtypes": "[inpr]",
+      "pos_info": "1/3"
+    }
+  ],
+  "721": [
+    {
+      "preferred_name": "Scientific Control",
+      "trigger": "[\"Control\"-tx-1-\"controls\"-noun-0]",
+      "cui": "C1882979",
+      "semtypes": "[cnce]",
+      "pos_info": "100/8"
+    },
+    {
+      "preferred_name": "Lupus Erythematosus",
+      "trigger": "[\"Lupus\"-tx-1-\"Lupus\"-adj-0]",
+      "cui": "C0409974",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/5"
+    }
+  ],
+  "723": [
+    {
+      "preferred_name": "Organization Name",
+      "trigger": "[\"Organization\"-tx-1-\"organization\"-noun-0]",
+      "cui": "C1552679",
+      "semtypes": "[inpr]",
+      "pos_info": "19/12"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-prep-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "56/2"
+    },
+    {
+      "preferred_name": "Inflammation",
+      "trigger": "[\"INFLAMMATION\"-tx-1-\"inflammation\"-noun-0]",
+      "cui": "C0021368",
+      "semtypes": "[patf]",
+      "pos_info": "59/12"
+    }
+  ],
+  "727": [
+    {
+      "preferred_name": "Harlequin Fetus",
+      "trigger": "[\"HI\"-tx-1-\"hi\"-noun-0]",
+      "cui": "C0239849",
+      "semtypes": "[dsyn]",
+      "pos_info": "6/2"
+    }
+  ],
+  "728": [
+    {
+      "preferred_name": "Harlequin Fetus",
+      "trigger": "[\"HI\"-tx-1-\"hi\"-noun-0]",
+      "cui": "C0239849",
+      "semtypes": "[dsyn]",
+      "pos_info": "6/2"
+    }
+  ],
+  "729": [
+    {
+      "preferred_name": "Lymphadenopathy",
+      "trigger": "[\"LYMPHADENOPATHY\"-tx-1-\"Lymphadenopathy\"-noun-0]",
+      "cui": "C0497156",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/15"
+    },
+    {
+      "preferred_name": "Pathway (interactions)",
+      "trigger": "[\"Pathway\"-tx-1-\"pathway\"-noun-0]",
+      "cui": "C1705987",
+      "semtypes": "[cnce]",
+      "pos_info": "69/7"
+    },
+    {
+      "preferred_name": "Knock-in",
+      "trigger": "[\"Knock-in\"-tx-1-\"knockin\"-noun-0]",
+      "cui": "C1517676",
+      "semtypes": "[resa]",
+      "pos_info": "32/7"
+    }
+  ],
+  "742": [
+    {
+      "preferred_name": "Macrolides",
+      "trigger": "[\"Macrolides\"-tx-1-\"Macrolides\"-noun-0]",
+      "cui": "C0282563",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    },
+    {
+      "preferred_name": "Myocardial Infarction",
+      "trigger": "[\"Infarction, Myocardial\"-tx-1-\"myocardial infarction\"-noun-1]",
+      "cui": "C0027051",
+      "semtypes": "[dsyn]",
+      "pos_info": "46/21"
+    }
+  ],
+  "743": [
+    {
+      "preferred_name": "Macrolides",
+      "trigger": "[\"Macrolides\"-tx-1-\"Macrolides\"-noun-0]",
+      "cui": "C0282563",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    },
+    {
+      "preferred_name": "Myocardial Infarction",
+      "trigger": "[\"Infarction, Myocardial\"-tx-1-\"myocardial infarction\"-noun-0]",
+      "cui": "C0027051",
+      "semtypes": "[dsyn]",
+      "pos_info": "28/21"
+    }
+  ],
+  "744": [],
+  "756": [
+    {
+      "preferred_name": "lysine",
+      "trigger": "[\"LYSINE\"-tx-1-\"lysine\"-noun-0]",
+      "cui": "C0024337",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "70/6"
+    },
+    {
+      "preferred_name": "Residue",
+      "trigger": "[\"Residue\"-tx-1-\"residues\"-noun-0]",
+      "cui": "C1709915",
+      "semtypes": "[cnce]",
+      "pos_info": "77/8"
+    },
+    {
+      "preferred_name": "POLY",
+      "trigger": "[\"many\"-tx-1-\"Many\"-det-0]",
+      "cui": "C0747726",
+      "semtypes": "[cnce]",
+      "pos_info": "1/4"
+    }
+  ],
+  "759": [
+    {
+      "preferred_name": "Mathematical Model",
+      "trigger": "[\"Mathematical models\"-tx-1-\"Mathematical models\"-noun-0]",
+      "cui": "C0876936",
+      "semtypes": "[inpr]",
+      "pos_info": "1/19"
+    },
+    {
+      "preferred_name": "Combination Chemotherapy",
+      "trigger": "[\"Drug Therapy, Combination\"-tx-1-\"combination therapy drugs\"-noun-0]",
+      "cui": "C1521750",
+      "semtypes": "[topp]",
+      "pos_info": "58/19,102/5"
+    },
+    {
+      "preferred_name": "Combination Drug Therapy",
+      "trigger": "[\"drug therapy combination\"-tx-1-\"combination therapy drugs\"-noun-0]",
+      "cui": "C0013218",
+      "semtypes": "[topp]",
+      "pos_info": "58/19,102/5"
+    },
+    {
+      "preferred_name": "artemisinine",
+      "trigger": "[\"ARTEMISININ\"-tx-1-\"Artemisinin\"-noun-0]",
+      "cui": "C0052430",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "40/11"
+    },
+    {
+      "preferred_name": "Malaria",
+      "trigger": "[\"MALARIA\"-tx-1-\"malaria\"-noun-0]",
+      "cui": "C0024530",
+      "semtypes": "[dsyn]",
+      "pos_info": "143/7"
+    },
+    {
+      "preferred_name": "disease transmission",
+      "trigger": "[\"Transmission\"-tx-1-\"transmission\"-noun-0]",
+      "cui": "C0242781",
+      "semtypes": "[patf]",
+      "pos_info": "151/12"
+    },
+    {
+      "preferred_name": "Drama",
+      "trigger": "[\"Dramas\"-tx-1-\"dramatic\"-adj-0]",
+      "cui": "C0013109",
+      "semtypes": "[inpr]",
+      "pos_info": "115/8"
+    }
+  ],
+  "768": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "102:4"
+    },
+    {
+      "preferred_name": "mercaptopurine",
+      "trigger": "[\"MERCAPTOPURINE\"-tx-1-\"Mercaptopurine\"-noun-0]",
+      "cui": "C0000618",
+      "semtypes": "[nnon,phsu]",
+      "pos_info": "1/14"
+    },
+    {
+      "preferred_name": "thiopurine",
+      "trigger": "[\"thiopurine\"-tx-1-\"thiopurine\"-noun-0]",
+      "cui": "C0597573",
+      "semtypes": "[phsu]",
+      "pos_info": "72/10"
+    }
+  ],
+  "770": [
+    {
+      "preferred_name": "Secondary malignant neoplasm of colon and/or rectum",
+      "trigger": "[\"Metastatic colorectal cancer\"-tx-1-\"Metastatic colorectal cancer\"-noun-0]",
+      "cui": "C4721579",
+      "semtypes": "[neop]",
+      "pos_info": "1/28"
+    },
+    {
+      "preferred_name": "Perceived quality of life",
+      "trigger": "[\"Quality of life\"-tx-1-\"quality of life\"-adj-0]",
+      "cui": "C0518214",
+      "semtypes": "[sosy]",
+      "pos_info": "115/15"
+    },
+    {
+      "preferred_name": "Treated with",
+      "trigger": "[\"Treated with\"-tx-1-\"treated with\"-verb-0]",
+      "cui": "C0332293",
+      "semtypes": "[topp]",
+      "pos_info": "30/12"
+    },
+    {
+      "preferred_name": "Efficacy Study",
+      "trigger": "[\"EFFICACY\"-tx-1-\"efficacy\"-noun-0]",
+      "cui": "C1707887",
+      "semtypes": "[resa]",
+      "pos_info": "96/8"
+    },
+    {
+      "preferred_name": "Chemotherapy Regimen",
+      "trigger": "[\"Chemotherapy, NOS\"-tx-1-\"chemotherapy\"-noun-0]",
+      "cui": "C0392920",
+      "semtypes": "[topp]",
+      "pos_info": "168/12"
+    },
+    {
+      "preferred_name": "oxaliplatin",
+      "trigger": "[\"OXALIPLATIN\"-tx-1-\"oxaliplatin\"-noun-0]",
+      "cui": "C0069717",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "150/11"
+    },
+    {
+      "preferred_name": "Fluoropyrimidine",
+      "trigger": "[\"fluoropyrimidines\"-tx-1-\"fluoropyrimidines\"-noun-0]",
+      "cui": "C0596581",
+      "semtypes": "[nnon,phsu]",
+      "pos_info": "58/17"
+    },
+    {
+      "preferred_name": "Protocol Agent",
+      "trigger": "[\"Agent\"-tx-1-\"agent\"-noun-0]",
+      "cui": "C1521826",
+      "semtypes": "[inpr]",
+      "pos_info": "52/5"
+    }
+  ],
+  "775": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "43:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "62:4"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "120:2"
+    }
+  ],
+  "781": [
+    {
+      "preferred_name": "Exhibits as Topic",
+      "trigger": "[\"Exhibit\"-tx-1-\"exhibit\"-verb-0]",
+      "cui": "C0015272",
+      "semtypes": "[inpr]",
+      "pos_info": "45/7"
+    },
+    {
+      "preferred_name": "Interferon gamma [EPC]",
+      "trigger": "[\"Interferon gamma\"-tx-1-[73,110,116,101,114,102,101,114,111,110,45,947]-noun-0]",
+      "cui": "C2757040",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "16/12"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"high\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "53/4"
+    },
+    {
+      "preferred_name": "Autoimmune reaction",
+      "trigger": "[\"Autoimmune\"-tx-1-\"autoimmune\"-noun-0]",
+      "cui": "C0443146",
+      "semtypes": "[patf]",
+      "pos_info": "85/10"
+    },
+    {
+      "preferred_name": "Experimentally Determined Chemical Structure",
+      "trigger": "[\"Experimental\"-tx-1-\"experimental\"-noun-0]",
+      "cui": "C4522251",
+      "semtypes": "[inpr]",
+      "pos_info": "72/12"
+    },
+    {
+      "preferred_name": "Myocarditis",
+      "trigger": "[\"MYOCARDITIS\"-tx-1-\"myocarditis\"-noun-0]",
+      "cui": "C0027059",
+      "semtypes": "[dsyn]",
+      "pos_info": "96/11"
+    }
+  ],
+  "783": [
+    {
+      "preferred_name": "Episodic ataxia type 1",
+      "trigger": "[\"EAM\"-tx-1-\"EAM\"-noun-1]",
+      "cui": "C1719788",
+      "semtypes": "[dsyn]",
+      "pos_info": "53/3"
+    }
+  ],
+  "784": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "61:3"
+    },
+    {
+      "preferred_name": "Proliferation (morphologic abnormality)",
+      "trigger": "[\"Proliferation\"-tx-1-\"proliferation\"-noun-0]",
+      "cui": "C0334094",
+      "semtypes": "[patf]",
+      "pos_info": "86/13"
+    },
+    {
+      "preferred_name": "Patient Reported Outcome Stem",
+      "trigger": "[\"stem\"-tx-1-\"Stem\"-noun-0]",
+      "cui": "C4553151",
+      "semtypes": "[inpr]",
+      "pos_info": "50/4"
+    }
+  ],
+  "785": [
+    {
+      "preferred_name": "Serotype",
+      "trigger": "[\"Serotypes\"-tx-1-\"serotypes\"-noun-0]",
+      "cui": "C0449943",
+      "semtypes": "[inpr]",
+      "pos_info": "55/9"
+    }
+  ],
+  "793": [
+    {
+      "preferred_name": "Apoptosis Pathway",
+      "trigger": "[\"Apoptosis\"-tx-1-\"apoptosis\"-noun-0]",
+      "cui": "C4759886",
+      "semtypes": "[cnce]",
+      "pos_info": "32/9"
+    }
+  ],
+  "800": [
+    {
+      "preferred_name": "How Often Felt Normal question",
+      "trigger": "[\"Normal\"-tx-1-\"normal\"-adj-0]",
+      "cui": "C4553972",
+      "semtypes": "[inpr]",
+      "pos_info": "50/6"
+    }
+  ],
+  "805": [
+    {
+      "preferred_name": "Neoplasm Metastasis",
+      "trigger": "[\"Metastasis\"-tx-1-\"metastasis\"-noun-0]",
+      "cui": "C0027627",
+      "semtypes": "[neop]",
+      "pos_info": "54/10"
+    },
+    {
+      "preferred_name": "Cardiac Arrest",
+      "trigger": "[\"arrested\"-tx-1-\"inhibits\"-verb-0]",
+      "cui": "C0018790",
+      "semtypes": "[dsyn]",
+      "pos_info": "45/8"
+    },
+    {
+      "preferred_name": "Monoclonal Antibody [EPC]",
+      "trigger": "[\"Monoclonal Antibody\"-tx-1-\"Monoclonal antibody\"-noun-0]",
+      "cui": "C5203232",
+      "semtypes": "[phsu]",
+      "pos_info": "1/19"
+    }
+  ],
+  "808": [
+    {
+      "preferred_name": "Entity Determiner - specific",
+      "trigger": "[\"specific\"-tx-1-\"specific\"-adj-0]",
+      "cui": "C1552740",
+      "semtypes": "[inpr]",
+      "pos_info": "59/8"
+    },
+    {
+      "preferred_name": "Sequence - TransmissionRelationshipTypeCode",
+      "trigger": "[\"sequence\"-tx-1-\"sequence\"-adj-0]",
+      "cui": "C3853789",
+      "semtypes": "[inpr]",
+      "pos_info": "50/8"
+    },
+    {
+      "preferred_name": "Termination - Inactive Reason Code",
+      "trigger": "[\"Termination\"-tx-1-\"termination\"-noun-0]",
+      "cui": "C1549081",
+      "semtypes": "[inpr]",
+      "pos_info": "6/11"
+    }
+  ],
+  "811": [],
+  "814": [
+    {
+      "preferred_name": "glycoprotein hormones, alpha subunit",
+      "trigger": "[\"Alpha subunit\"-tx-1-\"alpha subunits\"-noun-0]",
+      "cui": "C0017963",
+      "semtypes": "[aapp,horm,phsu]",
+      "pos_info": "103/14"
+    },
+    {
+      "preferred_name": "Malignant Neoplasms",
+      "trigger": "[\"Cancers\"-tx-1-\"cancers\"-noun-0]",
+      "cui": "C0006826",
+      "semtypes": "[neop]",
+      "pos_info": "54/7"
+    },
+    {
+      "preferred_name": "Pathway (interactions)",
+      "trigger": "[\"Pathway\"-tx-1-\"pathway\"-noun-0]",
+      "cui": "C1705987",
+      "semtypes": "[cnce]",
+      "pos_info": "152/7"
+    },
+    {
+      "preferred_name": "Beta greek letter",
+      "trigger": "[\"Beta\"-tx-1-\"Beta\"-noun-0]",
+      "cui": "C0439096",
+      "semtypes": "[inpr]",
+      "pos_info": "16/4"
+    }
+  ],
+  "820": [],
+  "821": [],
+  "823": [
+    {
+      "preferred_name": "zidovudine",
+      "trigger": "[\"AZT\"-tx-1-\"AZT\"-noun-0,\"ZIDOVUDINE\"-tx-1-\"zidovudine\"-noun-0]",
+      "cui": "C0043474",
+      "semtypes": "[nnon,phsu]",
+      "pos_info": "49/3;37/10"
+    },
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"cause\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "17/5"
+    }
+  ],
+  "830": [
+    {
+      "preferred_name": "Neurofibromatosis 2",
+      "trigger": "[\"NF2\"-tx-1-\"NF2\"-noun-0]",
+      "cui": "C0027832",
+      "semtypes": "[neop]",
+      "pos_info": "1/3"
+    },
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "14/6"
+    }
+  ],
+  "831": [
+    {
+      "preferred_name": "Neurofibromatosis 2",
+      "trigger": "[\"NF2\"-tx-1-\"NF2\"-noun-0]",
+      "cui": "C0027832",
+      "semtypes": "[neop]",
+      "pos_info": "1/3"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevents\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "14/8"
+    }
+  ],
+  "832": [
+    {
+      "preferred_name": "Therapeutic Mobilization",
+      "trigger": "[\"Mobilization\"-tx-1-\"mobilization\"-noun-0]",
+      "cui": "C0185112",
+      "semtypes": "[topp]",
+      "pos_info": "46/12"
+    },
+    {
+      "preferred_name": "Mediator brand of benfluorex hydrochloride",
+      "trigger": "[\"Mediated\"-tx-1-\"mediated\"-adj-0]",
+      "cui": "C0127400",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "32/8"
+    },
+    {
+      "preferred_name": "calcium ion",
+      "trigger": "[\"Ca2+\"-tx-1-\"Ca2\"-noun-0]",
+      "cui": "C0596235",
+      "semtypes": "[elii,phsu]",
+      "pos_info": "41/3"
+    }
+  ],
+  "834": [
+    {
+      "preferred_name": "International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Criteria - Intermediate-Risk Group",
+      "trigger": "[\"Intermediate\"-tx-1-\"intermediates\"-noun-0]",
+      "cui": "C4722218",
+      "semtypes": "[inpr]",
+      "pos_info": "80/13"
+    },
+    {
+      "preferred_name": "Pathway (interactions)",
+      "trigger": "[\"Pathways\"-tx-1-\"pathways\"-noun-0]",
+      "cui": "C1705987",
+      "semtypes": "[cnce]",
+      "pos_info": "18/8"
+    },
+    {
+      "preferred_name": "React",
+      "trigger": "[\"React\"-tx-1-\"reacting\"-noun-0]",
+      "cui": "C4224854",
+      "semtypes": "[horm,orch,phsu]",
+      "pos_info": "57/8"
+    }
+  ],
+  "837": [
+    {
+      "preferred_name": "Importance Rating Score 0",
+      "trigger": "[\"Important\"-tx-1-\"important\"-adj-0]",
+      "cui": "C4084912",
+      "semtypes": "[inpr]",
+      "pos_info": "10/9"
+    }
+  ],
+  "839": [
+    {
+      "preferred_name": "Entity Determiner - specific",
+      "trigger": "[\"specific\"-tx-1-\"specific\"-adj-0]",
+      "cui": "C1552740",
+      "semtypes": "[inpr]",
+      "pos_info": "39/8"
+    }
+  ],
+  "845": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "33:3"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "33:4"
+    }
+  ],
+  "847": [
+    {
+      "preferred_name": "Tuberculosis",
+      "trigger": "[\"TUBERCULOSIS\"-tx-1-\"tuberculosis\"-noun-0,\"TUBERCULOSIS\"-tx-1-\"tuberculosis\"-noun-1]",
+      "cui": "C0041296",
+      "semtypes": "[dsyn]",
+      "pos_info": "[15/12],[77/12];[15/12],[77/12]"
+    },
+    {
+      "preferred_name": "Often - answer to question",
+      "trigger": "[\"Often\"-tx-1-\"often\"-adv-0]",
+      "cui": "C4050225",
+      "semtypes": "[inpr]",
+      "pos_info": "28/5"
+    },
+    {
+      "preferred_name": "New medications",
+      "trigger": "[\"New Drugs\"-tx-1-\"New drugs\"-noun-0]",
+      "cui": "C1718097",
+      "semtypes": "[phsu]",
+      "pos_info": "1/9"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"high\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "100/4"
+    }
+  ],
+  "852": [
+    {
+      "preferred_name": "Use - dosing instruction imperative",
+      "trigger": "[\"Use\"-tx-1-\"use\"-noun-0]",
+      "cui": "C1947944",
+      "semtypes": "[inpr]",
+      "pos_info": "26/3"
+    },
+    {
+      "preferred_name": "Noninvasive Ventilation",
+      "trigger": "[\"Ventilation, Non-Invasive\"-tx-1-\"Non-invasive ventilation\"-noun-0]",
+      "cui": "C1997883",
+      "semtypes": "[topp]",
+      "pos_info": "1/24"
+    }
+  ],
+  "859": [
+    {
+      "preferred_name": "Specimen Source Codes - tumor",
+      "trigger": "[\"Tumor\"-tx-1-\"tumor\"-noun-0]",
+      "cui": "C1578706",
+      "semtypes": "[inpr]",
+      "pos_info": "32/5"
+    },
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "8/10"
+    },
+    {
+      "preferred_name": "How Often Felt Normal question",
+      "trigger": "[\"Normal\"-tx-1-\"Normal\"-adj-0]",
+      "cui": "C4553972",
+      "semtypes": "[inpr]",
+      "pos_info": "1/6"
+    }
+  ],
+  "870": [
+    {
+      "preferred_name": "Obesity",
+      "trigger": "[\"OBESITY\"-tx-1-\"Obesity\"-noun-0]",
+      "cui": "C0028754",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/7"
+    },
+    {
+      "preferred_name": "Perceived quality of life",
+      "trigger": "[\"life quality\"-tx-1-\"life quality\"-noun-0]",
+      "cui": "C0518214",
+      "semtypes": "[sosy]",
+      "pos_info": "19/12"
+    }
+  ],
+  "873": [
+    {
+      "preferred_name": "Obesity",
+      "trigger": "[\"OBESITY\"-tx-1-\"Obesity\"-noun-0]",
+      "cui": "C0028754",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/7"
+    }
+  ],
+  "879": [
+    {
+      "preferred_name": "Peptides",
+      "trigger": "[\"Peptides\"-tx-1-\"peptides\"-noun-0]",
+      "cui": "C0030956",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "58/8"
+    },
+    {
+      "preferred_name": "Functional Relationship",
+      "trigger": "[\"Functional\"-tx-1-\"functional\"-adj-0]",
+      "cui": "C2700217",
+      "semtypes": "[cnce]",
+      "pos_info": "47/10"
+    }
+  ],
+  "880": [],
+  "882": [
+    {
+      "preferred_name": "trimethyloxamine",
+      "trigger": "[\"Trimethylamine N-oxide\"-tx-1-\"trimethylamine N-oxide\"-noun-0]",
+      "cui": "C0077194",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "24/22"
+    },
+    {
+      "preferred_name": "carnitine",
+      "trigger": "[\"CARNITINE\"-tx-1-\"carnitine\"-noun-0]",
+      "cui": "C0007258",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "62/9"
+    }
+  ],
+  "887": [
+    {
+      "preferred_name": "Only - dosing instruction fragment",
+      "trigger": "[\"Only\"-tx-1-\"Only\"-adv-0]",
+      "cui": "C1720467",
+      "semtypes": "[inpr]",
+      "pos_info": "1/4"
+    },
+    {
+      "preferred_name": "survive",
+      "trigger": "[\"SURVIVE\"-tx-1-\"survive\"-verb-0]",
+      "cui": "C0310255",
+      "semtypes": "[phsu]",
+      "pos_info": "26/7"
+    }
+  ],
+  "903": [],
+  "904": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "98/2"
+    }
+  ],
+  "907": [
+    {
+      "preferred_name": "dinoprostone",
+      "trigger": "[\"PGE2\"-tx-1-\"PGE 2\"-noun-0]",
+      "cui": "C0012472",
+      "semtypes": "[horm,orch,phsu]",
+      "pos_info": "1/5"
+    },
+    {
+      "preferred_name": "Intestinal Neoplasms",
+      "trigger": "[\"Intestinal Tumour\"-tx-1-\"intestinal tumor\"-noun-0]",
+      "cui": "C0021841",
+      "semtypes": "[neop]",
+      "pos_info": "16/16"
+    },
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "56/10"
+    },
+    {
+      "preferred_name": "Specimen Source Codes - tumor",
+      "trigger": "[\"Tumor\"-tx-1-\"tumor\"-noun-0]",
+      "cui": "C1578706",
+      "semtypes": "[inpr]",
+      "pos_info": "70/5"
+    }
+  ],
+  "911": [
+    {
+      "preferred_name": "linoleic acid",
+      "trigger": "[\"LA\"-tx-1-\"la\"-noun-0]",
+      "cui": "C0023749",
+      "semtypes": "[bacs,orch,phsu]",
+      "pos_info": "[5/2],[78/2]"
+    },
+    {
+      "preferred_name": "Role",
+      "trigger": "[\"Role\"-tx-1-\"role\"-noun-0]",
+      "cui": "C3871154",
+      "semtypes": "[inpr]",
+      "pos_info": "27/4"
+    },
+    {
+      "preferred_name": "Hypersensitivity",
+      "trigger": "[\"Hypersensitivity\"-tx-1-\"hypersensitivity\"-noun-0]",
+      "cui": "C0020517",
+      "semtypes": "[patf]",
+      "pos_info": "54/16"
+    },
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "35/10"
+    },
+    {
+      "preferred_name": "Frequency of Pain Question",
+      "trigger": "[\"Pain\"-tx-1-\"pain\"-noun-0]",
+      "cui": "C0518090",
+      "semtypes": "[inpr]",
+      "pos_info": "49/4"
+    }
+  ],
+  "913": [],
+  "914": [],
+  "921": [],
+  "922": [
+    {
+      "preferred_name": "Acquired Immunodeficiency Syndrome",
+      "trigger": "[\"AIDS\"-tx-1-\"AIDS\"-noun-0]",
+      "cui": "C0001175",
+      "semtypes": "[dsyn]",
+      "pos_info": "71/4"
+    },
+    {
+      "preferred_name": "HIV Disease Course",
+      "trigger": "[\"HIV Progression\"-tx-1-\"progression HIV\"-noun-0]",
+      "cui": "C1141957",
+      "semtypes": "[dsyn]",
+      "pos_info": "47/11,64/3"
+    },
+    {
+      "preferred_name": "Patient Condition Code - Stable",
+      "trigger": "[\"Stable\"-tx-1-\"stable\"-adj-0]",
+      "cui": "C1547311",
+      "semtypes": "[inpr]",
+      "pos_info": "13/6"
+    }
+  ],
+  "936": [],
+  "956": [],
+  "957": [
+    {
+      "preferred_name": "Providing presence (regime/therapy)",
+      "trigger": "[\"Presence\"-tx-1-\"presence\"-noun-0]",
+      "cui": "C0392148",
+      "semtypes": "[topp]",
+      "pos_info": "41/8"
+    }
+  ],
+  "960": [
+    {
+      "preferred_name": "Nutrition outcomes",
+      "trigger": "[\"Nutrition\"-tx-1-\"nutrition\"-noun-0]",
+      "cui": "C0518896",
+      "semtypes": "[inpr]",
+      "pos_info": "10/9"
+    }
+  ],
+  "967": [],
+  "971": [
+    {
+      "preferred_name": "Cervical intraepithelial neoplasia grade 2",
+      "trigger": "[\"Cervical intraepithelial neoplasia grade II\"-tx-1-\"cervical intraepithelial neoplasia grade 2\"-noun-0]",
+      "cui": "C0349459",
+      "semtypes": "[neop]",
+      "pos_info": "127/42"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "117/2"
+    },
+    {
+      "preferred_name": "Cervical Cancer Screening",
+      "trigger": "[\"Cervical Cancer Screening\"-tx-1-\"cervical cancer screening\"-noun-0]",
+      "cui": "C0281187",
+      "semtypes": "[topp]",
+      "pos_info": "9/25"
+    },
+    {
+      "preferred_name": "Primary malignant neoplasm of uterine cervix",
+      "trigger": "[\"Primary cervical cancer\"-tx-1-\"Primary cervical cancer\"-noun-0]",
+      "cui": "C1280511",
+      "semtypes": "[neop]",
+      "pos_info": "1/23"
+    },
+    {
+      "preferred_name": "Trial Screening",
+      "trigger": "[\"SCREENING\"-tx-1-\"screening\"-noun-0]",
+      "cui": "C1710477",
+      "semtypes": "[resa]",
+      "pos_info": "25/9"
+    },
+    {
+      "preferred_name": "Cytology",
+      "trigger": "[\"Cytology\"-tx-1-\"cytology\"-noun-0]",
+      "cui": "C0010819",
+      "semtypes": "[bmod]",
+      "pos_info": "108/8"
+    },
+    {
+      "preferred_name": "Detection",
+      "trigger": "[\"Detection\"-tx-1-\"detection\"-noun-0]",
+      "cui": "C1511790",
+      "semtypes": "[topp]",
+      "pos_info": "44/9"
+    },
+    {
+      "preferred_name": "Human papilloma virus infection",
+      "trigger": "[\"HPV\"-tx-1-\"HPV\"-noun-0]",
+      "cui": "C0343641",
+      "semtypes": "[dsyn]",
+      "pos_info": "40/3"
+    },
+    {
+      "preferred_name": "Primary operation",
+      "trigger": "[\"Primary\"-tx-1-\"Primary\"-adj-0]",
+      "cui": "C0439631",
+      "semtypes": "[topp]",
+      "pos_info": "1/7"
+    }
+  ],
+  "975": [
+    {
+      "preferred_name": "Patient Reported Outcome",
+      "trigger": "[\"PRO\"-tx-1-\"pro\"-adj-0,\"PRO\"-tx-1-\"pro\"-noun-0]",
+      "cui": "C2987124",
+      "semtypes": "[inpr]",
+      "pos_info": "[9/3],[53/3];[9/3],[53/3]"
+    },
+    {
+      "preferred_name": "Mediator brand of benfluorex hydrochloride",
+      "trigger": "[\"mediators\"-tx-1-\"mediators\"-noun-0]",
+      "cui": "C0127400",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "80/9"
+    },
+    {
+      "preferred_name": "Recombinant Cytokines",
+      "trigger": "[\"Cytokines\"-tx-1-\"cytokines\"-noun-0]",
+      "cui": "C1524094",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "26/9"
+    },
+    {
+      "preferred_name": "Anti-Inflammatory Agents",
+      "trigger": "[\"Antiinflammatory\"-tx-1-\"anti-inflammatory\"-adj-0]",
+      "cui": "C0003209",
+      "semtypes": "[phsu]",
+      "pos_info": "62/17"
+    },
+    {
+      "preferred_name": "Neoplasm Metastasis",
+      "trigger": "[\"secondary\"-tx-1-\"secondary\"-adj-0]",
+      "cui": "C0027627",
+      "semtypes": "[neop]",
+      "pos_info": "43/9"
+    },
+    {
+      "preferred_name": "Primary operation",
+      "trigger": "[\"Primary\"-tx-1-\"Primary\"-adj-0]",
+      "cui": "C0439631",
+      "semtypes": "[topp]",
+      "pos_info": "1/7"
+    }
+  ],
+  "982": [],
+  "985": [
+    {
+      "preferred_name": "Expression procedure",
+      "trigger": "[\"Expression\"-tx-1-\"expression\"-noun-0]",
+      "cui": "C0185117",
+      "semtypes": "[topp]",
+      "pos_info": "33/10"
+    }
+  ],
+  "993": [
+    {
+      "preferred_name": "pyridostatin",
+      "trigger": "[\"pyridostatin\"-tx-1-\"Pyridostatin\"-noun-0]",
+      "cui": "C3252016",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/12"
+    }
+  ],
+  "1012": [
+    {
+      "preferred_name": "Volume (publication)",
+      "trigger": "[\"Volume\"-tx-1-\"volume\"-noun-0]",
+      "cui": "C1705102",
+      "semtypes": "[inpr]",
+      "pos_info": "72/6"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "13/9"
+    },
+    {
+      "preferred_name": "Non-toxic multinodular goiter",
+      "trigger": "[\"Non-toxic multinodular goitre\"-tx-1-\"non-toxic multinodular goitre\"-noun-0]",
+      "cui": "C0271761",
+      "semtypes": "[dsyn]",
+      "pos_info": "26/29"
+    }
+  ],
+  "1014": [
+    {
+      "preferred_name": "Able to Concentrate Question",
+      "trigger": "[\"Concentration\"-tx-1-\"concentration\"-noun-0]",
+      "cui": "C3827302",
+      "semtypes": "[inpr]",
+      "pos_info": "25/13"
+    }
+  ],
+  "1019": [
+    {
+      "preferred_name": "Component (part)",
+      "trigger": "[\"Component\"-tx-1-\"component\"-noun-0]",
+      "cui": "C1705248",
+      "semtypes": "[cnce]",
+      "pos_info": "52/9"
+    }
+  ],
+  "1020": [
+    {
+      "preferred_name": "West Nile viral infection",
+      "trigger": "[\"West Nile Virus\"-tx-1-\"West Nile virus\"-noun-0]",
+      "cui": "C1096184",
+      "semtypes": "[dsyn]",
+      "pos_info": "140/15"
+    },
+    {
+      "preferred_name": "human leukocyte interferon",
+      "trigger": "[\"Interferon\"-tx-1-\"interferon\"-noun-0]",
+      "cui": "C0733470",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "52/10"
+    }
+  ],
+  "1021": [
+    {
+      "preferred_name": "West Nile viral infection",
+      "trigger": "[\"West Nile Virus\"-tx-1-\"West Nile virus\"-noun-0]",
+      "cui": "C1096184",
+      "semtypes": "[dsyn]",
+      "pos_info": "138/15"
+    },
+    {
+      "preferred_name": "human leukocyte interferon",
+      "trigger": "[\"Interferon\"-tx-1-\"interferon\"-noun-0]",
+      "cui": "C0733470",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "52/10"
+    }
+  ],
+  "1024": [
+    {
+      "preferred_name": "Anchoring procedure",
+      "trigger": "[\"anchor\"-tx-1-\"anchor\"-noun-0]",
+      "cui": "C1293132",
+      "semtypes": "[topp]",
+      "pos_info": "50/6"
+    }
+  ],
+  "1029": [
+    {
+      "preferred_name": "Autoimmune Diseases",
+      "trigger": "[\"Autoimmune Diseases\"-tx-1-\"autoimmune diseases\"-noun-0]",
+      "cui": "C0004364",
+      "semtypes": "[dsyn]",
+      "pos_info": "104/19"
+    },
+    {
+      "preferred_name": "Recombinant Interleukin-2",
+      "trigger": "[\"Interleukin-2\"-tx-1-\"interleukin-2\"-noun-0]",
+      "cui": "C1522405",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "27/13"
+    },
+    {
+      "preferred_name": "Diabetes Mellitus, Insulin-Dependent",
+      "trigger": "[\"Type I Diabetes\"-tx-1-\"Type 1 Diabetes\"-noun-0]",
+      "cui": "C0011854",
+      "semtypes": "[dsyn]",
+      "pos_info": "132/15"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-prep-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "101/2"
+    }
+  ],
+  "1041": [
+    {
+      "preferred_name": "Surgical Replantation",
+      "trigger": "[\"Replacement\"-tx-1-\"Replacement\"-noun-0]",
+      "cui": "C0035139",
+      "semtypes": "[topp]",
+      "pos_info": "1/11"
+    }
+  ],
+  "1049": [
+    {
+      "preferred_name": "Pathology",
+      "trigger": "[\"Pathology\"-tx-1-\"pathology\"-noun-0]",
+      "cui": "C0030664",
+      "semtypes": "[bmod]",
+      "pos_info": "63/9"
+    },
+    {
+      "preferred_name": "Academic degree",
+      "trigger": "[\"Degree\"-tx-1-\"degree\"-noun-0]",
+      "cui": "C0542560",
+      "semtypes": "[inpr]",
+      "pos_info": "28/6"
+    },
+    {
+      "preferred_name": "low confidentiality",
+      "trigger": "[\"low\"-tx-1-\"low\"-adj-0]",
+      "cui": "C1550472",
+      "semtypes": "[inpr]",
+      "pos_info": "24/3"
+    }
+  ],
+  "1062": [],
+  "1086": [
+    {
+      "preferred_name": "sildenafil",
+      "trigger": "[\"SILDENAFIL\"-tx-1-\"Sildenafil\"-noun-0]",
+      "cui": "C0529793",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    },
+    {
+      "preferred_name": "Mathematical Operator",
+      "trigger": "[\"Function\"-tx-1-\"function\"-noun-0]",
+      "cui": "C1705273",
+      "semtypes": "[inpr]",
+      "pos_info": "30/8"
+    },
+    {
+      "preferred_name": "Antidepressive Agents",
+      "trigger": "[\"ANTIDEPRESSANTS\"-tx-1-\"antidepressants\"-noun-0]",
+      "cui": "C0003289",
+      "semtypes": "[phsu]",
+      "pos_info": "111/15"
+    },
+    {
+      "preferred_name": "Selective Serotonin Reuptake Inhibitors",
+      "trigger": "[\"SSRI\"-tx-1-\"SSRI\"-noun-0]",
+      "cui": "C0360105",
+      "semtypes": "[phsu]",
+      "pos_info": "106/4"
+    }
+  ],
+  "1088": [
+    {
+      "preferred_name": "Tumor Progression",
+      "trigger": "[\"Tumors progression\"-tx-1-\"progression tumors\"-noun-0]",
+      "cui": "C0178874",
+      "semtypes": "[neop]",
+      "pos_info": "56/11,71/6"
+    },
+    {
+      "preferred_name": "Importance Rating Score 0",
+      "trigger": "[\"Important\"-tx-1-\"important\"-adj-0]",
+      "cui": "C4084912",
+      "semtypes": "[inpr]",
+      "pos_info": "22/9"
+    }
+  ],
+  "1089": [
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "71/9"
+    }
+  ],
+  "1099": [
+    {
+      "preferred_name": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+      "trigger": "[\"Statins\"-tx-1-\"Statins\"-noun-0]",
+      "cui": "C0360714",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/7"
+    }
+  ],
+  "1100": [
+    {
+      "preferred_name": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+      "trigger": "[\"Statins\"-tx-1-\"Statins\"-noun-0]",
+      "cui": "C0360714",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/7"
+    }
+  ],
+  "1104": [
+    {
+      "preferred_name": "Cerebrovascular accident",
+      "trigger": "[\"STROKE\"-tx-1-\"Stroke\"-noun-0,\"STROKE\"-tx-1-\"stroke\"-noun-0]",
+      "cui": "C0038454",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/6;110/6"
+    },
+    {
+      "preferred_name": "Use - dosing instruction imperative",
+      "trigger": "[\"Use\"-tx-1-\"use\"-noun-0]",
+      "cui": "C1947944",
+      "semtypes": "[inpr]",
+      "pos_info": "[28/3],[137/3]"
+    },
+    {
+      "preferred_name": "warfarin",
+      "trigger": "[\"WARFARIN\"-tx-1-\"warfarin\"-noun-0]",
+      "cui": "C0043031",
+      "semtypes": "[hops,orch,phsu]",
+      "pos_info": "144/8"
+    },
+    {
+      "preferred_name": "oral anticoagulants",
+      "trigger": "[\"Oral anticoagulants\"-tx-1-\"oral anticoagulants\"-noun-0]",
+      "cui": "C0354604",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "42/19"
+    }
+  ],
+  "1107": [],
+  "1110": [
+    {
+      "preferred_name": "Nutrition outcomes",
+      "trigger": "[\"Nutrition\"-tx-1-\"nutrition\"-noun-0]",
+      "cui": "C0518896",
+      "semtypes": "[inpr]",
+      "pos_info": "12/9"
+    },
+    {
+      "preferred_name": "Chronic disease",
+      "trigger": "[\"Chronic disease\"-tx-1-\"chronic disease\"-noun-1]",
+      "cui": "C0008679",
+      "semtypes": "[dsyn]",
+      "pos_info": "43/15"
+    }
+  ],
+  "1121": [
+    {
+      "preferred_name": "FDA Establishment Activity Terminology",
+      "trigger": "[\"ACTIVITY\"-tx-1-\"activity\"-noun-0]",
+      "cui": "C4049939",
+      "semtypes": "[inpr]",
+      "pos_info": "10/8"
+    },
+    {
+      "preferred_name": "Release (procedure)",
+      "trigger": "[\"Release\"-tx-1-\"release\"-noun-0]",
+      "cui": "C1963578",
+      "semtypes": "[topp]",
+      "pos_info": "34/7"
+    },
+    {
+      "preferred_name": "brain-derived neurotrophic factor, human",
+      "trigger": "[\"Brain-Derived Neurotrophic Factor\"-tx-1-\"brain derived neurotrophic factor\"-noun-0]",
+      "cui": "C3486709",
+      "semtypes": "[aapp,bacs,phsu]",
+      "pos_info": "45/33"
+    }
+  ],
+  "1130": [
+    {
+      "preferred_name": "Antibody-Directed Enzyme Prodrug Therapy",
+      "trigger": "[\"ADEPT\"-tx-1-\"adept\"-adj-0]",
+      "cui": "C1516003",
+      "semtypes": "[topp]",
+      "pos_info": "51/5"
+    },
+    {
+      "preferred_name": "Response process",
+      "trigger": "[\"responses\"-tx-1-\"responses\"-noun-0]",
+      "cui": "C0871261",
+      "semtypes": "[orga]",
+      "pos_info": "90/9"
+    }
+  ],
+  "1132": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "[37/2],[71/2]"
+    }
+  ],
+  "1137": [
+    {
+      "preferred_name": "Glioblastoma Multiforme",
+      "trigger": "[\"Glioblastoma\"-tx-1-\"glioblastoma\"-noun-0]",
+      "cui": "C1621958",
+      "semtypes": "[neop]",
+      "pos_info": "34/12"
+    }
+  ],
+  "1140": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "44/2"
+    },
+    {
+      "preferred_name": "Help document",
+      "trigger": "[\"help\"-tx-1-\"helps\"-verb-0]",
+      "cui": "C1552861",
+      "semtypes": "[inpr]",
+      "pos_info": "38/5"
+    },
+    {
+      "preferred_name": "PREVENT (product)",
+      "trigger": "[\"PREVENT\"-tx-1-\"prevent\"-verb-0]",
+      "cui": "C0309872",
+      "semtypes": "[phsu]",
+      "pos_info": "47/7"
+    },
+    {
+      "preferred_name": "Prostate carcinoma",
+      "trigger": "[\"Prostate Cancer\"-tx-1-\"prostate cancer\"-noun-0]",
+      "cui": "C0600139",
+      "semtypes": "[neop]",
+      "pos_info": "55/15"
+    },
+    {
+      "preferred_name": "alpha-tocopherol acetate",
+      "trigger": "[\"Alpha tocopheryl acetate\"-tx-1-[945,45,116,111,99,111,112,104,101,114,121,108,32,97,99,101,116,97,116,101]-noun-0]",
+      "cui": "C1999896",
+      "semtypes": "[orch,phsu,vita]",
+      "pos_info": "17/20"
+    }
+  ],
+  "1144": [
+    {
+      "preferred_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "trigger": "[\"Type II Diabetes\"-tx-1-\"type II diabetes\"-noun-1]",
+      "cui": "C0011860",
+      "semtypes": "[dsyn]",
+      "pos_info": "78/16"
+    }
+  ],
+  "1146": [
+    {
+      "preferred_name": "Visit User Code - Teaching",
+      "trigger": "[\"Teaching\"-tx-1-\"teaching\"-adj-0]",
+      "cui": "C1548344",
+      "semtypes": "[inpr]",
+      "pos_info": "56/8"
+    }
+  ],
+  "1150": [
+    {
+      "preferred_name": "Leukemia, Myelocytic, Acute",
+      "trigger": "[\"Acute myelogenous leukaemia\"-tx-1-\"acute myelogenous leukemia\"-noun-0]",
+      "cui": "C0023467",
+      "semtypes": "[neop]",
+      "pos_info": "59/26"
+    }
+  ],
+  "1163": [],
+  "1175": [
+    {
+      "preferred_name": "PHOTOPAROXYSMAL RESPONSE 1",
+      "trigger": "[\"PPR\"-tx-1-\"PPR\"-noun-0]",
+      "cui": "C1868677",
+      "semtypes": "[dsyn]",
+      "pos_info": "5/3"
+    }
+  ],
+  "1179": [
+    {
+      "preferred_name": "Superkingdom (taxonomic category)",
+      "trigger": "[\"Domain\"-tx-1-\"domain\"-noun-0]",
+      "cui": "C1883221",
+      "semtypes": "[cnce]",
+      "pos_info": "47/6"
+    },
+    {
+      "preferred_name": "HELIX SYNDROME",
+      "trigger": "[\"HELIX\"-tx-1-\"helices\"-noun-0]",
+      "cui": "C4522164",
+      "semtypes": "[dsyn]",
+      "pos_info": "39/7"
+    }
+  ],
+  "1180": [
+    {
+      "preferred_name": "RNA Virus Infections",
+      "trigger": "[\"Virus Infection, RNA\"-tx-1-\"RNA virus infection\"-noun-0]",
+      "cui": "C0035690",
+      "semtypes": "[dsyn]",
+      "pos_info": "29/19"
+    }
+  ],
+  "1185": [
+    {
+      "preferred_name": "Kidney Transplantation",
+      "trigger": "[\"kidney transplants\"-tx-1-\"kidney transplants\"-noun-0]",
+      "cui": "C0022671",
+      "semtypes": "[topp]",
+      "pos_info": "85/18"
+    },
+    {
+      "preferred_name": "Removal of kidney from donor",
+      "trigger": "[\"kidney donation\"-tx-1-\"kidney donation\"-noun-0]",
+      "cui": "C0411257",
+      "semtypes": "[topp]",
+      "pos_info": "142/6,156/8"
+    },
+    {
+      "preferred_name": "Program",
+      "trigger": "[\"Program\"-tx-1-\"program\"-noun-0]",
+      "cui": "C2728259",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "165/7"
+    }
+  ],
+  "1187": [],
+  "1191": [
+    {
+      "preferred_name": "Life Expectancy Less than Ten Years",
+      "trigger": "[\"< 10 years\"-tx-1-\"10 years\"-noun-0]",
+      "cui": "C4086544",
+      "semtypes": "[inpr]",
+      "pos_info": "57/8"
+    }
+  ],
+  "1194": [
+    {
+      "preferred_name": "Immunogenicity Specimen Assessments Domain",
+      "trigger": "[\"IS\"-tx-1-\"is\"-aux-0]",
+      "cui": "C3812801",
+      "semtypes": "[inpr]",
+      "pos_info": "36/2"
+    },
+    {
+      "preferred_name": "Sequence Arm",
+      "trigger": "[\"arm\"-tx-1-\"arm\"-noun-0]",
+      "cui": "C4553528",
+      "semtypes": "[inpr]",
+      "pos_info": "5/3"
+    },
+    {
+      "preferred_name": "Charge (electrical)",
+      "trigger": "[\"Charge\"-tx-1-\"charge\"-noun-0]",
+      "cui": "C1706211",
+      "semtypes": "[orga]",
+      "pos_info": "115/6"
+    }
+  ],
+  "1196": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "33/2"
+    },
+    {
+      "preferred_name": "Study",
+      "trigger": "[\"Study\"-tx-1-\"study\"-verb-0]",
+      "cui": "C2603343",
+      "semtypes": "[resa]",
+      "pos_info": "36/5"
+    },
+    {
+      "preferred_name": "SAFE-Biopharma Standard",
+      "trigger": "[\"SAFE\"-tx-1-\"safe\"-adj-0]",
+      "cui": "C4684764",
+      "semtypes": "[inpr]",
+      "pos_info": "21/4"
+    }
+  ],
+  "1197": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "33/2"
+    },
+    {
+      "preferred_name": "Study",
+      "trigger": "[\"Study\"-tx-1-\"study\"-verb-0]",
+      "cui": "C2603343",
+      "semtypes": "[resa]",
+      "pos_info": "36/5"
+    },
+    {
+      "preferred_name": "SAFE-Biopharma Standard",
+      "trigger": "[\"SAFE\"-tx-1-\"safe\"-adj-0]",
+      "cui": "C4684764",
+      "semtypes": "[inpr]",
+      "pos_info": "21/4"
+    }
+  ],
+  "1199": [
+    {
+      "preferred_name": "prevention strategy",
+      "trigger": "[\"prevention strategies\"-tx-1-\"prevention strategies\"-noun-0]",
+      "cui": "C0679716",
+      "semtypes": "[inpr]",
+      "pos_info": "85/21"
+    },
+    {
+      "preferred_name": "colchicine",
+      "trigger": "[\"COLCHICINE\"-tx-1-\"colchicine\"-noun-0]",
+      "cui": "C0009262",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "17/10"
+    },
+    {
+      "preferred_name": "Secondary Prevention",
+      "trigger": "[\"SECONDARY PREVENTION\"-tx-1-\"secondary prevention\"-noun-0]",
+      "cui": "C0679699",
+      "semtypes": "[topp]",
+      "pos_info": "75/20"
+    },
+    {
+      "preferred_name": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+      "trigger": "[\"Statins\"-tx-1-\"statins\"-noun-0]",
+      "cui": "C0360714",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "125/7"
+    },
+    {
+      "preferred_name": "Neoplasm Metastasis",
+      "trigger": "[\"secondary\"-tx-1-\"secondary\"-adj-0]",
+      "cui": "C0027627",
+      "semtypes": "[neop]",
+      "pos_info": "75/9"
+    }
+  ],
+  "1200": [
+    {
+      "preferred_name": "Montreal Cognitive Assessment Orientation Test",
+      "trigger": "[\"Orientation\"-tx-1-\"orientation\"-noun-0]",
+      "cui": "C5202882",
+      "semtypes": "[inpr]",
+      "pos_info": "[13/11],[90/11]"
+    }
+  ],
+  "1202": [
+    {
+      "preferred_name": "Inflammatory Response",
+      "trigger": "[\"Inflammatory Response\"-tx-1-\"inflammatory response\"-noun-0]",
+      "cui": "C1155266",
+      "semtypes": "[patf]",
+      "pos_info": "61/12,81/8"
+    },
+    {
+      "preferred_name": "Patient Reported Outcome",
+      "trigger": "[\"PRO\"-tx-1-\"pro\"-adj-0]",
+      "cui": "C2987124",
+      "semtypes": "[inpr]",
+      "pos_info": "57/3"
+    },
+    {
+      "preferred_name": "Granuloma",
+      "trigger": "[\"GRANULOMA\"-tx-1-\"granuloma\"-noun-0]",
+      "cui": "C0018188",
+      "semtypes": "[patf]",
+      "pos_info": "19/9"
+    }
+  ],
+  "1204": [
+    {
+      "preferred_name": "Patient Reported Outcome Stem",
+      "trigger": "[\"stem\"-tx-1-\"stem\"-noun-0]",
+      "cui": "C4553151",
+      "semtypes": "[inpr]",
+      "pos_info": "77/4"
+    }
+  ],
+  "1207": [],
+  "1213": [
+    {
+      "preferred_name": "Inflammatory disorder",
+      "trigger": "[\"Inflammatory Diseases\"-tx-1-\"inflammatory diseases\"-noun-0]",
+      "cui": "C1290884",
+      "semtypes": "[dsyn]",
+      "pos_info": "82/21"
+    }
+  ],
+  "1216": [
+    {
+      "preferred_name": "Beta greek letter",
+      "trigger": "[\"Beta\"-tx-1-\"beta\"-noun-0]",
+      "cui": "C0439096",
+      "semtypes": "[inpr]",
+      "pos_info": "56/4"
+    }
+  ],
+  "1221": [
+    {
+      "preferred_name": "Primary Neoplasm",
+      "trigger": "[\"Primary Tumour\"-tx-1-\"primary tumor\"-noun-0]",
+      "cui": "C0677930",
+      "semtypes": "[neop]",
+      "pos_info": "84/13"
+    },
+    {
+      "preferred_name": "Genomics",
+      "trigger": "[\"genomic\"-tx-1-\"genomic\"-adj-0]",
+      "cui": "C0887950",
+      "semtypes": "[bmod]",
+      "pos_info": "5/7"
+    }
+  ],
+  "1225": [
+    {
+      "preferred_name": "Colorectal Carcinoma",
+      "trigger": "[\"Colorectal Carcinoma\"-tx-1-\"colorectal carcinoma\"-noun-0]",
+      "cui": "C0009402",
+      "semtypes": "[neop]",
+      "pos_info": "39/20"
+    }
+  ],
+  "1226": [
+    {
+      "preferred_name": "Myeloid neoplasm",
+      "trigger": "[\"Myeloid Cancers\"-tx-1-\"myeloid cancers\"-noun-0]",
+      "cui": "C2939461",
+      "semtypes": "[neop]",
+      "pos_info": "86/15"
+    },
+    {
+      "preferred_name": "biology (field)",
+      "trigger": "[\"Biological\"-tx-1-\"biological\"-adj-0]",
+      "cui": "C0005532",
+      "semtypes": "[bmod]",
+      "pos_info": "53/10"
+    },
+    {
+      "preferred_name": "Tetanus Toxoid Helper Peptide",
+      "trigger": "[\"Tet\"-tx-1-\"TET\"-noun-0]",
+      "cui": "C1515333",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "17/3"
+    }
+  ],
+  "1232": [
+    {
+      "preferred_name": "Crohn Disease",
+      "trigger": "[\"Crohns Disease\"-tx-1-\"Crohn's Disease\"-noun-0]",
+      "cui": "C0010346",
+      "semtypes": "[dsyn]",
+      "pos_info": "67/15"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "40/2"
+    }
+  ],
+  "1241": [
+    {
+      "preferred_name": "Lineage",
+      "trigger": "[\"Lineage\"-tx-1-\"lineage\"-noun-0]",
+      "cui": "C1881379",
+      "semtypes": "[cnce]",
+      "pos_info": "16/7"
+    },
+    {
+      "preferred_name": "Participation Type - origin",
+      "trigger": "[\"origin\"-tx-1-\"origin\"-noun-0]",
+      "cui": "C1550512",
+      "semtypes": "[inpr]",
+      "pos_info": "72/6"
+    }
+  ],
+  "1245": [],
+  "1259": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "61/2"
+    },
+    {
+      "preferred_name": "tamoxifen",
+      "trigger": "[\"TAMOXIFEN\"-tx-1-\"tamoxifen\"-noun-0]",
+      "cui": "C0039286",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "75/9"
+    },
+    {
+      "preferred_name": "Dependent for Toilet Use",
+      "trigger": "[\"dependent\"-tx-1-\"dependent\"-adj-0]",
+      "cui": "C4321395",
+      "semtypes": "[inpr]",
+      "pos_info": "110/9"
+    },
+    {
+      "preferred_name": "CDISC Relationship Class",
+      "trigger": "[\"RELATIONSHIP\"-tx-1-\"relationship\"-noun-0]",
+      "cui": "C3540605",
+      "semtypes": "[inpr]",
+      "pos_info": "5/12"
+    },
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "28/13"
+    },
+    {
+      "preferred_name": "gene therapy",
+      "trigger": "[\"GENETIC\"-tx-1-\"genetic\"-adj-0]",
+      "cui": "C0017296",
+      "semtypes": "[topp]",
+      "pos_info": "137/7"
+    }
+  ],
+  "1262": [],
+  "1266": [
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-noun-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "5/4"
+    },
+    {
+      "preferred_name": "Malignant neoplasm of breast",
+      "trigger": "[\"Cancer of the Breast\"-tx-1-\"The of breast cancer\"-noun-0]",
+      "cui": "C0006142",
+      "semtypes": "[neop]",
+      "pos_info": "1/3,10/16"
+    },
+    {
+      "preferred_name": "breast cancer (non-specific) premenopausal",
+      "trigger": "[\"premenopausal breast cancer\"-tx-1-\"premenopausal breast cancer\"-noun-0]",
+      "cui": "C0741682",
+      "semtypes": "[neop]",
+      "pos_info": "132/27"
+    }
+  ],
+  "1270": [
+    {
+      "preferred_name": "Females",
+      "trigger": "[\"FEMALE\"-tx-1-\"female\"-noun-0]",
+      "cui": "C0086287",
+      "semtypes": "[orga]",
+      "pos_info": "68/6"
+    },
+    {
+      "preferred_name": "Subject Risk",
+      "trigger": "[\"risk\"-tx-1-\"risk\"-noun-0]",
+      "cui": "C4552904",
+      "semtypes": "[cnce]",
+      "pos_info": "5/4"
+    },
+    {
+      "preferred_name": "Toxic Epidermal Necrolysis",
+      "trigger": "[\"TEN\"-tx-1-\"ten\"-noun-0]",
+      "cui": "C0014518",
+      "semtypes": "[dsyn]",
+      "pos_info": "50/3"
+    },
+    {
+      "preferred_name": "Male, Self-Reported",
+      "trigger": "[\"Male\"-tx-1-\"male\"-noun-0]",
+      "cui": "C1706429",
+      "semtypes": "[orga]",
+      "pos_info": "13/4"
+    }
+  ],
+  "1271": [
+    {
+      "preferred_name": "Amyloidosis",
+      "trigger": "[\"AMYLOIDOSIS\"-tx-1-\"amyloidosis\"-noun-0]",
+      "cui": "C0002726",
+      "semtypes": "[dsyn]",
+      "pos_info": "40/11"
+    },
+    {
+      "preferred_name": "Magnetic Resonance Imaging Study File",
+      "trigger": "[\"MRI\"-tx-1-\"MRI\"-noun-0]",
+      "cui": "C3890166",
+      "semtypes": "[inpr]",
+      "pos_info": "134/3"
+    },
+    {
+      "preferred_name": "Academic degree",
+      "trigger": "[\"Degree\"-tx-1-\"degree\"-noun-0]",
+      "cui": "C0542560",
+      "semtypes": "[inpr]",
+      "pos_info": "76/6"
+    },
+    {
+      "preferred_name": "Refractive surgery enhancement",
+      "trigger": "[\"Enhancement\"-tx-1-\"enhancement\"-noun-0]",
+      "cui": "C1627358",
+      "semtypes": "[topp]",
+      "pos_info": "119/11"
+    }
+  ],
+  "1272": [
+    {
+      "preferred_name": "FDA Establishment Activity Terminology",
+      "trigger": "[\"ACTIVITY\"-tx-1-\"activity\"-noun-0]",
+      "cui": "C4049939",
+      "semtypes": "[inpr]",
+      "pos_info": "52/8"
+    }
+  ],
+  "1273": [],
+  "1274": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "116:7"
+    },
+    {
+      "preferred_name": "Specimen Source Codes - Tube",
+      "trigger": "[\"Tube NOS\"-tx-1-\"tube\"-noun-0]",
+      "cui": "C1547937",
+      "semtypes": "[inpr]",
+      "pos_info": "22/4"
+    }
+  ],
+  "1278": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"cause\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "63/5"
+    },
+    {
+      "preferred_name": "Adverse event",
+      "trigger": "[\"adverse events\"-tx-1-\"adverse events\"-noun-0]",
+      "cui": "C0877248",
+      "semtypes": "[patf]",
+      "pos_info": "73/7,92/6"
+    },
+    {
+      "preferred_name": "Blockade",
+      "trigger": "[\"Blockade\"-tx-1-\"blockade\"-noun-0]",
+      "cui": "C3540676",
+      "semtypes": "[elii,phsu]",
+      "pos_info": "45/8"
+    },
+    {
+      "preferred_name": "Cancer Therapeutic Procedure",
+      "trigger": "[\"Cancer Treatment\"-tx-1-\"treatment cancer\"-noun-0]",
+      "cui": "C0920425",
+      "semtypes": "[topp]",
+      "pos_info": "5/9,18/6"
+    },
+    {
+      "preferred_name": "Autoimmune reaction",
+      "trigger": "[\"Autoimmune\"-tx-1-\"autoimmune\"-adj-0]",
+      "cui": "C0443146",
+      "semtypes": "[patf]",
+      "pos_info": "81/10"
+    }
+  ],
+  "1279": [
+    {
+      "preferred_name": "Adverse event",
+      "trigger": "[\"adverse events\"-tx-1-\"adverse events\"-noun-0]",
+      "cui": "C0877248",
+      "semtypes": "[patf]",
+      "pos_info": "67/7,86/6"
+    },
+    {
+      "preferred_name": "Blockade",
+      "trigger": "[\"Blockade\"-tx-1-\"blockade\"-noun-0]",
+      "cui": "C3540676",
+      "semtypes": "[elii,phsu]",
+      "pos_info": "45/8"
+    },
+    {
+      "preferred_name": "Cancer Therapeutic Procedure",
+      "trigger": "[\"Cancer Treatment\"-tx-1-\"treatment cancer\"-noun-0]",
+      "cui": "C0920425",
+      "semtypes": "[topp]",
+      "pos_info": "5/9,18/6"
+    },
+    {
+      "preferred_name": "Autoimmune reaction",
+      "trigger": "[\"Autoimmune\"-tx-1-\"autoimmune\"-adj-0]",
+      "cui": "C0443146",
+      "semtypes": "[patf]",
+      "pos_info": "75/10"
+    }
+  ],
+  "1280": [
+    {
+      "preferred_name": "Ur\u00e9e",
+      "trigger": "[\"Uree\"-tx-1-\"UreE\"-noun-0]",
+      "cui": "C1170701",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "77/4"
+    }
+  ],
+  "1281": [],
+  "1282": [
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"TREAT\"-tx-1-\"treat\"-verb-0,\"Therapeutic\"-tx-1-\"Therapeutic\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "40/5;1/11"
+    },
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "37/2"
+    },
+    {
+      "preferred_name": "Gangrene",
+      "trigger": "[\"Gangrenous\"-tx-1-\"gangrenous\"-adj-0]",
+      "cui": "C0017086",
+      "semtypes": "[dsyn]",
+      "pos_info": "55/10"
+    },
+    {
+      "preferred_name": "Pyoderma",
+      "trigger": "[\"PYODERMA\"-tx-1-\"pyoderma\"-noun-0]",
+      "cui": "C0034212",
+      "semtypes": "[dsyn]",
+      "pos_info": "46/8"
+    },
+    {
+      "preferred_name": "Anecdotes",
+      "trigger": "[\"anecdote\"-tx-1-\"anecdotal\"-adj-0]",
+      "cui": "C0002867",
+      "semtypes": "[inpr]",
+      "pos_info": "78/9"
+    },
+    {
+      "preferred_name": "Pharmaceutical Preparations",
+      "trigger": "[\"Drug\"-tx-1-\"drug\"-noun-0]",
+      "cui": "C0013227",
+      "semtypes": "[phsu]",
+      "pos_info": "24/4"
+    },
+    {
+      "preferred_name": "dapsone",
+      "trigger": "[\"DAPSONE\"-tx-1-\"Dapsone\"-noun-0]",
+      "cui": "C0010980",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "29/7"
+    }
+  ],
+  "1290": [
+    {
+      "preferred_name": "Use - dosing instruction imperative",
+      "trigger": "[\"Use\"-tx-1-\"use\"-noun-0]",
+      "cui": "C1947944",
+      "semtypes": "[inpr]",
+      "pos_info": "67/3"
+    },
+    {
+      "preferred_name": "CDISC Relationship Class",
+      "trigger": "[\"RELATIONSHIP\"-tx-1-\"relationship\"-noun-0]",
+      "cui": "C3540605",
+      "semtypes": "[inpr]",
+      "pos_info": "21/12"
+    },
+    {
+      "preferred_name": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+      "trigger": "[\"Statin\"-tx-1-\"statin\"-noun-0]",
+      "cui": "C0360714",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "60/6"
+    }
+  ],
+  "1292": [
+    {
+      "preferred_name": "nitric oxide",
+      "trigger": "[\"NO\"-tx-1-\"no\"-det-0]",
+      "cui": "C0028128",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "10/2"
+    }
+  ],
+  "1298": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "47:2"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "47:3"
+    },
+    {
+      "preferred_name": "Deep Vein Thrombosis",
+      "trigger": "[\"DEEP VEIN THROMBOSIS\"-tx-1-\"deep vein thrombosis\"-noun-1]",
+      "cui": "C0149871",
+      "semtypes": "[dsyn]",
+      "pos_info": "67/20"
+    },
+    {
+      "preferred_name": "Acute Cerebrovascular Accidents",
+      "trigger": "[\"Acute stroke\"-tx-1-\"acute stroke\"-noun-1]",
+      "cui": "C0751956",
+      "semtypes": "[dsyn]",
+      "pos_info": "149/12"
+    },
+    {
+      "preferred_name": "Length of Trial",
+      "trigger": "[\"LENGTH\"-tx-1-\"length\"-noun-0]",
+      "cui": "C1706316",
+      "semtypes": "[resa]",
+      "pos_info": "7/6"
+    }
+  ],
+  "1303": [
+    {
+      "preferred_name": "Tirasemtiv",
+      "trigger": "[\"TIRASEMTIV\"-tx-1-\"Tirasemtiv\"-noun-0]",
+      "cui": "C3713987",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/10"
+    },
+    {
+      "preferred_name": "Muscular fasciculation",
+      "trigger": "[\"Muscle twitch\"-tx-1-\"twitch muscle\"-noun-1]",
+      "cui": "C0015644",
+      "semtypes": "[sosy]",
+      "pos_info": "34/13"
+    }
+  ],
+  "1316": [
+    {
+      "preferred_name": "Memory G-code",
+      "trigger": "[\"Memory\"-tx-1-\"memory\"-noun-0]",
+      "cui": "C4282129",
+      "semtypes": "[inpr]",
+      "pos_info": "35/6"
+    },
+    {
+      "preferred_name": "Phenotype",
+      "trigger": "[\"Phenotype\"-tx-1-\"phenotype\"-noun-0]",
+      "cui": "C0031437",
+      "semtypes": "[orga]",
+      "pos_info": "47/9"
+    }
+  ],
+  "1319": [
+    {
+      "preferred_name": "Transplantation",
+      "trigger": "[\"transplanted\"-tx-1-\"Transplanted\"-adj-0]",
+      "cui": "C0040732",
+      "semtypes": "[topp]",
+      "pos_info": "1/12"
+    }
+  ],
+  "1320": [
+    {
+      "preferred_name": "Neural Network Simulation",
+      "trigger": "[\"Neural Network\"-tx-1-\"neural network\"-noun-0]",
+      "cui": "C0870951",
+      "semtypes": "[inpr]",
+      "pos_info": "70/14"
+    },
+    {
+      "preferred_name": "Transplantation",
+      "trigger": "[\"transplanted\"-tx-1-\"Transplanted\"-adj-0]",
+      "cui": "C0040732",
+      "semtypes": "[topp]",
+      "pos_info": "1/12"
+    },
+    {
+      "preferred_name": "animal allergen extracts",
+      "trigger": "[\"animals\"-tx-1-\"animals\"-noun-0]",
+      "cui": "C3540698",
+      "semtypes": "[phsu]",
+      "pos_info": "95/7"
+    }
+  ],
+  "1332": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "56:4"
+    },
+    {
+      "preferred_name": "Human Interleukin-10 (Nonglycosylated)",
+      "trigger": "[\"IL-10\"-tx-1-\"IL-10\"-noun-0]",
+      "cui": "C2983956",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "115/5"
+    },
+    {
+      "preferred_name": "Recombinant Interleukin-1",
+      "trigger": "[\"Interleukin 1\"-tx-1-\"interleukin-1\"-noun-0]",
+      "cui": "C1522428",
+      "semtypes": "[aapp,phsu]",
+      "pos_info": "41/13"
+    },
+    {
+      "preferred_name": "Recombinant Tumor Necrosis Factor-Alpha",
+      "trigger": "[\"TNF-Alpha\"-tx-1-[84,78,70,45,945]-noun-0]",
+      "cui": "C1522669",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "30/5"
+    },
+    {
+      "preferred_name": "interleukin-6, human",
+      "trigger": "[\"IL-6\"-tx-1-\"IL-6\"-noun-0]",
+      "cui": "C2983957",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "106/4"
+    },
+    {
+      "preferred_name": "Cardiac Arrest",
+      "trigger": "[\"arrested\"-tx-1-\"inhibit\"-verb-0]",
+      "cui": "C0018790",
+      "semtypes": "[dsyn]",
+      "pos_info": "98/7"
+    },
+    {
+      "preferred_name": "Recombinant Cytokines",
+      "trigger": "[\"Cytokines\"-tx-1-\"cytokines\"-noun-0]",
+      "cui": "C1524094",
+      "semtypes": "[aapp,imft,phsu]",
+      "pos_info": "83/9"
+    },
+    {
+      "preferred_name": "Patient Reported Outcome",
+      "trigger": "[\"PRO\"-tx-1-\"pro\"-adj-0]",
+      "cui": "C2987124",
+      "semtypes": "[inpr]",
+      "pos_info": "66/3"
+    }
+  ],
+  "1335": [
+    {
+      "preferred_name": "Transplantation",
+      "trigger": "[\"Transplantation\"-tx-1-\"transplantation\"-noun-0]",
+      "cui": "C0040732",
+      "semtypes": "[topp]",
+      "pos_info": "47/15"
+    },
+    {
+      "preferred_name": "Value Above Reference Range",
+      "trigger": "[\"HIGH\"-tx-1-\"high\"-adj-0]",
+      "cui": "C2700149",
+      "semtypes": "[inpr]",
+      "pos_info": "22/4"
+    }
+  ],
+  "1336": [
+    {
+      "preferred_name": "Transplantation",
+      "trigger": "[\"Transplantation\"-tx-1-\"transplantation\"-noun-0]",
+      "cui": "C0040732",
+      "semtypes": "[topp]",
+      "pos_info": "40/15"
+    }
+  ],
+  "1337": [
+    {
+      "preferred_name": "Chemical Moiety",
+      "trigger": "[\"moiety\"-tx-1-\"moiety\"-noun-0]",
+      "cui": "C3641152",
+      "semtypes": "[cnce]",
+      "pos_info": "61/6"
+    },
+    {
+      "preferred_name": "Links List",
+      "trigger": "[\"Link\"-tx-1-\"linked\"-adj-0]",
+      "cui": "C1517892",
+      "semtypes": "[inpr]",
+      "pos_info": "40/6"
+    }
+  ],
+  "1339": [
+    {
+      "preferred_name": "Implantation procedure",
+      "trigger": "[\"Insertion\"-tx-1-\"insertion\"-noun-0]",
+      "cui": "C0021107",
+      "semtypes": "[topp]",
+      "pos_info": "100/9"
+    },
+    {
+      "preferred_name": "Interventional procedure",
+      "trigger": "[\"PROCEDURES\"-tx-1-\"procedures\"-noun-0]",
+      "cui": "C0184661",
+      "semtypes": "[topp]",
+      "pos_info": "66/10"
+    }
+  ],
+  "1344": [
+    {
+      "preferred_name": "Primary malignant neoplasm",
+      "trigger": "[\"Cancer\"-tx-1-\"cancer\"-noun-0]",
+      "cui": "C1306459",
+      "semtypes": "[neop]",
+      "pos_info": "70/6"
+    }
+  ],
+  "1352": [
+    {
+      "preferred_name": "West Nile viral infection",
+      "trigger": "[\"West Nile Virus\"-tx-1-\"West Nile virus\"-noun-0]",
+      "cui": "C1096184",
+      "semtypes": "[dsyn]",
+      "pos_info": "58/15"
+    },
+    {
+      "preferred_name": "infection induced",
+      "trigger": "[\"infection induced\"-tx-1-\"induced infection\"-noun-0]",
+      "cui": "C0858744",
+      "semtypes": "[dsyn]",
+      "pos_info": "30/7,43/9"
+    }
+  ],
+  "1359": [
+    {
+      "preferred_name": "varenicline",
+      "trigger": "[\"VARENICLINE\"-tx-1-\"Varenicline\"-noun-0,\"VARENICLINE\"-tx-1-\"varenicline\"-noun-0]",
+      "cui": "C1569608",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "1/11;131/11"
+    },
+    {
+      "preferred_name": "Therapeutic procedure",
+      "trigger": "[\"Treatment\"-tx-1-\"treatment\"-noun-0]",
+      "cui": "C0087111",
+      "semtypes": "[topp]",
+      "pos_info": "61/9"
+    },
+    {
+      "preferred_name": "bupropion",
+      "trigger": "[\"BUPROPION\"-tx-1-\"bupropion\"-noun-0]",
+      "cui": "C0085208",
+      "semtypes": "[orch,phsu]",
+      "pos_info": "146/9"
+    },
+    {
+      "preferred_name": "Single Agent Therapy",
+      "trigger": "[\"Monotherapy\"-tx-1-\"monotherapy\"-noun-0]",
+      "cui": "C4763675",
+      "semtypes": "[topp]",
+      "pos_info": "13/11"
+    },
+    {
+      "preferred_name": "Nicotine replacement therapy",
+      "trigger": "[\"nicotine replacement therapies\"-tx-1-\"nicotine replacement therapies\"-noun-0]",
+      "cui": "C1278444",
+      "semtypes": "[topp]",
+      "pos_info": "95/30"
+    }
+  ],
+  "1362": [],
+  "1363": [],
+  "1368": [
+    {
+      "preferred_name": "Vitamin D Deficiency",
+      "trigger": "[\"VITAMIN D DEFICIENCY\"-tx-1-\"Vitamin D deficiency\"-noun-0]",
+      "cui": "C0042870",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/20"
+    }
+  ],
+  "1370": [
+    {
+      "preferred_name": "Vitamin D Deficiency",
+      "trigger": "[\"VITAMIN D DEFICIENCY\"-tx-1-\"Vitamin D deficiency\"-noun-0]",
+      "cui": "C0042870",
+      "semtypes": "[dsyn]",
+      "pos_info": "1/20"
+    },
+    {
+      "preferred_name": "Birth Weight",
+      "trigger": "[\"birthweight\"-tx-1-\"birth weight\"-noun-0]",
+      "cui": "C0005612",
+      "semtypes": "[orga]",
+      "pos_info": "38/12"
+    }
+  ],
+  "1379": [
+    {
+      "preferred_name": "GDC Treatment Outcome Terminology",
+      "trigger": "[\"TO\"-tx-1-\"to\"-adv-0]",
+      "cui": "C5202850",
+      "semtypes": "[inpr]",
+      "pos_info": "50/2"
+    },
+    {
+      "preferred_name": "Breast Carcinoma",
+      "trigger": "[\"Breast Cancer\"-tx-1-\"breast cancer\"-noun-0]",
+      "cui": "C0678222",
+      "semtypes": "[neop]",
+      "pos_info": "61/13"
+    }
+  ],
+  "1382": [
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"causes\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "7/6"
+    },
+    {
+      "preferred_name": "Refractive surgery enhancement",
+      "trigger": "[\"Enhancement\"-tx-1-\"enhancement\"-noun-0]",
+      "cui": "C1627358",
+      "semtypes": "[topp]",
+      "pos_info": "21/11"
+    },
+    {
+      "preferred_name": "Neoplasms",
+      "trigger": "[\"Tumour\"-tx-1-\"tumour\"-noun-0]",
+      "cui": "C0027651",
+      "semtypes": "[neop]",
+      "pos_info": "14/6"
+    }
+  ],
+  "1385": [
+    {
+      "preferred_name": "Weakness",
+      "trigger": "[\"Weak\"-tx-1-\"weak\"-adj-0]",
+      "cui": "C3714552",
+      "semtypes": "[sosy]",
+      "pos_info": "26/4"
+    }
+  ],
+  "1389": [],
+  "1395": [
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "145:4"
+    },
+    {
+      "preferred_name": null,
+      "trigger": null,
+      "cui": null,
+      "semtypes": null,
+      "pos_info": "145:5"
+    },
+    {
+      "preferred_name": "Microinvasive tumor",
+      "trigger": "[\"Microinvasive\"-tx-1-\"microinvasive\"-adj-0]",
+      "cui": "C0205622",
+      "semtypes": "[neop]",
+      "pos_info": "78/13"
+    },
+    {
+      "preferred_name": "Step (specific stage)",
+      "trigger": "[\"Step\"-tx-1-\"step\"-noun-0]",
+      "cui": "C1261552",
+      "semtypes": "[cnce]",
+      "pos_info": "92/4"
+    },
+    {
+      "preferred_name": "Abnormal Reference Range",
+      "trigger": "[\"ABNORMAL\"-tx-1-\"abnormal\"-adj-0]",
+      "cui": "C2699333",
+      "semtypes": "[inpr]",
+      "pos_info": "40/8"
+    },
+    {
+      "preferred_name": "Response process",
+      "trigger": "[\"Response\"-tx-1-\"response\"-noun-0]",
+      "cui": "C0871261",
+      "semtypes": "[orga]",
+      "pos_info": "55/8"
+    },
+    {
+      "preferred_name": "Science of Etiology",
+      "trigger": "[\"Cause\"-tx-1-\"caused\"-verb-0]",
+      "cui": "C1524003",
+      "semtypes": "[cnce]",
+      "pos_info": "64/6"
+    },
+    {
+      "preferred_name": "Links List",
+      "trigger": "[\"Link\"-tx-1-\"linked\"-verb-0]",
+      "cui": "C1517892",
+      "semtypes": "[inpr]",
+      "pos_info": "27/6"
+    }
+  ]
+}
