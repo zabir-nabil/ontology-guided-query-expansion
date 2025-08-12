@@ -171,7 +171,7 @@ with open(definitions_root_path + f"llm_query_umls_relations_{dataset}.json") as
 
 
 if dataset == 'bioasq':
-    data_path = '/home/zabir/bioasq'
+    data_path = '/home/bioasq'
     corpus, queries, qrels = GenericDataLoader(data_path).load(split="test")
 else:
     url = "https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/{}.zip".format(dataset)

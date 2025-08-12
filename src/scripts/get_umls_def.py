@@ -109,8 +109,6 @@ def get_definitions(search_key):
 # o = get_definitions('heart attack')
 # print(o)
 
-# o = get_definitions('loki')
-# print(o)
 
 def process_json(file_path, dataset):
     # Read JSON data

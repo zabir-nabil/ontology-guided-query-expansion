@@ -103,7 +103,7 @@ with open(f"metamap_umls_definitions_{dataset}.json") as f:
 
 
 if dataset == 'bioasq':
-    data_path = '/home/zabir/bioasq'
+    data_path = '/home/bioasq'
     corpus, queries, qrels = GenericDataLoader(data_path).load(split="test")
 else:
     url = "https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/{}.zip".format(dataset)
